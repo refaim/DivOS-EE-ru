@@ -51,7 +51,8 @@ def main():
         with open(csv_file_path, 'r', encoding='utf-8-sig') as csv_file_object:
             for csv_row in csv.DictReader(csv_file_object, delimiter=';'):
                 for text_source_field, dictionary in {FIELD_ENGLISH: csv_strings_en, FIELD_RUSSIAN: csv_strings_ru}.items():
-                    dictionary.setdefault(csv_row[FIELD_FILE], {})[csv_row[FIELD_UUID]] = csv_row[text_source_field]
+                    if csv_row[text_source_field]:
+                        dictionary.setdefault(csv_row[FIELD_FILE], {})[csv_row[FIELD_UUID]] = csv_row[text_source_field]
 
     if args.mode == 'game_to_text':
         with open(csv_file_path, 'w', encoding='utf-8-sig', newline='\n') as csv_file_object:
@@ -69,7 +70,7 @@ def main():
         for file_path, file_name, tree in get_lsx_element_trees(lsx_directory_path):
             for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(tree):
                 text_node.set('value', csv_strings_ru.get(file_name, {}).get(uuid_value, text_value))
-            tree.write(file_path, encoding='utf-8-sig')
+            tree.write(file_path, encoding='utf-8', xml_declaration=True)
 
     return 0
 
