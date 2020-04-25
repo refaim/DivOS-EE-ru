@@ -1,0 +1,4 @@
+@echo off
+pushd %~dp0
+python tt.py text_to_game strings.csv C:\Users\Roma\OneDrive\Dev\divinity\EpicEncounters\Data\Mods\Epic_Encounters_071a986c-9bfa-425e-ac72-7e26177c08f6\Localization
+popd
