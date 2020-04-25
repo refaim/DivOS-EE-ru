@@ -403,408 +403,408 @@ AMER_Markers.lsx;AMER_WAYP_LED_Entrance;Epic Encounters - Snowbound Ledge;
 AMER_Markers.lsx;AMER_WAYP_SAC_Endgame;Sourcehunter Academy;
 AMER_Markers.lsx;AMER_WAYP_ASC_Endgame;Epic Encounters - The Ascension Engine;
 AMER_PATCH.lsx;AMER_PATCH;"Thank you for playing Epic Encounters!<br><br>It seems that you are missing the most recent Steam Supplement download; but don't worry! It's super easy to get! Check the installation instructions for the download link and how to get it in the right place.<br><br>Having the latest Steam Supplement ensures that you're seeing all of the correct text and Talent requirements, of which there is a lot; don't miss out on all of these delicious changes!<br><br>We wish it wasn't necessary to have an additional download for these things, but unfortunately technical limitations prevent these particular modifications from being part of the main Steam download, sorry!";
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit0;chance to resist: 0% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit1;chance to resist: 1% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit2;chance to resist: 2% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit3;chance to resist: 3% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit4;chance to resist: 4% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit5;chance to resist: 5% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit6;chance to resist: 6% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit7;chance to resist: 7% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit8;chance to resist: 8% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit9;chance to resist: 9% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit10;chance to resist: 10% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit11;chance to resist: 11% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit12;chance to resist: 12% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit13;chance to resist: 13% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit14;chance to resist: 14% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit15;chance to resist: 15% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit16;chance to resist: 16% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit17;chance to resist: 17% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit18;chance to resist: 18% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit19;chance to resist: 19% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit20;chance to resist: 20% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit21;chance to resist: 21% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit22;chance to resist: 22% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit23;chance to resist: 23% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit24;chance to resist: 24% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit25;chance to resist: 25% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit26;chance to resist: 26% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit27;chance to resist: 27% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit28;chance to resist: 28% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit29;chance to resist: 29% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit30;chance to resist: 30% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit31;chance to resist: 31% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit32;chance to resist: 32% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit33;chance to resist: 33% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit34;chance to resist: 34% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit35;chance to resist: 35% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit36;chance to resist: 36% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit37;chance to resist: 37% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit38;chance to resist: 38% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit39;chance to resist: 39% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit40;chance to resist: 40% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit41;chance to resist: 41% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit42;chance to resist: 42% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit43;chance to resist: 43% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit44;chance to resist: 44% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit45;chance to resist: 45% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit46;chance to resist: 46% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit47;chance to resist: 47% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit48;chance to resist: 48% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit49;chance to resist: 49% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit50;chance to resist: 50% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit51;chance to resist: 51% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit52;chance to resist: 52% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit53;chance to resist: 53% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit54;chance to resist: 54% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit55;chance to resist: 55% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit56;chance to resist: 56% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit57;chance to resist: 57% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit58;chance to resist: 58% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit59;chance to resist: 59% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit60;chance to resist: 60% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit61;chance to resist: 61% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit62;chance to resist: 62% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit63;chance to resist: 63% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit64;chance to resist: 64% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit65;chance to resist: 65% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit66;chance to resist: 66% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit67;chance to resist: 67% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit68;chance to resist: 68% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit69;chance to resist: 69% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit70;chance to resist: 70% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit71;chance to resist: 71% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit72;chance to resist: 72% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit73;chance to resist: 73% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit74;chance to resist: 74% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit75;chance to resist: 75% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit76;chance to resist: 76% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit77;chance to resist: 77% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit78;chance to resist: 78% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit79;chance to resist: 79% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit80;chance to resist: 80% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit81;chance to resist: 81% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit82;chance to resist: 82% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit83;chance to resist: 83% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit84;chance to resist: 84% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit85;chance to resist: 85% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit86;chance to resist: 86% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit87;chance to resist: 87% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit88;chance to resist: 88% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit89;chance to resist: 89% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit90;chance to resist: 90% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit91;chance to resist: 91% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit92;chance to resist: 92% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit93;chance to resist: 93% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit94;chance to resist: 94% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit95;chance to resist: 95% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit96;chance to resist: 96% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit97;chance to resist: 97% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit98;chance to resist: 98% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit99;chance to resist: 99% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit100;chance to resist: 100% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit101;chance to resist: 101% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit102;chance to resist: 102% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit103;chance to resist: 103% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit104;chance to resist: 104% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN1;chance to resist: -1% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN2;chance to resist: -2% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN3;chance to resist: -3% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN4;chance to resist: -4% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN5;chance to resist: -5% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN6;chance to resist: -6% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN7;chance to resist: -7% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN8;chance to resist: -8% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN9;chance to resist: -9% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN10;chance to resist: -10% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN11;chance to resist: -11% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN12;chance to resist: -12% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN13;chance to resist: -13% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN14;chance to resist: -14% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN15;chance to resist: -15% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN16;chance to resist: -16% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN17;chance to resist: -17% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN18;chance to resist: -18% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN19;chance to resist: -19% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN20;chance to resist: -20% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN21;chance to resist: -21% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN22;chance to resist: -22% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN23;chance to resist: -23% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN24;chance to resist: -24% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN25;chance to resist: -25% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN26;chance to resist: -26% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN27;chance to resist: -27% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN28;chance to resist: -28% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN29;chance to resist: -29% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN30;chance to resist: -30% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN31;chance to resist: -31% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN32;chance to resist: -32% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN33;chance to resist: -33% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN34;chance to resist: -34% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN35;chance to resist: -35% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN36;chance to resist: -36% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN37;chance to resist: -37% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN38;chance to resist: -38% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN39;chance to resist: -39% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN40;chance to resist: -40% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN41;chance to resist: -41% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN42;chance to resist: -42% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN43;chance to resist: -43% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN44;chance to resist: -44% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN45;chance to resist: -45% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN46;chance to resist: -46% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN47;chance to resist: -47% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN48;chance to resist: -48% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN49;chance to resist: -49% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN50;chance to resist: -50% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit105;chance to resist: 105% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit106;chance to resist: 106% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit107;chance to resist: 107% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit108;chance to resist: 108% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit109;chance to resist: 109% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit110;chance to resist: 110% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit111;chance to resist: 111% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit112;chance to resist: 112% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit113;chance to resist: 113% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit114;chance to resist: 114% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit115;chance to resist: 115% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit116;chance to resist: 116% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit117;chance to resist: 117% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit118;chance to resist: 118% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit119;chance to resist: 119% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit120;chance to resist: 120% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit121;chance to resist: 121% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit122;chance to resist: 122% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit123;chance to resist: 123% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit124;chance to resist: 124% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit125;chance to resist: 125% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit126;chance to resist: 126% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit127;chance to resist: 127% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit128;chance to resist: 128% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit129;chance to resist: 129% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit130;chance to resist: 130% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit131;chance to resist: 131% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit132;chance to resist: 132% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit133;chance to resist: 133% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit134;chance to resist: 134% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit135;chance to resist: 135% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit136;chance to resist: 136% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit137;chance to resist: 137% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit138;chance to resist: 138% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit139;chance to resist: 139% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit140;chance to resist: 140% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit141;chance to resist: 141% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit142;chance to resist: 142% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit143;chance to resist: 143% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit144;chance to resist: 144% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit145;chance to resist: 145% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit146;chance to resist: 146% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit147;chance to resist: 147% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit148;chance to resist: 148% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit149;chance to resist: 149% (Grit).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit150;chance to resist: 150% (Grit).;
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit0;chance to resist: 0% (Grit).;шанс защититься: 0% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit1;chance to resist: 1% (Grit).;шанс защититься: 1% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit2;chance to resist: 2% (Grit).;шанс защититься: 2% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit3;chance to resist: 3% (Grit).;шанс защититься: 3% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit4;chance to resist: 4% (Grit).;шанс защититься: 4% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit5;chance to resist: 5% (Grit).;шанс защититься: 5% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit6;chance to resist: 6% (Grit).;шанс защититься: 6% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit7;chance to resist: 7% (Grit).;шанс защититься: 7% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit8;chance to resist: 8% (Grit).;шанс защититься: 8% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit9;chance to resist: 9% (Grit).;шанс защититься: 9% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit10;chance to resist: 10% (Grit).;шанс защититься: 10% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit11;chance to resist: 11% (Grit).;шанс защититься: 11% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit12;chance to resist: 12% (Grit).;шанс защититься: 12% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit13;chance to resist: 13% (Grit).;шанс защититься: 13% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit14;chance to resist: 14% (Grit).;шанс защититься: 14% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit15;chance to resist: 15% (Grit).;шанс защититься: 15% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit16;chance to resist: 16% (Grit).;шанс защититься: 16% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit17;chance to resist: 17% (Grit).;шанс защититься: 17% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit18;chance to resist: 18% (Grit).;шанс защититься: 18% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit19;chance to resist: 19% (Grit).;шанс защититься: 19% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit20;chance to resist: 20% (Grit).;шанс защититься: 20% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit21;chance to resist: 21% (Grit).;шанс защититься: 21% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit22;chance to resist: 22% (Grit).;шанс защититься: 22% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit23;chance to resist: 23% (Grit).;шанс защититься: 23% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit24;chance to resist: 24% (Grit).;шанс защититься: 24% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit25;chance to resist: 25% (Grit).;шанс защититься: 25% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit26;chance to resist: 26% (Grit).;шанс защититься: 26% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit27;chance to resist: 27% (Grit).;шанс защититься: 27% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit28;chance to resist: 28% (Grit).;шанс защититься: 28% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit29;chance to resist: 29% (Grit).;шанс защититься: 29% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit30;chance to resist: 30% (Grit).;шанс защититься: 30% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit31;chance to resist: 31% (Grit).;шанс защититься: 31% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit32;chance to resist: 32% (Grit).;шанс защититься: 32% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit33;chance to resist: 33% (Grit).;шанс защититься: 33% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit34;chance to resist: 34% (Grit).;шанс защититься: 34% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit35;chance to resist: 35% (Grit).;шанс защититься: 35% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit36;chance to resist: 36% (Grit).;шанс защититься: 36% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit37;chance to resist: 37% (Grit).;шанс защититься: 37% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit38;chance to resist: 38% (Grit).;шанс защититься: 38% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit39;chance to resist: 39% (Grit).;шанс защититься: 39% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit40;chance to resist: 40% (Grit).;шанс защититься: 40% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit41;chance to resist: 41% (Grit).;шанс защититься: 41% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit42;chance to resist: 42% (Grit).;шанс защититься: 42% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit43;chance to resist: 43% (Grit).;шанс защититься: 43% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit44;chance to resist: 44% (Grit).;шанс защититься: 44% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit45;chance to resist: 45% (Grit).;шанс защититься: 45% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit46;chance to resist: 46% (Grit).;шанс защититься: 46% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit47;chance to resist: 47% (Grit).;шанс защититься: 47% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit48;chance to resist: 48% (Grit).;шанс защититься: 48% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit49;chance to resist: 49% (Grit).;шанс защититься: 49% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit50;chance to resist: 50% (Grit).;шанс защититься: 50% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit51;chance to resist: 51% (Grit).;шанс защититься: 51% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit52;chance to resist: 52% (Grit).;шанс защититься: 52% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit53;chance to resist: 53% (Grit).;шанс защититься: 53% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit54;chance to resist: 54% (Grit).;шанс защититься: 54% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit55;chance to resist: 55% (Grit).;шанс защититься: 55% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit56;chance to resist: 56% (Grit).;шанс защититься: 56% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit57;chance to resist: 57% (Grit).;шанс защититься: 57% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit58;chance to resist: 58% (Grit).;шанс защититься: 58% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit59;chance to resist: 59% (Grit).;шанс защититься: 59% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit60;chance to resist: 60% (Grit).;шанс защититься: 60% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit61;chance to resist: 61% (Grit).;шанс защититься: 61% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit62;chance to resist: 62% (Grit).;шанс защититься: 62% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit63;chance to resist: 63% (Grit).;шанс защититься: 63% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit64;chance to resist: 64% (Grit).;шанс защититься: 64% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit65;chance to resist: 65% (Grit).;шанс защититься: 65% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit66;chance to resist: 66% (Grit).;шанс защититься: 66% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit67;chance to resist: 67% (Grit).;шанс защититься: 67% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit68;chance to resist: 68% (Grit).;шанс защититься: 68% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit69;chance to resist: 69% (Grit).;шанс защититься: 69% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit70;chance to resist: 70% (Grit).;шанс защититься: 70% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit71;chance to resist: 71% (Grit).;шанс защититься: 71% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit72;chance to resist: 72% (Grit).;шанс защититься: 72% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit73;chance to resist: 73% (Grit).;шанс защититься: 73% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit74;chance to resist: 74% (Grit).;шанс защититься: 74% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit75;chance to resist: 75% (Grit).;шанс защититься: 75% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit76;chance to resist: 76% (Grit).;шанс защититься: 76% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit77;chance to resist: 77% (Grit).;шанс защититься: 77% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit78;chance to resist: 78% (Grit).;шанс защититься: 78% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit79;chance to resist: 79% (Grit).;шанс защититься: 79% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit80;chance to resist: 80% (Grit).;шанс защититься: 80% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit81;chance to resist: 81% (Grit).;шанс защититься: 81% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit82;chance to resist: 82% (Grit).;шанс защититься: 82% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit83;chance to resist: 83% (Grit).;шанс защититься: 83% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit84;chance to resist: 84% (Grit).;шанс защититься: 84% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit85;chance to resist: 85% (Grit).;шанс защититься: 85% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit86;chance to resist: 86% (Grit).;шанс защититься: 86% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit87;chance to resist: 87% (Grit).;шанс защититься: 87% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit88;chance to resist: 88% (Grit).;шанс защититься: 88% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit89;chance to resist: 89% (Grit).;шанс защититься: 89% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit90;chance to resist: 90% (Grit).;шанс защититься: 90% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit91;chance to resist: 91% (Grit).;шанс защититься: 91% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit92;chance to resist: 92% (Grit).;шанс защититься: 92% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit93;chance to resist: 93% (Grit).;шанс защититься: 93% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit94;chance to resist: 94% (Grit).;шанс защититься: 94% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit95;chance to resist: 95% (Grit).;шанс защититься: 95% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit96;chance to resist: 96% (Grit).;шанс защититься: 96% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit97;chance to resist: 97% (Grit).;шанс защититься: 97% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit98;chance to resist: 98% (Grit).;шанс защититься: 98% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit99;chance to resist: 99% (Grit).;шанс защититься: 99% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit100;chance to resist: 100% (Grit).;шанс защититься: 100% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit101;chance to resist: 101% (Grit).;шанс защититься: 101% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit102;chance to resist: 102% (Grit).;шанс защититься: 102% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit103;chance to resist: 103% (Grit).;шанс защититься: 103% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit104;chance to resist: 104% (Grit).;шанс защититься: 104% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN1;chance to resist: -1% (Grit).;шанс защититься: -1% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN2;chance to resist: -2% (Grit).;шанс защититься: -2% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN3;chance to resist: -3% (Grit).;шанс защититься: -3% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN4;chance to resist: -4% (Grit).;шанс защититься: -4% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN5;chance to resist: -5% (Grit).;шанс защититься: -5% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN6;chance to resist: -6% (Grit).;шанс защититься: -6% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN7;chance to resist: -7% (Grit).;шанс защититься: -7% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN8;chance to resist: -8% (Grit).;шанс защититься: -8% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN9;chance to resist: -9% (Grit).;шанс защититься: -9% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN10;chance to resist: -10% (Grit).;шанс защититься: -10% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN11;chance to resist: -11% (Grit).;шанс защититься: -11% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN12;chance to resist: -12% (Grit).;шанс защититься: -12% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN13;chance to resist: -13% (Grit).;шанс защититься: -13% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN14;chance to resist: -14% (Grit).;шанс защититься: -14% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN15;chance to resist: -15% (Grit).;шанс защититься: -15% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN16;chance to resist: -16% (Grit).;шанс защититься: -16% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN17;chance to resist: -17% (Grit).;шанс защититься: -17% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN18;chance to resist: -18% (Grit).;шанс защититься: -18% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN19;chance to resist: -19% (Grit).;шанс защититься: -19% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN20;chance to resist: -20% (Grit).;шанс защититься: -20% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN21;chance to resist: -21% (Grit).;шанс защититься: -21% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN22;chance to resist: -22% (Grit).;шанс защититься: -22% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN23;chance to resist: -23% (Grit).;шанс защититься: -23% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN24;chance to resist: -24% (Grit).;шанс защититься: -24% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN25;chance to resist: -25% (Grit).;шанс защититься: -25% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN26;chance to resist: -26% (Grit).;шанс защититься: -26% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN27;chance to resist: -27% (Grit).;шанс защититься: -27% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN28;chance to resist: -28% (Grit).;шанс защититься: -28% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN29;chance to resist: -29% (Grit).;шанс защититься: -29% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN30;chance to resist: -30% (Grit).;шанс защититься: -30% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN31;chance to resist: -31% (Grit).;шанс защититься: -31% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN32;chance to resist: -32% (Grit).;шанс защититься: -32% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN33;chance to resist: -33% (Grit).;шанс защититься: -33% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN34;chance to resist: -34% (Grit).;шанс защититься: -34% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN35;chance to resist: -35% (Grit).;шанс защититься: -35% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN36;chance to resist: -36% (Grit).;шанс защититься: -36% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN37;chance to resist: -37% (Grit).;шанс защититься: -37% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN38;chance to resist: -38% (Grit).;шанс защититься: -38% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN39;chance to resist: -39% (Grit).;шанс защититься: -39% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN40;chance to resist: -40% (Grit).;шанс защититься: -40% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN41;chance to resist: -41% (Grit).;шанс защититься: -41% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN42;chance to resist: -42% (Grit).;шанс защититься: -42% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN43;chance to resist: -43% (Grit).;шанс защититься: -43% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN44;chance to resist: -44% (Grit).;шанс защититься: -44% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN45;chance to resist: -45% (Grit).;шанс защититься: -45% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN46;chance to resist: -46% (Grit).;шанс защититься: -46% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN47;chance to resist: -47% (Grit).;шанс защититься: -47% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN48;chance to resist: -48% (Grit).;шанс защититься: -48% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN49;chance to resist: -49% (Grit).;шанс защититься: -49% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGritN50;chance to resist: -50% (Grit).;шанс защититься: -50% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit105;chance to resist: 105% (Grit).;шанс защититься: 105% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit106;chance to resist: 106% (Grit).;шанс защититься: 106% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit107;chance to resist: 107% (Grit).;шанс защититься: 107% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit108;chance to resist: 108% (Grit).;шанс защититься: 108% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit109;chance to resist: 109% (Grit).;шанс защититься: 109% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit110;chance to resist: 110% (Grit).;шанс защититься: 110% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit111;chance to resist: 111% (Grit).;шанс защититься: 111% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit112;chance to resist: 112% (Grit).;шанс защититься: 112% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit113;chance to resist: 113% (Grit).;шанс защититься: 113% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit114;chance to resist: 114% (Grit).;шанс защититься: 114% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit115;chance to resist: 115% (Grit).;шанс защититься: 115% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit116;chance to resist: 116% (Grit).;шанс защититься: 116% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit117;chance to resist: 117% (Grit).;шанс защититься: 117% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit118;chance to resist: 118% (Grit).;шанс защититься: 118% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit119;chance to resist: 119% (Grit).;шанс защититься: 119% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit120;chance to resist: 120% (Grit).;шанс защититься: 120% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit121;chance to resist: 121% (Grit).;шанс защититься: 121% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit122;chance to resist: 122% (Grit).;шанс защититься: 122% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit123;chance to resist: 123% (Grit).;шанс защититься: 123% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit124;chance to resist: 124% (Grit).;шанс защититься: 124% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit125;chance to resist: 125% (Grit).;шанс защититься: 125% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit126;chance to resist: 126% (Grit).;шанс защититься: 126% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit127;chance to resist: 127% (Grit).;шанс защититься: 127% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit128;chance to resist: 128% (Grit).;шанс защититься: 128% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit129;chance to resist: 129% (Grit).;шанс защититься: 129% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit130;chance to resist: 130% (Grit).;шанс защититься: 130% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit131;chance to resist: 131% (Grit).;шанс защититься: 131% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit132;chance to resist: 132% (Grit).;шанс защититься: 132% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit133;chance to resist: 133% (Grit).;шанс защититься: 133% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit134;chance to resist: 134% (Grit).;шанс защититься: 134% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit135;chance to resist: 135% (Grit).;шанс защититься: 135% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit136;chance to resist: 136% (Grit).;шанс защититься: 136% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit137;chance to resist: 137% (Grit).;шанс защититься: 137% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit138;chance to resist: 138% (Grit).;шанс защититься: 138% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit139;chance to resist: 139% (Grit).;шанс защититься: 139% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit140;chance to resist: 140% (Grit).;шанс защититься: 140% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit141;chance to resist: 141% (Grit).;шанс защититься: 141% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit142;chance to resist: 142% (Grit).;шанс защититься: 142% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit143;chance to resist: 143% (Grit).;шанс защититься: 143% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit144;chance to resist: 144% (Grit).;шанс защититься: 144% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit145;chance to resist: 145% (Grit).;шанс защититься: 145% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit146;chance to resist: 146% (Grit).;шанс защититься: 146% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit147;chance to resist: 147% (Grit).;шанс защититься: 147% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit148;chance to resist: 148% (Grit).;шанс защититься: 148% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit149;chance to resist: 149% (Grit).;шанс защититься: 149% («Крепость тела»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit150;chance to resist: 150% (Grit).;шанс защититься: 150% («Крепость тела»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial0;chance to resist: 0% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower1;chance to resist: 1% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower2;chance to resist: 2% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower3;chance to resist: 3% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower4;chance to resist: 4% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower5;chance to resist: 5% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower6;chance to resist: 6% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower7;chance to resist: 7% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower8;chance to resist: 8% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower9;chance to resist: 9% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower10;chance to resist: 10% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower11;chance to resist: 11% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower12;chance to resist: 12% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower13;chance to resist: 13% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower14;chance to resist: 14% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower15;chance to resist: 15% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower16;chance to resist: 16% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower17;chance to resist: 17% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower18;chance to resist: 18% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower19;chance to resist: 19% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower20;chance to resist: 20% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower21;chance to resist: 21% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower22;chance to resist: 22% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower23;chance to resist: 23% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower24;chance to resist: 24% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower25;chance to resist: 25% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower26;chance to resist: 26% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower27;chance to resist: 27% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower28;chance to resist: 28% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower29;chance to resist: 29% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower30;chance to resist: 30% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower31;chance to resist: 31% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower32;chance to resist: 32% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower33;chance to resist: 33% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower34;chance to resist: 34% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower35;chance to resist: 35% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower36;chance to resist: 36% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower37;chance to resist: 37% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower38;chance to resist: 38% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower39;chance to resist: 39% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower40;chance to resist: 40% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower41;chance to resist: 41% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower42;chance to resist: 42% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower43;chance to resist: 43% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower44;chance to resist: 44% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower45;chance to resist: 45% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower46;chance to resist: 46% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower47;chance to resist: 47% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower48;chance to resist: 48% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower49;chance to resist: 49% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower50;chance to resist: 50% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower51;chance to resist: 51% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower52;chance to resist: 52% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower53;chance to resist: 53% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower54;chance to resist: 54% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower55;chance to resist: 55% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower56;chance to resist: 56% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower57;chance to resist: 57% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower58;chance to resist: 58% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower59;chance to resist: 59% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower60;chance to resist: 60% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower61;chance to resist: 61% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower62;chance to resist: 62% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower63;chance to resist: 63% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower64;chance to resist: 64% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower65;chance to resist: 65% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower66;chance to resist: 66% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower67;chance to resist: 67% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower68;chance to resist: 68% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower69;chance to resist: 69% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower70;chance to resist: 70% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower71;chance to resist: 71% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower72;chance to resist: 72% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower73;chance to resist: 73% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower74;chance to resist: 74% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower75;chance to resist: 75% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower76;chance to resist: 76% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower77;chance to resist: 77% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower78;chance to resist: 78% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower79;chance to resist: 79% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower80;chance to resist: 80% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower81;chance to resist: 81% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower82;chance to resist: 82% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower83;chance to resist: 83% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower84;chance to resist: 84% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower85;chance to resist: 85% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower86;chance to resist: 86% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower87;chance to resist: 87% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower88;chance to resist: 88% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower89;chance to resist: 89% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower90;chance to resist: 90% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower91;chance to resist: 91% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower92;chance to resist: 92% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower93;chance to resist: 93% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower94;chance to resist: 94% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower95;chance to resist: 95% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower96;chance to resist: 96% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower97;chance to resist: 97% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower98;chance to resist: 98% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower99;chance to resist: 99% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower100;chance to resist: 100% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower101;chance to resist: 101% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower102;chance to resist: 102% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower103;chance to resist: 103% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower104;chance to resist: 104% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN1;chance to resist: -1% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN2;chance to resist: -2% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN3;chance to resist: -3% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN4;chance to resist: -4% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN5;chance to resist: -5% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN6;chance to resist: -6% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN7;chance to resist: -7% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN8;chance to resist: -8% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN9;chance to resist: -9% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN10;chance to resist: -10% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN11;chance to resist: -11% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN12;chance to resist: -12% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN13;chance to resist: -13% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN14;chance to resist: -14% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN15;chance to resist: -15% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN16;chance to resist: -16% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN17;chance to resist: -17% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN18;chance to resist: -18% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN19;chance to resist: -19% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN20;chance to resist: -20% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN21;chance to resist: -21% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN22;chance to resist: -22% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN23;chance to resist: -23% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN24;chance to resist: -24% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN25;chance to resist: -25% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN26;chance to resist: -26% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN27;chance to resist: -27% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN28;chance to resist: -28% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN29;chance to resist: -29% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN30;chance to resist: -30% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN31;chance to resist: -31% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN32;chance to resist: -32% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN33;chance to resist: -33% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN34;chance to resist: -34% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN35;chance to resist: -35% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN36;chance to resist: -36% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN37;chance to resist: -37% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN38;chance to resist: -38% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN39;chance to resist: -39% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN40;chance to resist: -40% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN41;chance to resist: -41% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN42;chance to resist: -42% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN43;chance to resist: -43% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN44;chance to resist: -44% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN45;chance to resist: -45% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN46;chance to resist: -46% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN47;chance to resist: -47% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN48;chance to resist: -48% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN49;chance to resist: -49% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN50;chance to resist: -50% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower105;chance to resist: 105% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower106;chance to resist: 106% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower107;chance to resist: 107% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower108;chance to resist: 108% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower109;chance to resist: 109% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower110;chance to resist: 110% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower111;chance to resist: 111% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower112;chance to resist: 112% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower113;chance to resist: 113% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower114;chance to resist: 114% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower115;chance to resist: 115% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower116;chance to resist: 116% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower117;chance to resist: 117% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower118;chance to resist: 118% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower119;chance to resist: 119% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower120;chance to resist: 120% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower121;chance to resist: 121% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower122;chance to resist: 122% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower123;chance to resist: 123% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower124;chance to resist: 124% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower125;chance to resist: 125% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower126;chance to resist: 126% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower127;chance to resist: 127% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower128;chance to resist: 128% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower129;chance to resist: 129% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower130;chance to resist: 130% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower131;chance to resist: 131% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower132;chance to resist: 132% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower133;chance to resist: 133% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower134;chance to resist: 134% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower135;chance to resist: 135% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower136;chance to resist: 136% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower137;chance to resist: 137% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower138;chance to resist: 138% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower139;chance to resist: 139% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower140;chance to resist: 140% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower141;chance to resist: 141% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower142;chance to resist: 142% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower143;chance to resist: 143% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower144;chance to resist: 144% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower145;chance to resist: 145% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower146;chance to resist: 146% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower147;chance to resist: 147% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower148;chance to resist: 148% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower149;chance to resist: 149% (Willpower).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower150;chance to resist: 150% (Willpower).;
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower1;chance to resist: 1% (Willpower).;шанс защититься: 1% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower2;chance to resist: 2% (Willpower).;шанс защититься: 2% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower3;chance to resist: 3% (Willpower).;шанс защититься: 3% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower4;chance to resist: 4% (Willpower).;шанс защититься: 4% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower5;chance to resist: 5% (Willpower).;шанс защититься: 5% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower6;chance to resist: 6% (Willpower).;шанс защититься: 6% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower7;chance to resist: 7% (Willpower).;шанс защититься: 7% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower8;chance to resist: 8% (Willpower).;шанс защититься: 8% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower9;chance to resist: 9% (Willpower).;шанс защититься: 9% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower10;chance to resist: 10% (Willpower).;шанс защититься: 10% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower11;chance to resist: 11% (Willpower).;шанс защититься: 11% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower12;chance to resist: 12% (Willpower).;шанс защититься: 12% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower13;chance to resist: 13% (Willpower).;шанс защититься: 13% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower14;chance to resist: 14% (Willpower).;шанс защититься: 14% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower15;chance to resist: 15% (Willpower).;шанс защититься: 15% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower16;chance to resist: 16% (Willpower).;шанс защититься: 16% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower17;chance to resist: 17% (Willpower).;шанс защититься: 17% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower18;chance to resist: 18% (Willpower).;шанс защититься: 18% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower19;chance to resist: 19% (Willpower).;шанс защититься: 19% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower20;chance to resist: 20% (Willpower).;шанс защититься: 20% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower21;chance to resist: 21% (Willpower).;шанс защититься: 21% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower22;chance to resist: 22% (Willpower).;шанс защититься: 22% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower23;chance to resist: 23% (Willpower).;шанс защититься: 23% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower24;chance to resist: 24% (Willpower).;шанс защититься: 24% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower25;chance to resist: 25% (Willpower).;шанс защититься: 25% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower26;chance to resist: 26% (Willpower).;шанс защититься: 26% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower27;chance to resist: 27% (Willpower).;шанс защититься: 27% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower28;chance to resist: 28% (Willpower).;шанс защититься: 28% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower29;chance to resist: 29% (Willpower).;шанс защититься: 29% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower30;chance to resist: 30% (Willpower).;шанс защититься: 30% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower31;chance to resist: 31% (Willpower).;шанс защититься: 31% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower32;chance to resist: 32% (Willpower).;шанс защититься: 32% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower33;chance to resist: 33% (Willpower).;шанс защититься: 33% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower34;chance to resist: 34% (Willpower).;шанс защититься: 34% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower35;chance to resist: 35% (Willpower).;шанс защититься: 35% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower36;chance to resist: 36% (Willpower).;шанс защититься: 36% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower37;chance to resist: 37% (Willpower).;шанс защититься: 37% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower38;chance to resist: 38% (Willpower).;шанс защититься: 38% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower39;chance to resist: 39% (Willpower).;шанс защититься: 39% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower40;chance to resist: 40% (Willpower).;шанс защититься: 40% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower41;chance to resist: 41% (Willpower).;шанс защититься: 41% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower42;chance to resist: 42% (Willpower).;шанс защититься: 42% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower43;chance to resist: 43% (Willpower).;шанс защититься: 43% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower44;chance to resist: 44% (Willpower).;шанс защититься: 44% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower45;chance to resist: 45% (Willpower).;шанс защититься: 45% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower46;chance to resist: 46% (Willpower).;шанс защититься: 46% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower47;chance to resist: 47% (Willpower).;шанс защититься: 47% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower48;chance to resist: 48% (Willpower).;шанс защититься: 48% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower49;chance to resist: 49% (Willpower).;шанс защититься: 49% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower50;chance to resist: 50% (Willpower).;шанс защититься: 50% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower51;chance to resist: 51% (Willpower).;шанс защититься: 51% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower52;chance to resist: 52% (Willpower).;шанс защититься: 52% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower53;chance to resist: 53% (Willpower).;шанс защититься: 53% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower54;chance to resist: 54% (Willpower).;шанс защититься: 54% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower55;chance to resist: 55% (Willpower).;шанс защититься: 55% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower56;chance to resist: 56% (Willpower).;шанс защититься: 56% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower57;chance to resist: 57% (Willpower).;шанс защититься: 57% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower58;chance to resist: 58% (Willpower).;шанс защититься: 58% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower59;chance to resist: 59% (Willpower).;шанс защититься: 59% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower60;chance to resist: 60% (Willpower).;шанс защититься: 60% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower61;chance to resist: 61% (Willpower).;шанс защититься: 61% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower62;chance to resist: 62% (Willpower).;шанс защититься: 62% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower63;chance to resist: 63% (Willpower).;шанс защититься: 63% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower64;chance to resist: 64% (Willpower).;шанс защититься: 64% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower65;chance to resist: 65% (Willpower).;шанс защититься: 65% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower66;chance to resist: 66% (Willpower).;шанс защититься: 66% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower67;chance to resist: 67% (Willpower).;шанс защититься: 67% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower68;chance to resist: 68% (Willpower).;шанс защититься: 68% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower69;chance to resist: 69% (Willpower).;шанс защититься: 69% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower70;chance to resist: 70% (Willpower).;шанс защититься: 70% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower71;chance to resist: 71% (Willpower).;шанс защититься: 71% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower72;chance to resist: 72% (Willpower).;шанс защититься: 72% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower73;chance to resist: 73% (Willpower).;шанс защититься: 73% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower74;chance to resist: 74% (Willpower).;шанс защититься: 74% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower75;chance to resist: 75% (Willpower).;шанс защититься: 75% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower76;chance to resist: 76% (Willpower).;шанс защититься: 76% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower77;chance to resist: 77% (Willpower).;шанс защититься: 77% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower78;chance to resist: 78% (Willpower).;шанс защититься: 78% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower79;chance to resist: 79% (Willpower).;шанс защититься: 79% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower80;chance to resist: 80% (Willpower).;шанс защититься: 80% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower81;chance to resist: 81% (Willpower).;шанс защититься: 81% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower82;chance to resist: 82% (Willpower).;шанс защититься: 82% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower83;chance to resist: 83% (Willpower).;шанс защититься: 83% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower84;chance to resist: 84% (Willpower).;шанс защититься: 84% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower85;chance to resist: 85% (Willpower).;шанс защититься: 85% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower86;chance to resist: 86% (Willpower).;шанс защититься: 86% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower87;chance to resist: 87% (Willpower).;шанс защититься: 87% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower88;chance to resist: 88% (Willpower).;шанс защититься: 88% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower89;chance to resist: 89% (Willpower).;шанс защититься: 89% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower90;chance to resist: 90% (Willpower).;шанс защититься: 90% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower91;chance to resist: 91% (Willpower).;шанс защититься: 91% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower92;chance to resist: 92% (Willpower).;шанс защититься: 92% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower93;chance to resist: 93% (Willpower).;шанс защититься: 93% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower94;chance to resist: 94% (Willpower).;шанс защититься: 94% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower95;chance to resist: 95% (Willpower).;шанс защититься: 95% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower96;chance to resist: 96% (Willpower).;шанс защититься: 96% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower97;chance to resist: 97% (Willpower).;шанс защититься: 97% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower98;chance to resist: 98% (Willpower).;шанс защититься: 98% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower99;chance to resist: 99% (Willpower).;шанс защититься: 99% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower100;chance to resist: 100% (Willpower).;шанс защититься: 100% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower101;chance to resist: 101% (Willpower).;шанс защититься: 101% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower102;chance to resist: 102% (Willpower).;шанс защититься: 102% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower103;chance to resist: 103% (Willpower).;шанс защититься: 103% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower104;chance to resist: 104% (Willpower).;шанс защититься: 104% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN1;chance to resist: -1% (Willpower).;шанс защититься: -1% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN2;chance to resist: -2% (Willpower).;шанс защититься: -2% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN3;chance to resist: -3% (Willpower).;шанс защититься: -3% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN4;chance to resist: -4% (Willpower).;шанс защититься: -4% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN5;chance to resist: -5% (Willpower).;шанс защититься: -5% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN6;chance to resist: -6% (Willpower).;шанс защититься: -6% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN7;chance to resist: -7% (Willpower).;шанс защититься: -7% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN8;chance to resist: -8% (Willpower).;шанс защититься: -8% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN9;chance to resist: -9% (Willpower).;шанс защититься: -9% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN10;chance to resist: -10% (Willpower).;шанс защититься: -10% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN11;chance to resist: -11% (Willpower).;шанс защититься: -11% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN12;chance to resist: -12% (Willpower).;шанс защититься: -12% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN13;chance to resist: -13% (Willpower).;шанс защититься: -13% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN14;chance to resist: -14% (Willpower).;шанс защититься: -14% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN15;chance to resist: -15% (Willpower).;шанс защититься: -15% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN16;chance to resist: -16% (Willpower).;шанс защититься: -16% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN17;chance to resist: -17% (Willpower).;шанс защититься: -17% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN18;chance to resist: -18% (Willpower).;шанс защититься: -18% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN19;chance to resist: -19% (Willpower).;шанс защититься: -19% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN20;chance to resist: -20% (Willpower).;шанс защититься: -20% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN21;chance to resist: -21% (Willpower).;шанс защититься: -21% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN22;chance to resist: -22% (Willpower).;шанс защититься: -22% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN23;chance to resist: -23% (Willpower).;шанс защититься: -23% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN24;chance to resist: -24% (Willpower).;шанс защититься: -24% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN25;chance to resist: -25% (Willpower).;шанс защититься: -25% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN26;chance to resist: -26% (Willpower).;шанс защититься: -26% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN27;chance to resist: -27% (Willpower).;шанс защититься: -27% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN28;chance to resist: -28% (Willpower).;шанс защититься: -28% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN29;chance to resist: -29% (Willpower).;шанс защититься: -29% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN30;chance to resist: -30% (Willpower).;шанс защититься: -30% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN31;chance to resist: -31% (Willpower).;шанс защититься: -31% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN32;chance to resist: -32% (Willpower).;шанс защититься: -32% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN33;chance to resist: -33% (Willpower).;шанс защититься: -33% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN34;chance to resist: -34% (Willpower).;шанс защититься: -34% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN35;chance to resist: -35% (Willpower).;шанс защититься: -35% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN36;chance to resist: -36% (Willpower).;шанс защититься: -36% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN37;chance to resist: -37% (Willpower).;шанс защититься: -37% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN38;chance to resist: -38% (Willpower).;шанс защититься: -38% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN39;chance to resist: -39% (Willpower).;шанс защититься: -39% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN40;chance to resist: -40% (Willpower).;шанс защититься: -40% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN41;chance to resist: -41% (Willpower).;шанс защититься: -41% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN42;chance to resist: -42% (Willpower).;шанс защититься: -42% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN43;chance to resist: -43% (Willpower).;шанс защититься: -43% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN44;chance to resist: -44% (Willpower).;шанс защититься: -44% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN45;chance to resist: -45% (Willpower).;шанс защититься: -45% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN46;chance to resist: -46% (Willpower).;шанс защититься: -46% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN47;chance to resist: -47% (Willpower).;шанс защититься: -47% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN48;chance to resist: -48% (Willpower).;шанс защититься: -48% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN49;chance to resist: -49% (Willpower).;шанс защититься: -49% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpowerN50;chance to resist: -50% (Willpower).;шанс защититься: -50% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower105;chance to resist: 105% (Willpower).;шанс защититься: 105% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower106;chance to resist: 106% (Willpower).;шанс защититься: 106% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower107;chance to resist: 107% (Willpower).;шанс защититься: 107% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower108;chance to resist: 108% (Willpower).;шанс защититься: 108% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower109;chance to resist: 109% (Willpower).;шанс защититься: 109% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower110;chance to resist: 110% (Willpower).;шанс защититься: 110% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower111;chance to resist: 111% (Willpower).;шанс защититься: 111% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower112;chance to resist: 112% (Willpower).;шанс защититься: 112% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower113;chance to resist: 113% (Willpower).;шанс защититься: 113% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower114;chance to resist: 114% (Willpower).;шанс защититься: 114% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower115;chance to resist: 115% (Willpower).;шанс защититься: 115% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower116;chance to resist: 116% (Willpower).;шанс защититься: 116% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower117;chance to resist: 117% (Willpower).;шанс защититься: 117% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower118;chance to resist: 118% (Willpower).;шанс защититься: 118% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower119;chance to resist: 119% (Willpower).;шанс защититься: 119% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower120;chance to resist: 120% (Willpower).;шанс защититься: 120% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower121;chance to resist: 121% (Willpower).;шанс защититься: 121% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower122;chance to resist: 122% (Willpower).;шанс защититься: 122% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower123;chance to resist: 123% (Willpower).;шанс защититься: 123% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower124;chance to resist: 124% (Willpower).;шанс защититься: 124% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower125;chance to resist: 125% (Willpower).;шанс защититься: 125% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower126;chance to resist: 126% (Willpower).;шанс защититься: 126% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower127;chance to resist: 127% (Willpower).;шанс защититься: 127% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower128;chance to resist: 128% (Willpower).;шанс защититься: 128% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower129;chance to resist: 129% (Willpower).;шанс защититься: 129% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower130;chance to resist: 130% (Willpower).;шанс защититься: 130% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower131;chance to resist: 131% (Willpower).;шанс защититься: 131% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower132;chance to resist: 132% (Willpower).;шанс защититься: 132% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower133;chance to resist: 133% (Willpower).;шанс защититься: 133% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower134;chance to resist: 134% (Willpower).;шанс защититься: 134% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower135;chance to resist: 135% (Willpower).;шанс защититься: 135% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower136;chance to resist: 136% (Willpower).;шанс защититься: 136% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower137;chance to resist: 137% (Willpower).;шанс защититься: 137% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower138;chance to resist: 138% (Willpower).;шанс защититься: 138% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower139;chance to resist: 139% (Willpower).;шанс защититься: 139% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower140;chance to resist: 140% (Willpower).;шанс защититься: 140% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower141;chance to resist: 141% (Willpower).;шанс защититься: 141% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower142;chance to resist: 142% (Willpower).;шанс защититься: 142% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower143;chance to resist: 143% (Willpower).;шанс защититься: 143% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower144;chance to resist: 144% (Willpower).;шанс защититься: 144% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower145;chance to resist: 145% (Willpower).;шанс защититься: 145% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower146;chance to resist: 146% (Willpower).;шанс защититься: 146% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower147;chance to resist: 147% (Willpower).;шанс защититься: 147% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower148;chance to resist: 148% (Willpower).;шанс защититься: 148% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower149;chance to resist: 149% (Willpower).;шанс защититься: 149% («Сила воли»)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower150;chance to resist: 150% (Willpower).;шанс защититься: 150% («Сила воли»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial1;chance to resist: 1% (Special).;
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial2;chance to resist: 2% (Special).;
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial3;chance to resist: 3% (Special).;
