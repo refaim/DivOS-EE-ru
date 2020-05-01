@@ -4,10 +4,10 @@ AMER_Adjectives.lsx;of Slaying;of Slaying;убийства
 AMER_Adjectives.lsx;Lethal;Lethal;Смертельн.
 AMER_Adjectives.lsx;of Headstriking;of Headstriking;
 AMER_Adjectives.lsx;Heartseeker's;Heartseeker's;
-AMER_Adjectives.lsx;of Oblivion;of Oblivion;
+AMER_Adjectives.lsx;of Oblivion;of Oblivion;забвения
 AMER_Adjectives.lsx;of Eternity;of Eternity;вечности
-AMER_Adjectives.lsx;Inexorable;Inexorable;
-AMER_Adjectives.lsx;Perpetual;Perpetual;
+AMER_Adjectives.lsx;Inexorable;Inexorable;Непреклонн.
+AMER_Adjectives.lsx;Perpetual;Perpetual;Вечн.
 AMER_Adjectives.lsx;of the Stone;of the Stone;камня
 AMER_Adjectives.lsx;Enduring;Enduring;Прочн.
 AMER_Adjectives.lsx;of the Jaguar;of the Jaguar;ягуара
@@ -28,12 +28,12 @@ AMER_Adjectives.lsx;of the Metamind;of the Metamind;
 AMER_Adjectives.lsx;of Tricks;of Tricks;хитрости
 AMER_Adjectives.lsx;Trickster's;Trickster's;
 AMER_Adjectives.lsx;Godly;Godly;Божественн.
-AMER_Adjectives.lsx;of the Eternal Reign;of the Eternal Reign;
-AMER_Adjectives.lsx;Shadoweave;Shadoweave;
+AMER_Adjectives.lsx;of the Eternal Reign;of the Eternal Reign;вечного господства
+AMER_Adjectives.lsx;Shadoweave;Shadoweave;Тенешёлк.
 AMER_Adjectives.lsx;of the Antipode;of the Antipode;
 AMER_Adjectives.lsx;of Divinity;of Divinity;
-AMER_Adjectives.lsx;Unfettered;Unfettered;
-AMER_Adjectives.lsx;of the Goliath;of the Goliath;
+AMER_Adjectives.lsx;Unfettered;Unfettered;Освобождённ.
+AMER_Adjectives.lsx;of the Goliath;of the Goliath;гиганта
 AMER_Adjectives.lsx;Unstoppable;Unstoppable;Неудержим.
 AMER_Adjectives.lsx;Centurion's;Centurion's;центуриона
 AMER_Adjectives.lsx;of the Bastion;of the Bastion;бастиона
@@ -1469,8 +1469,8 @@ ayylmao.lsx;Target_InvisibilityTarget_Description;Imbue a target with Greater In
 ayylmao.lsx;AMER_GreaterInvisibility;Greater Invisibility;
 ayylmao.lsx;SKILLBOOK_InvisibilityTarget;Greater Invisibility Skillbook;
 ayylmao.lsx;SKILLBOOK_BarbedCoat;Spiked Shell Skillbook;
-ayylmao.lsx;SKILLBOOK_TargetedPerceptionBoost;Elemental Visions Skillbook;
-ayylmao.lsx;Target_TargetedPerception_DisplayName;Elemental Visions;
+ayylmao.lsx;SKILLBOOK_TargetedPerceptionBoost;Elemental Visions Skillbook;Книга навыка «Пламенное зрение»
+ayylmao.lsx;Target_TargetedPerception_DisplayName;Elemental Visions;Пламенное зрение
 ayylmao.lsx;Target_TargetedPerception_Description;Searing light clarifies a target's vision, granting a temporary perception bonus and curing Blind.;
 ayylmao.lsx;Summon_Ooze_DisplayName;Summon Toxic Horror;
 ayylmao.lsx;Summon_Ooze_Description;Conjure forth a bubbling, poisonous ooze at target point to do your bidding.;
@@ -1501,7 +1501,7 @@ ayylmao.lsx;Projectile_ChainLightning_StatsDescription;"<p align=""left""><font 
 ayylmao.lsx;Projectile_BlitzBoltStart_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Aerotheurge<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>Shocked targets have a lower chance to hit and are more susceptible to air damage, but are resistant to earth. Shocked and stunned targets have a 15% increased chance to be shocked, and if are shocked again become stunned.<br>Can target some surfaces and clouds to electrify them.</p>";
 ayylmao.lsx;SCROLL_BlitzBoltStart;Lightning Bolt Scroll;Свиток «Молния»
 ayylmao.lsx;SKILLBOOK_BlitzBoltStart;Lightning Bolt Skillbook;Книга навыка «Молния»
-ayylmao.lsx;SKILLBOOST_TargetedPerception;Elemental Visions;
+ayylmao.lsx;SKILLBOOST_TargetedPerception;Elemental Visions;Пламенное зрение
 ayylmao.lsx;Target_TargetedBless_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    8 Intelligence<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>Blessed boosts Chance to hit by +[1]%.</p>";
 ayylmao.lsx;ProjectileStrike_BoulderBash_Description;A boulder comes crashing from the sky, dealing [1] damage to anything within a [2] range from impact.;
 ayylmao.lsx;AMER_STATUS_ShockedStill;"is still <font color=""7b70d2"">Shocked</font>.";
@@ -1592,7 +1592,7 @@ ayylmao.lsx;Jump_CloakAndDagger_StatsDescription;"<p align=""left""><font color=
 ayylmao.lsx;Jump_CloakAndDagger_Description;Leap far above the battlefield, fading into the air as you ascend. Reappear as you land at the targeted point.;
 ayylmao.lsx;SKILLBOOST_NullResistanceStart;<font color=8e3f8e>Lowered Resistances</font>;
 ayylmao.lsx;SCROLL_HailAttack;Hailstorm Scroll;
-ayylmao.lsx;SCROLL_TargetedPerceptionBoost;Elemental Visions Scroll;
+ayylmao.lsx;SCROLL_TargetedPerceptionBoost;Elemental Visions Scroll;Свиток «Пламенное зрение»
 ayylmao.lsx;SCROLL_InvisibilityTarget;Greater Invisibility Scroll;
 ayylmao.lsx;SCROLL_BanishSummon;Banishment Scroll;Свиток «Изгнание»
 ayylmao.lsx;SKILLBOOK_BanishSummon;Banishment Skillbook;Книга навыка «Изгнание»
@@ -1831,10 +1831,10 @@ ayylmao.lsx;AMER_SKILL_Stasis_Description;Instantly place a target into protecti
 ayylmao.lsx;AMER_SKILL_Stasis_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    4 Hydrosophist<br>    •    Cooldown -4 at 15 Intelligence</font><br><font color=""c80000"" size=19 face=""Copperplate Gothic Light"">   VITALITY COST: 30%</font><br><br><font face=""Copperplate Gothic Bold"">Range: [3]<br>Constitution: +[1]<br>Armor: +[2]</font><br><br>&quot;Not yet.&quot;</p>";
 ayylmao.lsx;AMER_SKILLBOOK_Stasis;"<font color=""c7a758"">Stasis Skillbook</font>";
 ayylmao.lsx;AMER_StasisBuff;Stasis Fortification;
-ayylmao.lsx;AMER_SKILL_Despair_DisplayName;Despair;
+ayylmao.lsx;AMER_SKILL_Despair_DisplayName;Despair;Отчаяние
 ayylmao.lsx;AMER_SKILL_Despair_Description;Fill the target with an immense sense of hopelessness and despair, making it Mute, Slow, and Weak.;
 ayylmao.lsx;AMER_SKILL_Despair_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Witchcraft<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]</font><br><br>&quot;Hope is an illusion- let me show you.&quot;</p>";
-ayylmao.lsx;AMER_SKILLBOOK_Despair;"<font color=""c7a758"">Despair Skillbook</font>";
+ayylmao.lsx;AMER_SKILLBOOK_Despair;"<font color=""c7a758"">Despair Skillbook</font>";"<font color=""c7a758"">Книга навыка «Отчаяние»</font>"
 ayylmao.lsx;AMER_STATUS_ApplyAmberPrison;"<font color=""e9d23d"">Stone Curse</font>";
 ayylmao.lsx;AMER_SKILLBOOK_AmberPrison;"<font color=""c7a758"">Stone Curse Skillbook</font>";
 ayylmao.lsx;AMER_SKILL_AmberPrison_DisplayName;Stone Curse;
@@ -1870,30 +1870,30 @@ ayylmao.lsx;AMER_SKILL_Audacity_Description;"Your vision burns red- suddenly, yo
 ayylmao.lsx;AMER_SKILL_Audacity_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Intelligence<br>    •    5 Aerotheurge<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">AP cost reduction: [2]<br>AP costs cannot be reduced below 1.</font><br><br>&quot;Yours you say? Well, it's mine, now... EVERYTHING is -mine- now!&quot;</p>";
 ayylmao.lsx;AMER_Audacity;"<font color=""7b70d2"">Audacious</font>";
 ayylmao.lsx;AMER_SKILLBOOK_Audacity;"<font color=""c7a758"">Audacity Skillbook</font>";
-ayylmao.lsx;AMER_SKILL_Cauterize_DisplayName;Cauterize;
-ayylmao.lsx;AMER_SKILLBOOK_Cauterize;"<font color=""c7a758"">Cauterize Skillbook</font>";
+ayylmao.lsx;AMER_SKILL_Cauterize_DisplayName;Cauterize;Прижигание
+ayylmao.lsx;AMER_SKILLBOOK_Cauterize;"<font color=""c7a758"">Cauterize Skillbook</font>";"<font color=""c7a758"">Книга навыка «Прижигание»</font>"
 ayylmao.lsx;AMER_SKILL_Cauterize_Description;Sear away scar and burn together tissue, dealing [2] damage before greatly healing the target and removing Bleeding and Decaying Touch. If targeting enemies, no healing occurs unless they are a Zombie or afflicted with Decaying Touch.;
 ayylmao.lsx;AMER_SKILL_Cauterize_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    3 Pyrokinetic<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Additionally heals 10% of maximum vitality +3% per Intelligence above recommended.</font><br><br>&quot;This might sting a bit.&quot;</p>";
-ayylmao.lsx;AMER_ApplyCauterize;Cauterize;
+ayylmao.lsx;AMER_ApplyCauterize;Cauterize;Прижигание
 ayylmao.lsx;AMER_SKILLBOOK_Attonement;"<font color=""c7a758"">Attonement Skillbook</font>";
 ayylmao.lsx;AMER_SKILL_Attonement_DisplayName;Attonement;
 ayylmao.lsx;AMER_SKILL_Attonement_Description;A burst of radiance cascades from the target, healing and removing Fear while also damaging all nearby enemies.;
 ayylmao.lsx;AMER_SKILL_Attonement_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Strength<br>    •    3 Soldier<br>    •    Cooldown -4 at 15 Strength</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Damages enemies within 3m of your target<br>Additionally heals 15% of maximum vitality +3% per Strength above recommended.</font><br><br>&quot;Repent!&quot;</p>";
 ayylmao.lsx;AMER_ApplyAttonement;Attonement;
-ayylmao.lsx;AMER_MassHeal;Mass Heal;
+ayylmao.lsx;AMER_MassHeal;Mass Heal;Массовое исцеление
 ayylmao.lsx;AMER_SKILL_Fossilize_Description;Your body tightens as flesh quickly petrifies, bringing you to the brink of death but granting an almost impenetrable defense.;
 ayylmao.lsx;AMER_SKILL_Fossilize_DisplayName;Fossilize;
 ayylmao.lsx;AMER_SKILL_Fossilize_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Strength<br>    •    4 Soldier<br>    •    Cooldown -4 at 15 Strength</font><br><br><font face=""Copperplate Gothic Bold"">Vitality set to 10% of maximum<br>All Resistances: +100%<br>All Maximum Resistances set to 90% unless already higher<br>Immune to Bleeding<br>Lasts until duration expires or maximum damage is prevented.<br>Can prevent up to 20% + 3% per Strength above recommended damage.</font><br><br>&quot;Stuck between a hard place and... Me.&quot;</p>";
 ayylmao.lsx;AMER_SKILLBOOK_Fossilize;"<font color=""c7a758"">Fossilize Skillbook</font>";
 ayylmao.lsx;AMER_Fossilize;"<font color=""e9d23d"">Fossilize</font>";
-ayylmao.lsx;AMER_SKILL_RangerAcidArrow_DisplayName;Conjure Acid Arrow;
+ayylmao.lsx;AMER_SKILL_RangerAcidArrow_DisplayName;Conjure Acid Arrow;Кислотная стрела
 ayylmao.lsx;AMER_SKILL_RangerAcidArrow_Description;Conjure a magical arrow dripping with potent acid and fire it at your target. The arrow poisons, weakens, and deals [1] damage to all within the radius.;
 ayylmao.lsx;AMER_SKILL_RangerAcidArrow_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Dexterity<br>    •    Cooldown -3 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>Poisoned deals poison damage over time. Poisoned targets lose 15% Poison Resistance every turn, up to -45%.<br>Can target terrain to create ooze surface.<br><br>Damage dealt depends on your weapon's damage rating.</p>";
-ayylmao.lsx;AMER_SKILLBOOK_RangerAcidArrow;Conjure Acid Arrow Skillbook;
-ayylmao.lsx;AMER_SKILL_RangerWolf_DisplayName;Summon Wolf;
+ayylmao.lsx;AMER_SKILLBOOK_RangerAcidArrow;Conjure Acid Arrow Skillbook;Книга навыка «Кислотная стрела»
+ayylmao.lsx;AMER_SKILL_RangerWolf_DisplayName;Summon Wolf;Вызов волка
 ayylmao.lsx;AMER_SKILL_RangerWolf_Description;Summon a loyal wolf companion at target point within [2] to defend you.;
 ayylmao.lsx;AMER_SKILL_RangerWolf_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    3 Ranger<br>    •    Cooldown -3 at 15 Dexterity</font><br><br>The wolf is immune to Freezing, cannot be Chilled and takes no damage from Water attacks. It does, however, take extra damage from Fire attacks. Its ferocious bite attack has a 20% chance to set Bleeding status for 2 turns. It has a special Throat Bite skill. Has Attack of Opportunity.<br><br>You can only have one summon at a time.</p>";
-ayylmao.lsx;AMER_SKILLBOOK_RangerWolf;Summon Wolf Skillbook;
+ayylmao.lsx;AMER_SKILLBOOK_RangerWolf;Summon Wolf Skillbook;Книга навыка «Вызов волка»
 ayylmao.lsx;AMER_SKILL_Vengeance_DisplayName;Vengeance;
 ayylmao.lsx;AMER_SKILLBOOK_Vengeance;"<font color=""c7a758"">Vengeance Skillbook</font>";
 ayylmao.lsx;AMER_SKILL_Vengeance_Description;The very air around you crackles with power, bending to your whim as it lashes out against your enemies, dealing [1] damage and Burning each round.;
@@ -2000,35 +2000,35 @@ ayylmao.lsx;AMER_SKILL_Attenuate_StatsDescription;"<p align=""left""><font color
 ayylmao.lsx;Projectile_IceShardStart_DisplayName;Ice Shards;
 ayylmao.lsx;SKILLBOOK_IceShardStart;Ice Shards Skillbook;
 ayylmao.lsx;Path_CreateSmokescreen_Description;Navigate a sparking orb through the air, removing dangerous surfaces and clouds while Blinding those it touches.;
-ayylmao.lsx;AMER_PredatorText;"<font color=""5fbd00"">Predator</font>";
+ayylmao.lsx;AMER_PredatorText;"<font color=""5fbd00"">Predator</font>";"<font color=""5fbd00"">Хищник</font>"
 ayylmao.lsx;AMER_CenturionText;Centurion;Центурион
 ayylmao.lsx;SKILLBOOST_MeleePowerAttack;Precision Stance;Стойка точности
 ayylmao.lsx;AMER_DemonText;"<font color=""c80000"">Demon</font>";"<font color=""c80000"">Демон</font>"
 ayylmao.lsx;AMER_AngelText;"<font color=""3ba8f0"">Angel</font>";"<font color=""3ba8f0"">Ангел</font>"
 ayylmao.lsx;AMER_CharismaText;"<font color=""c1a257"">Bard</font>";
-ayylmao.lsx;AMER_Charisma_HitChance1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_HitChance2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_HitChance3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_MissChance1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_MissChance2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_MissChance3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_FireRes1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_FireRes2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_FireRes3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_WaterRes1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_WaterRes2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_WaterRes3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_AirRes1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_AirRes2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_AirRes3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_EarthRes1;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_EarthRes2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_EarthRes3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_SlipImmune;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_BlockBuff2;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_BlockBuff3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_BlockDebuff3;"<font color=""c1a257"">Bardic Reaction</font>";
-ayylmao.lsx;AMER_Charisma_BlockDebuff2;"<font color=""c1a257"">Bardic Reaction</font>";
+ayylmao.lsx;AMER_Charisma_HitChance1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_HitChance2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_HitChance3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_MissChance1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_MissChance2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_MissChance3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_FireRes1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_FireRes2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_FireRes3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_WaterRes1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_WaterRes2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_WaterRes3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_AirRes1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_AirRes2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_AirRes3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_EarthRes1;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_EarthRes2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_EarthRes3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_SlipImmune;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_BlockBuff2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_BlockBuff3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_BlockDebuff3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
+ayylmao.lsx;AMER_Charisma_BlockDebuff2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
 ayylmao.lsx;AMER_BOOK_InfestorJournal;"*Most of the pages are long-decayed and coated in a thick fungal coat; it is difficult to find any legible text.*<br><br><br><NewPage>...Those fanatics will be the end of us all...<NewPage>...I will hide us, what else can I do?<NewPage>...Everyone is changing...<NewPage>I can no longer leave.";
 ayylmao.lsx;AMER_DIFFICULTY_Damage1;Epic Encounters;
 ayylmao.lsx;AMER_DIFFICULTY_Damage2;Epic Encounters;
@@ -2092,17 +2092,17 @@ ayylmao.lsx;AMER_SKILLBOOK_Soothe;Soothe Skillbook;
 ayylmao.lsx;AMER_SKILL_Soothe_Description;Radiate healing energy, slowly mending the wounds of all around you.;
 ayylmao.lsx;AMER_SKILL_Soothe_DisplayName;Soothe;
 ayylmao.lsx;AMER_SKILL_Soothe_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Intelligence<br>    •    Cooldown -3 at 13 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Radius: [1]<br>Additionally heals 3% of maximum vitality +1% per Intelligence above recommended.</font></p>";
-ayylmao.lsx;AMER_SKILL_Deluge_DisplayName;Deluge;
-ayylmao.lsx;AMER_SKILLBOOK_Deluge;Deluge Skillbook;
+ayylmao.lsx;AMER_SKILL_Deluge_DisplayName;Deluge;Водопад
+ayylmao.lsx;AMER_SKILLBOOK_Deluge;Deluge Skillbook;Книга навыка «Водопад»
 ayylmao.lsx;AMER_SKILL_Deluge_Description;Release a crushing torrent of water over the target area, dealing [1] damage five times and causing Wet to any within the radius.;
 ayylmao.lsx;AMER_SKILL_Deluge_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Hydrosophist<br>    •    Cooldown -3 at 13 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>Wet targets are more susceptible to water and air damage, but are resistant to fire. Wet increases the chance to be Shocked or Stunned by 10%, and the chance to be Frozen by 20%.</p>";
-ayylmao.lsx;AMER_SKILL_Rime_DisplayName;Rime;
+ayylmao.lsx;AMER_SKILL_Rime_DisplayName;Rime;Иней
 ayylmao.lsx;AMER_SKILL_Rime_Description;The area beneath your target is continuously frozen as it moves, making movement difficult if it is not accustomed to treading on ice. If cast on an ally, the target cannot slip while affected.;
 ayylmao.lsx;AMER_SKILL_Rime_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Hydrosophist<br>    •    Cooldown -3 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Saving Throw: Grit<br>Surface Radius: 2.0m</font><br><br>Characters moving over a frozen surface may slip and become Knocked Down.</p>";
-ayylmao.lsx;AMER_SKILLBOOK_Rime;Rime Skillbook;
-ayylmao.lsx;AMER_STATUS_EnemyRime;"<font color=""3ba8f0"">Rime</font>";
-ayylmao.lsx;AMER_STATUS_FriendRime;"<font color=""3ba8f0"">Rime</font>";
-ayylmao.lsx;AMER_STATUS_ApplyRime;Rime;
+ayylmao.lsx;AMER_SKILLBOOK_Rime;Rime Skillbook;Книга навыка «Иней»
+ayylmao.lsx;AMER_STATUS_EnemyRime;"<font color=""3ba8f0"">Rime</font>";"<font color=""3ba8f0"">Иней</font>"
+ayylmao.lsx;AMER_STATUS_FriendRime;"<font color=""3ba8f0"">Rime</font>";"<font color=""3ba8f0"">Иней</font>"
+ayylmao.lsx;AMER_STATUS_ApplyRime;Rime;Иней
 ayylmao.lsx;AMER_STATUS_RimeStill;"is still <font color=""3ba8f0"">Rimed</font>.";
 ayylmao.lsx;AMER_STATUS_RimeNoLonger;"is <font color=""3ba8f0"">Rimed</font> no longer.";
 ayylmao.lsx;AMER_STATUS_RimeFail;"is <font color=""3ba8f0"">Rimed</font>.";
@@ -2132,11 +2132,11 @@ ayylmao.lsx;AMER_STATUS_InsectPlagueSaveNoFire;"is <font color=""5fbd00"">Plague
 ayylmao.lsx;AMER_STATUS_InsectPlagueNoLongerNoFire;"is still <font color=""5fbd00"">Plagued by Insects</font>, but maintains focus.";
 ayylmao.lsx;AMER_STATUS_ApplyInsectPlague;Insect Plague;
 ayylmao.lsx;AMER_SKILLBOOK_InsectPlague;"<font color=""c7a758"">Insect Plague Skillbook</font>";
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty1;"<font color=""5fbd00"">Untreated Poison I</font>";
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty2;"<font color=""5fbd00"">Untreated Poison II</font>";
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty3;"<font color=""5fbd00"">Untreated Poison III</font>";
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty4;"<font color=""5fbd00"">Untreated Poison IV</font>";
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty5;"<font color=""5fbd00"">Untreated Poison V</font>";
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty1;"<font color=""5fbd00"">Untreated Poison I</font>";"<font color=""5fbd00"">Интоксикация I</font>"
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty2;"<font color=""5fbd00"">Untreated Poison II</font>";"<font color=""5fbd00"">Интоксикация II</font>"
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty3;"<font color=""5fbd00"">Untreated Poison III</font>";"<font color=""5fbd00"">Интоксикация III</font>"
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty4;"<font color=""5fbd00"">Untreated Poison IV</font>";"<font color=""5fbd00"">Интоксикация IV</font>"
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty5;"<font color=""5fbd00"">Untreated Poison V</font>";"<font color=""5fbd00"">Интоксикация V</font>"
 ayylmao.lsx;Projectile_SteamCloudArrow_StatsDescription;Can blind when targeted at a character. Blinded characters cannot target others unless they're standing right next to them. Blindness reduces a Hyperacute character's chance to detect hidden enemies.<br>Damage dealt depends on your weapon's damage rating.;
 ayylmao.lsx;Projectile_StaticCloudArrow_StatsDescription;A static cloud has a very high chance of stunning, and a low chance of blinding the target.<br>Blinded characters cannot target others unless they're standing right next to them. Blindness reduces a Hyperacute character's chance to detect hidden enemies.<br>Stunned makes target unable to move or act.<br>Damage dealt depends on your weapon's damage rating.;
 ayylmao.lsx;Target_EyeGouge_Description;With one deft strike you blind your opponent. Does [1] damage and causes Blindness.;
@@ -2168,11 +2168,11 @@ ayylmao.lsx;AMER_SKILL_HeatMetal_Description;Concentrate on the armor of your ta
 ayylmao.lsx;AMER_SKILL_HeatMetal_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Intelligence<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Armor: [3]<br>Armored targets suffer increased damage.<br>Targets can take up to 300% increased damage.</font><br><br>Warm targets are more susceptible to fire damage but are resistant to water. Warm targets that are warmed again become burned. Warm increases the chance to be Burned by 30%.</p>";
 ayylmao.lsx;AMER_ApplyHeatMetal;Heat Metal;
 ayylmao.lsx;AMER_SKILLBOOK_HeatMetal;Heat Metal Skillbook;
-ayylmao.lsx;AMER_SKILL_Boil_DisplayName;Boil;
+ayylmao.lsx;AMER_SKILL_Boil_DisplayName;Boil;Кипячение
 ayylmao.lsx;AMER_SKILL_Boil_Description;"Boil the water that surrounds your target, causing [2] damage. 150% extra damage is dealt if the target is Wet or standing in water; or 300% if both.";
 ayylmao.lsx;AMER_SKILL_Boil_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Pyrokinetic<br>    •    Cooldown -3 at 13 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Water under the target becomes Steam.<br>Removes Wet from the target.</font><br><br>&quot;Let&apos;s get cookin&apos;!&quot;</p>";
-ayylmao.lsx;AMER_SKILLBOOK_Boil;"<font color=""c7a758"">Boil Skillbook</font>";
-ayylmao.lsx;AMER_ApplyBoil;Boil;
+ayylmao.lsx;AMER_SKILLBOOK_Boil;"<font color=""c7a758"">Boil Skillbook</font>";"<font color=""c7a758"">Книга навыка «Кипячение»</font>"
+ayylmao.lsx;AMER_ApplyBoil;Boil;Кипячение
 ayylmao.lsx;AMER_STATUS_Balance;"<font color=""5fbd00"">Balance</font>";
 ayylmao.lsx;AMER_STATUS_BalanceStill;"is still <font color=""5fbd00"">Balanced</font>.";
 ayylmao.lsx;AMER_STATUS_BalanceNoLonger;"is no longer <font color=""5fbd00"">Balanced</font>.";
@@ -2475,7 +2475,7 @@ ayylmao.lsx;AMER_Scaling5;Epic Encounters;
 ayylmao.lsx;SCROLL_Immolate;Soulfire Scroll;
 ayylmao.lsx;SCROLL_IceShardStart;Ice Shards Scroll;
 ayylmao.lsx;SCROLL_MassDisease;Plague Scroll;
-ayylmao.lsx;AMER_LOOT_Soul_Tormented_A;Tormented Soul;
+ayylmao.lsx;AMER_LOOT_Soul_Tormented_A;Tormented Soul;Измученная душа
 ayylmao.lsx;AMER_MachinistCrafting;Machinist;
 ayylmao.lsx;AMER_STATUS_ApplyDivineLight;"<font color=""f59000"">Divine Light</font>";
 ayylmao.lsx;AMER_STATUS_ApplyNullifyResistances;<font color=8e3f8e>Lowered Resistances</font>;
@@ -2510,11 +2510,11 @@ ayylmao.lsx;AMER_STATUS_CurseOfCutsNoLonger;"is <font color=""9b26de"">Cursed wi
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_Description;The unfortunate target of this cruel hex finds itself intermittently cursed and slashed by unseen forces, suffering [1] damage every round.;
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Intelligence<br>    •    2 Witchcraft<br>    •    Cooldown -2 at 10 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font></p>";
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_DisplayName;Curse of Cuts;
-ayylmao.lsx;AMER_SKILLBOOK_FreezingTrap;"<font color=""c7a758"">Freezing Trap Skillbook</font>";
-ayylmao.lsx;AMER_SKILL_FreezingTrap_DisplayName;Freezing Trap;
+ayylmao.lsx;AMER_SKILLBOOK_FreezingTrap;"<font color=""c7a758"">Freezing Trap Skillbook</font>";"<font color=""c7a758"">Книга навыка «Морозная ловушка»</font>"
+ayylmao.lsx;AMER_SKILL_FreezingTrap_DisplayName;Freezing Trap;Морозная ловушка
 ayylmao.lsx;AMER_SKILL_FreezingTrap_Description;Set a devious, icy trap at your feet that remains for up to 3 rounds. Enemies who come within 3 meters of the trap trigger it, dealing [1] damage and Freezing all, except the caster, within 3 meters.;
 ayylmao.lsx;AMER_SKILL_FreezingTrap_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Dexterity<br>    •    3 Ranger<br>    •    Cooldown -4 at 15 Dexterity</font><br><br>&quot;You've triggered my trap-card!&quot;</p>";
-ayylmao.lsx;AMER_FreezingTrap;"<font color=""3ba8f0"">Freezing Trap</font>";
+ayylmao.lsx;AMER_FreezingTrap;"<font color=""3ba8f0"">Freezing Trap</font>";"<font color=""3ba8f0"">Морозная ловушка</font>"
 ayylmao.lsx;AMER_STATUS_Enervate;"<font color=""7b70d2"">Enervate</font>";
 ayylmao.lsx;AMER_STATUS_EnervateFail;"is <font color=""7b70d2"">Enervated</font>.";
 ayylmao.lsx;AMER_STATUS_EnervateSave;"saved against <font color=""7b70d2"">Enervate</font>.";
@@ -2543,14 +2543,14 @@ ayylmao.lsx;AMER_SKILL_Overcharge_StatsDescription;"<p align=""left""><br><font 
 ayylmao.lsx;AMER_ApplyRegenerate;"<font color=""3ba8f0"">Regeneration</font>";
 ayylmao.lsx;AMER_Regenerate;"<font color=""3ba8f0"">Regeneration</font>";
 ayylmao.lsx;Heal_RegenerateStart_Description;Cause a target's wounds to bind themselves shut, healing it each turn over the duration.;
-ayylmao.lsx;AMER_ApplyPurifyingFire;Purifying Fire;
+ayylmao.lsx;AMER_ApplyPurifyingFire;Purifying Fire;Очищающий огонь
 ayylmao.lsx;Target_PurifyingFire_Description;A soothing flame courses through the target, removing Burning, Frozen, Stun, Charm, Petrified, Rime, Curse of Cuts, Enervate, Healing, and Absorption Shields.;
 ayylmao.lsx;Target_CleansingWater_Description;A comforting energy washes over the target, curing Blind, Mute, Disease, Infectuous Disease, Bleeding, Crippled, Decaying Touch, Attenuate, Borrowed Time, Curse of Cuts, and Balance.;
 ayylmao.lsx;AMER_ApplyCleansingWater;Cleansing Water;
 ayylmao.lsx;AMER_Blur;Blur;
 ayylmao.lsx;AMER_GuerrillaDamage;Guerrilla;
 ayylmao.lsx;Shout_FireSurfaceSelf_Description;Create a fire surface around you, with you in the middle. Grants everyone around you 25% fire resistance for 3 turns and removes Frozen and Stunned.;
-ayylmao.lsx;SKILLBOOK_MeteorStrike;Meteor Shower Skillbook;
+ayylmao.lsx;SKILLBOOK_MeteorStrike;Meteor Shower Skillbook;Книга навыка «Метеоритный дождь»
 ayylmao.lsx;AMER_BOOK_Depreciated;Lewd Diary;
 ayylmao.lsx;SKILLBOOK_CrawlingInfestation;Lewd Diary;
 ayylmao.lsx;SKILLBOOK_TargetedOilSurface;Lewd Diary;
@@ -2750,7 +2750,7 @@ ayylmao.lsx;AMER_WhatARushAP2;What a Rush;
 ayylmao.lsx;AMER_WhatARushAP3;What a Rush;
 ayylmao.lsx;AMER_ParryMasterDefense;Parry Master;
 ayylmao.lsx;AMER_PinpointCrit;Pinpoint;
-ayylmao.lsx;AMER_STATUS_PoisonedResPenalty6;"<font color=""5fbd00"">Untreated Poison VI</font>";
+ayylmao.lsx;AMER_STATUS_PoisonedResPenalty6;"<font color=""5fbd00"">Untreated Poison VI</font>";"<font color=""5fbd00"">Интоксикация VI</font>"
 ayylmao.lsx;Target_TargetedBless_Description;Bless a target. Removes Curse and Fear.;
 ayylmao.lsx;AMER_AnacondaInitiative4;Dazed IV;Ошеломление IV
 ayylmao.lsx;AMER_AnacondaInitiative3;Dazed III;Ошеломление III
@@ -2878,7 +2878,7 @@ BAAR_WeaponModAdjectives.lsx;of Cleanliness;of Cthonians;
 BAAR_WeaponModAdjectives.lsx;of the Windbreak;of Grounding;
 BAAR_WeaponModAdjectives.lsx;of Gliding;of Gliding;
 BAAR_WeaponModAdjectives.lsx;of Cool Comfort;of Cool Comfort;
-BAAR_WeaponModAdjectives.lsx;Waterproof;Waterproof;
+BAAR_WeaponModAdjectives.lsx;Waterproof;Waterproof;Непромокаем.
 BAAR_WeaponModAdjectives.lsx;Ultralight;Delicate;
 BAAR_WeaponModAdjectives.lsx;of Feathered Metal;of Delicacy;
 BAAR_WeaponModAdjectives.lsx;Chromatic;Chromatic;
@@ -2931,7 +2931,7 @@ BAAR_WeaponModAdjectives.lsx;of Floatation;of Levitation;
 BAAR_WeaponModAdjectives.lsx;Well Balanced;Well Balanced;
 BAAR_WeaponModAdjectives.lsx;of Tossing;of Tossing;
 BAAR_WeaponModAdjectives.lsx;Spitting;Spitting;
-BAAR_WeaponModAdjectives.lsx;of Astarte's Breath;of Astarte's Breath;
+BAAR_WeaponModAdjectives.lsx;of Astarte's Breath;of Astarte's Breath;дыхания Астарты
 BAAR_WeaponModAdjectives.lsx;Handsome;Rapturous;
 BAAR_WeaponModAdjectives.lsx;of Treason;of Rapture;
 BAAR_WeaponModAdjectives.lsx;Bloody;Famished;
@@ -2939,7 +2939,7 @@ BAAR_WeaponModAdjectives.lsx;of Vampire Teeth;of Hunger;
 BAAR_WeaponModAdjectives.lsx;Alchemist's;Alchemist's;
 BAAR_WeaponModAdjectives.lsx;of Alchemy;of Alchemy;
 BAAR_WeaponModAdjectives.lsx;Priestly;Priestly;
-BAAR_WeaponModAdjectives.lsx;of Prayer;of Prayer;
+BAAR_WeaponModAdjectives.lsx;of Prayer;of Prayer;молитвы
 BAAR_WeaponModAdjectives.lsx;Quick Stitching;Ameliorating;
 BAAR_WeaponModAdjectives.lsx;of the Quick Stitch;of Amelioration;
 BAAR_WeaponModAdjectives.lsx;Introvert's;Sheltering;
@@ -2966,7 +2966,7 @@ BAAR_WeaponModAdjectives.lsx;Bayonet-Fitted;Bayonet-Fitted;
 BAAR_WeaponModAdjectives.lsx;with a Jagged Bayonet;with a Jagged Bayonet;
 BAAR_WeaponModAdjectives.lsx;Arrow Ready;Arrow Ready;
 BAAR_WeaponModAdjectives.lsx;of the Ready Quiver;of the Ready Quiver;
-BAAR_WeaponModAdjectives.lsx;Samurai's;Samurai's;
+BAAR_WeaponModAdjectives.lsx;Samurai's;Samurai's;Самурайск.
 BAAR_WeaponModAdjectives.lsx;of the Samurai;of the Samurai;самурая
 BAAR_WeaponModAdjectives.lsx;Throwing;Throwing;
 BAAR_WeaponModAdjectives.lsx;of the Caveman;of the Caveman;
@@ -2998,8 +2998,8 @@ BAAR_WeaponModAdjectives.lsx;Oozing;Befouled;
 BAAR_WeaponModAdjectives.lsx;Dripping with Ooze;of Befouling;
 BAAR_WeaponModAdjectives.lsx;Oily;Mired;
 BAAR_WeaponModAdjectives.lsx;Dripping with Oil;of Miring;
-BAAR_WeaponModAdjectives.lsx;Vulnerable;Suppressing;
-BAAR_WeaponModAdjectives.lsx;of the Vicious Rainbow;of Suppression;
+BAAR_WeaponModAdjectives.lsx;Vulnerable;Suppressing;Подавляющ.
+BAAR_WeaponModAdjectives.lsx;of the Vicious Rainbow;of Suppression;подавления
 BAAR_WeaponModAdjectives.lsx;Poison Dripping;Pestilent;
 BAAR_WeaponModAdjectives.lsx;of Creeping Ooze;of Pestilence;
 BAAR_WeaponModAdjectives.lsx;Rot Shedding;Umbral;
@@ -3022,9 +3022,9 @@ BAAR_WeaponModAdjectives.lsx;of Inoculation;of Remedy;
 BAAR_WeaponModAdjectives.lsx;Breezy;Grounded;
 BAAR_WeaponModAdjectives.lsx;Warming;Thermophilic;
 BAAR_WeaponModAdjectives.lsx;Fisherman's;Psychrophilic;
-BAAR_WeaponModAdjectives.lsx;Earthy;Cthonic;
-BAAR_WeaponModAdjectives.lsx;Vampire Bat's;Vampiric;
-BAAR_WeaponModAdjectives.lsx;of Minor Vampirism;of Vampirism;
+BAAR_WeaponModAdjectives.lsx;Earthy;Cthonic;Хтоническ.
+BAAR_WeaponModAdjectives.lsx;Vampire Bat's;Vampiric;Вампирическ.
+BAAR_WeaponModAdjectives.lsx;of Minor Vampirism;of Vampirism;вампиризма
 BAAR_WeaponModAdjectives.lsx;Elementalist's;Elementalist's;
 BAAR_WeaponModAdjectives.lsx;of the Blood Rainbow;of Elements;
 BAAR_WeaponModAdjectives.lsx;Attentive;Reactive;
@@ -3037,22 +3037,22 @@ BAAR_WeaponModAdjectives.lsx;of Elemental Knowledge;of Prisms;
 BAAR_WeaponModAdjectives.lsx;Lethargic;Torpid;
 BAAR_WeaponModAdjectives.lsx;of Torpor;of Torpor;
 BAAR_WeaponModAdjectives.lsx;Reaper's;Reaper's;
-BAAR_WeaponModAdjectives.lsx;of the Reaper;of the Reaper;
+BAAR_WeaponModAdjectives.lsx;of the Reaper;of the Reaper;жнеца
 BAAR_WeaponModAdjectives.lsx;Sundering;Sundering;
 BAAR_WeaponModAdjectives.lsx;of Cracking;of Sundering;
 BAAR_WeaponModAdjectives.lsx;of the Flash;of Travel;
 BAAR_WeaponModAdjectives.lsx;of the Bard;of the Bard;барда
-BAAR_WeaponModAdjectives.lsx;Bardic;Bardic;
+BAAR_WeaponModAdjectives.lsx;Bardic;Bardic;Бардовск.
 BAAR_WeaponModAdjectives.lsx;Nullifying;Nullifying;
 BAAR_WeaponModAdjectives.lsx;of Nullification;of Nullification;
-BAAR_WeaponModAdjectives.lsx;Chameleonic;Chameleonic;
+BAAR_WeaponModAdjectives.lsx;Chameleonic;Chameleonic;Хамелеонск.
 BAAR_WeaponModAdjectives.lsx;of the Chameleon;of the Chameleon;хамелеона
 BAAR_WeaponModAdjectives.lsx;Barbed;Barbed;
 BAAR_WeaponModAdjectives.lsx;of Barbs;of Barbs;
-BAAR_WeaponModAdjectives.lsx;Delicious;Hungering;
-BAAR_WeaponModAdjectives.lsx;of Gnawing;of Famine;
-BAAR_WeaponModAdjectives.lsx;Bloodsucking;Cannibalistic;
-BAAR_WeaponModAdjectives.lsx;of the Generous Leech;of Cannibals;
+BAAR_WeaponModAdjectives.lsx;Delicious;Hungering;Жаждущ.
+BAAR_WeaponModAdjectives.lsx;of Gnawing;of Famine;голода
+BAAR_WeaponModAdjectives.lsx;Bloodsucking;Cannibalistic;Людоедск.
+BAAR_WeaponModAdjectives.lsx;of the Generous Leech;of Cannibals;людоеда
 BAAR_WeaponModAdjectives.lsx;Ravenous;Voracious;
 BAAR_WeaponModAdjectives.lsx;of the Bloody Feast;of Voracity;
 BAAR_WeaponModAdjectives.lsx;Self-Blessing;Consecrated;
