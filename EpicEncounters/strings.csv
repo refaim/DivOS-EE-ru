@@ -1,4 +1,4 @@
-﻿File;UUID;English;Russian
+File;UUID;English;Russian
 AMER_Adjectives.lsx;Deadly;Deadly;Смертоносн.
 AMER_Adjectives.lsx;of Slaying;of Slaying;убийства
 AMER_Adjectives.lsx;Lethal;Lethal;Смертельн.
@@ -72,7 +72,7 @@ AMER_Hints.lsx;HINT_PETPAL;Epic Encounters reworks Charisma into the new ability
 AMER_Hints.lsx;HINT_MAPMARKER;Be sure to pay Epic Encounters' additional areas a visit. You can find the entrace to this content from the later portion of the Phantom Forest- it's tough to miss.;
 AMER_Items.lsx;AMER_LOOT_TormentedSwole;Anguished Soul;
 AMER_Items.lsx;WPN_Arbalest_J;Colossal Arbalest;
-AMER_Items.lsx;AMER_RezSickness_Description;abcdefg;
+AMER_Items.lsx;AMER_RezSickness_Description;abcdefg;абвгде
 AMER_Items.lsx;AMER_LOOT_Essence_Air_A;Air Essence;Сущность воздуха
 AMER_Items.lsx;AMER_LOOT_Essence_Earth_A;Earth Essence;Сущность земли
 AMER_Items.lsx;AMER_LOOT_Essence_Water_A;Water Essence;Сущность воды
@@ -363,20 +363,20 @@ AMER_Items.lsx;AMER_LOOT_UNI_Shard_B;Artifact Shard;Простой осколо�
 AMER_Items.lsx;AMER_LOOT_UNI_Shard_C;Exceptional Artifact Shard;Необычный осколок артефакта
 AMER_Items.lsx;AMER_LOOT_UNI_Shard_D;Wonderous Artifact Shard;Чудесный осколок артефакта
 AMER_Items.lsx;AMER_LOOT_UNI_Shard_E;Ascendant Artifact Shard;
-AMER_Items.lsx;AMER_TOOL_Dye_Abyss;Abyss;
-AMER_Items.lsx;AMER_TOOL_Dye_Clay;Clay;
-AMER_Items.lsx;AMER_TOOL_Dye_Coral;Coral;
-AMER_Items.lsx;AMER_TOOL_Dye_Earth;Earth;
-AMER_Items.lsx;AMER_TOOL_Dye_Fog;Fog;
-AMER_Items.lsx;AMER_TOOL_Dye_Lichen;Lichen;
-AMER_Items.lsx;AMER_TOOL_Dye_Midnight;Midnight;
-AMER_Items.lsx;AMER_TOOL_Dye_Nemesis;Nemesis;
-AMER_Items.lsx;AMER_TOOL_Dye_Saffron;Saffron;
-AMER_Items.lsx;AMER_TOOL_Dye_Seafoam;Seafoam;
-AMER_Items.lsx;AMER_TOOL_Dye_Smoke;Smoke;
-AMER_Items.lsx;AMER_TOOL_Dye_Stealth;Stealth;
-AMER_Items.lsx;AMER_TOOL_Dye_Verdure;Verdure;
-AMER_Items.lsx;AMER_TOOL_Dye_Void;Void;
+AMER_Items.lsx;AMER_TOOL_Dye_Abyss;Abyss;Краска для ткани цвета бездны
+AMER_Items.lsx;AMER_TOOL_Dye_Clay;Clay;Краска для ткани цвета глины
+AMER_Items.lsx;AMER_TOOL_Dye_Coral;Coral;Коралловая краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Earth;Earth;Земляная краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Fog;Fog;Туманная краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Lichen;Lichen;Лишайниковая краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Midnight;Midnight;Полуночная краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Nemesis;Nemesis;Краска для ткани цвета возмездия
+AMER_Items.lsx;AMER_TOOL_Dye_Saffron;Saffron;Шафрановая краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Seafoam;Seafoam;Краска для ткани цвета морской пены
+AMER_Items.lsx;AMER_TOOL_Dye_Smoke;Smoke;Дымная краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Stealth;Stealth;Невидимая краска для ткани
+AMER_Items.lsx;AMER_TOOL_Dye_Verdure;Verdure;Краска для ткани цвета зелени
+AMER_Items.lsx;AMER_TOOL_Dye_Void;Void;Краска для ткани цвета пустоты
 AMER_Items.lsx;AMER_TOOL_PhilosopherStone;Artificer's Stone;Камень артефактора
 AMER_Markers.lsx;AMER_WST_AbyssalTower;Tower of Abyssal Studies;
 AMER_Markers.lsx;AMER_WST_AstralTower;Tower of Astral Studies;
@@ -1700,24 +1700,24 @@ ayylmao.lsx;Projectile_SplittingArrow_StatsDescription;"<p align=""left""><font 
 ayylmao.lsx;Rain_RainOfArrows_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    5 Ranger<br>    •    Cooldown -2 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]<br>Radius: [3]</font><br><br>Damage dealt depends on your weapon's damage rating.</p>";
 ayylmao.lsx;Target_ShacklesOfPain_Description;"Bind the life of your enemies to yourself; all targets affected take equivalent damage whenever you do.";
 ayylmao.lsx;AMER_STATUS_ShacklesOfPain;"<font color=""c80000"">Shackles Of Pain</font>";"<font color=""c80000"">Оковы боли</font>"
-ayylmao.lsx;AMER_SKILL_Rebirth_Description;Accept death's cold embrace, only to be reborn in blazing glory shortly after.;
-ayylmao.lsx;AMER_SKILL_Rebirth_DisplayName;Rebirth;
-ayylmao.lsx;AMER_SKILLBOOK_Rebirth;"<font color=""c7a758"">Rebirth Skillbook</font>";
-ayylmao.lsx;AMER_STATUS_FrozenImmune1;Freeze Immunity;
-ayylmao.lsx;AMER_STATUS_FrozenImmune2;Freeze Immunity;
-ayylmao.lsx;AMER_STATUS_FrozenImmune3;Freeze Immunity;
-ayylmao.lsx;AMER_STATUS_StunnedImmune1;Stun Immunity;
-ayylmao.lsx;AMER_STATUS_StunnedImmune2;Stun Immunity;
-ayylmao.lsx;AMER_STATUS_StunnedImmune3;Stun Immunity;
-ayylmao.lsx;AMER_STATUS_PetrifiedImmune1;Petrify Immunity;
-ayylmao.lsx;AMER_STATUS_PetrifiedImmune2;Petrify Immunity;
-ayylmao.lsx;AMER_STATUS_PetrifiedImmune3;Petrify Immunity;
-ayylmao.lsx;AMER_STATUS_KnockedDownImmune1;Knockdown Immunity;
-ayylmao.lsx;AMER_STATUS_KnockedDownImmune2;Knockdown Immunity;
-ayylmao.lsx;AMER_STATUS_KnockedDownImmune3;Knockdown Immunity;
-ayylmao.lsx;AMER_STATUS_FearImmune1;Fear Immunity;
-ayylmao.lsx;AMER_STATUS_FearImmune2;Fear Immunity;
-ayylmao.lsx;AMER_STATUS_FearImmune3;Fear Immunity;
+ayylmao.lsx;AMER_SKILL_Rebirth_Description;Accept death's cold embrace, only to be reborn in blazing glory shortly after.;Утони в холодных объятиях смерти и возродись в ревущем пламени.
+ayylmao.lsx;AMER_SKILL_Rebirth_DisplayName;Rebirth;Перерождение
+ayylmao.lsx;AMER_SKILLBOOK_Rebirth;"<font color=""c7a758"">Rebirth Skillbook</font>";"<font color=""c7a758"">Книга навыка «Перерождение»</font>"
+ayylmao.lsx;AMER_STATUS_FrozenImmune1;Freeze Immunity;Нельзя заморозить
+ayylmao.lsx;AMER_STATUS_FrozenImmune2;Freeze Immunity;Нельзя заморозить
+ayylmao.lsx;AMER_STATUS_FrozenImmune3;Freeze Immunity;Нельзя заморозить
+ayylmao.lsx;AMER_STATUS_StunnedImmune1;Stun Immunity;Нельзя оглушить
+ayylmao.lsx;AMER_STATUS_StunnedImmune2;Stun Immunity;Нельзя оглушить
+ayylmao.lsx;AMER_STATUS_StunnedImmune3;Stun Immunity;Нельзя оглушить
+ayylmao.lsx;AMER_STATUS_PetrifiedImmune1;Petrify Immunity;Нельзя окаменить
+ayylmao.lsx;AMER_STATUS_PetrifiedImmune2;Petrify Immunity;Нельзя окаменить
+ayylmao.lsx;AMER_STATUS_PetrifiedImmune3;Petrify Immunity;Нельзя окаменить
+ayylmao.lsx;AMER_STATUS_KnockedDownImmune1;Knockdown Immunity;Нельзя уронить
+ayylmao.lsx;AMER_STATUS_KnockedDownImmune2;Knockdown Immunity;Нельзя уронить
+ayylmao.lsx;AMER_STATUS_KnockedDownImmune3;Knockdown Immunity;Нельзя уронить
+ayylmao.lsx;AMER_STATUS_FearImmune1;Fear Immunity;Нельзя напугать
+ayylmao.lsx;AMER_STATUS_FearImmune2;Fear Immunity;Нельзя напугать
+ayylmao.lsx;AMER_STATUS_FearImmune3;Fear Immunity;Нельзя напугать
 ayylmao.lsx;AMER_PackmuleStrength;Packmule;Грузчик
 ayylmao.lsx;AMER_ClairvoyantPerception;Clairvoyant;Изворотливый
 ayylmao.lsx;AMER_NimbleDexterity;Nimble;Быстрые ноги
@@ -1728,82 +1728,82 @@ ayylmao.lsx;AMER_SKILLBOOK_MistyStep;"<font color=""c7a758"">Misty Step Skillboo
 ayylmao.lsx;AMER_FleetFootedMovement;Fleet Footed;
 ayylmao.lsx;AMER_Blind;"<font color=""464545"">Blind</font>";
 ayylmao.lsx;Stats_Adrenaline;Relentless;
-ayylmao.lsx;AMER_AstroGazeFire1;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire2;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire3;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire4;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire5;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire6;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire7;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeFire8;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";
-ayylmao.lsx;AMER_AstroGazeWater1;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater2;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater3;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater4;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater5;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater6;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater7;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeWater8;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";
-ayylmao.lsx;AMER_AstroGazeEarth1;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth2;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth3;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth4;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth5;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth6;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth7;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeEarth8;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";
-ayylmao.lsx;AMER_AstroGazeAir1;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir2;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir3;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir4;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir5;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir6;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir7;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazeAir8;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";
-ayylmao.lsx;AMER_AstroGazePoison1;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison2;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison3;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison4;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison5;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison6;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison7;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazePoison8;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";
-ayylmao.lsx;AMER_AstroGazeShadow1;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow2;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow3;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow4;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow5;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow6;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow7;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazeShadow8;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";
-ayylmao.lsx;AMER_AstroGazePiercing1;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing2;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing3;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing4;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing5;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing6;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing7;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazePiercing8;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing1;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing2;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing3;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing4;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing5;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing6;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing7;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeSlashing8;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing1;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing2;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing3;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing4;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing5;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing6;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing7;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;AMER_AstroGazeCrushing8;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";
-ayylmao.lsx;SKILLBOOST_DivineLight;"<font color=""f59000"">Divine Light</font>";
-ayylmao.lsx;AMER_STATUS_BlindImmune2;Blind Immunity;
-ayylmao.lsx;AMER_STATUS_BlindImmune1;Blind Immunity;
-ayylmao.lsx;AMER_STATUS_BlindImmune3;Blind Immunity;
+ayylmao.lsx;AMER_AstroGazeFire1;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire2;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire3;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire4;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire5;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire6;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire7;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeFire8;"<font color=""e96810"">Astrologer's Gaze: Fire</font>";"<font color=""e96810"">Пронзающий взор: огонь</font>"
+ayylmao.lsx;AMER_AstroGazeWater1;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater2;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater3;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater4;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater5;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater6;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater7;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeWater8;"<font color=""3ba8f0"">Astrologer's Gaze: Water</font>";"<font color=""3ba8f0"">Пронзающий взор: вода</font>"
+ayylmao.lsx;AMER_AstroGazeEarth1;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth2;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth3;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth4;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth5;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth6;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth7;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeEarth8;"<font color=""e6ce3d"">Astrologer's Gaze: Earth</font>";"<font color=""e6ce3d"">Пронзающий взор: земля</font>"
+ayylmao.lsx;AMER_AstroGazeAir1;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir2;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir3;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir4;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir5;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir6;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir7;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazeAir8;"<font color=""7b70d2"">Astrologer's Gaze: Air</font>";"<font color=""7b70d2"">Пронзающий взор: воздух</font>"
+ayylmao.lsx;AMER_AstroGazePoison1;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison2;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison3;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison4;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison5;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison6;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison7;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazePoison8;"<font color=""5fbd00"">Astrologer's Gaze: Poison</font>";"<font color=""5fbd00"">Пронзающий взор: яд</font>"
+ayylmao.lsx;AMER_AstroGazeShadow1;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow2;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow3;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow4;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow5;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow6;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow7;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazeShadow8;"<font color=""8e3f8e"">Astrologer's Gaze: Tenebrium</font>";"<font color=""8e3f8e"">Пронзающий взор: тенебрий</font>"
+ayylmao.lsx;AMER_AstroGazePiercing1;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing2;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing3;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing4;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing5;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing6;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing7;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazePiercing8;"<font color=""969696"">Astrologer's Gaze: Piercing</font>";"<font color=""969696"">Пронзающий взор: колющий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing1;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing2;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing3;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing4;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing5;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing6;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing7;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeSlashing8;"<font color=""969696"">Astrologer's Gaze: Slashing</font>";"<font color=""969696"">Пронзающий взор: рубящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing1;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing2;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing3;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing4;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing5;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing6;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing7;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;AMER_AstroGazeCrushing8;"<font color=""969696"">Astrologer's Gaze: Crushing</font>";"<font color=""969696"">Пронзающий взор: дробящий урон</font>"
+ayylmao.lsx;SKILLBOOST_DivineLight;"<font color=""f59000"">Divine Light</font>";"<font color=""f59000"">Божественный свет</font>"
+ayylmao.lsx;AMER_STATUS_BlindImmune2;Blind Immunity;Нельзя ослепить
+ayylmao.lsx;AMER_STATUS_BlindImmune1;Blind Immunity;Нельзя ослепить
+ayylmao.lsx;AMER_STATUS_BlindImmune3;Blind Immunity;Нельзя ослепить
 ayylmao.lsx;Projectile_SplittingArrow_DisplayName;Fusillade;
 ayylmao.lsx;AMER_SKILL_Erosion_DisplayName;Erosion;
 ayylmao.lsx;AMER_SKILL_Erosion_Description;Water bubbles and seeps forth from flesh and bone, splintering away what was once whole.;
@@ -1864,7 +1864,7 @@ ayylmao.lsx;AMER_STATUS_Torment;"<font color=""c80000"">Torment</font>";
 ayylmao.lsx;AMER_STATUS_TormentNoLonger;"is no longer <font color=""c80000"">Tormented</font>.";
 ayylmao.lsx;AMER_RageOfThePhoenix;"<font color=""e96810"">Rage of the Phoenix</font>";
 ayylmao.lsx;AMER_SKILL_Rebirth_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    5 Pyrokinetic<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">May only be cast in combat.<br>You die upon casting.<br>Resurrected to 100% vitality on your next turn.<br>Ignore Touch of the Grave.<br>Cast Rage of the Phoenix upon resurrection.</font><br><br>Rage of the Phoenix causes [1] damage and Knockdown for 2 turns to enemies within 9m. Also creates burning ground and grants the caster Rage for 3 turns, +[4] Constitution, +[2]% fire resistance and +25% maximum fire resistance for [3] turns.<br><br>&quot;Phoenix down.&quot;</p>";
-ayylmao.lsx;AMER_RebirthString;"is <font color=""e96810"">Reborn</font>.";
+ayylmao.lsx;AMER_RebirthString;"is <font color=""e96810"">Reborn</font>.";"<font color=""e96810"">перерождается</font>."
 ayylmao.lsx;AMER_SKILL_Audacity_DisplayName;Audacity;
 ayylmao.lsx;AMER_SKILL_Audacity_Description;"Your vision burns red- suddenly, you deserve everything; filled with bold audacity, you gain efficiency with all actions.";
 ayylmao.lsx;AMER_SKILL_Audacity_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Intelligence<br>    •    5 Aerotheurge<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">AP cost reduction: [2]<br>AP costs cannot be reduced below 1.</font><br><br>&quot;Yours you say? Well, it's mine, now... EVERYTHING is -mine- now!&quot;</p>";
@@ -1909,8 +1909,8 @@ ayylmao.lsx;AMER_STATUS_Maze;"<font color=""e9d23d"">Mazed</font>";
 ayylmao.lsx;AMER_STATUS_MazeStill;"is still <font color=""e9d23d"">Mazed</font>.";
 ayylmao.lsx;AMER_STATUS_MazeNoLonger;"is no longer <font color=""e9d23d"">Mazed</font>.";
 ayylmao.lsx;AMER_STATUS_ApplyMaze;Mazed;
-ayylmao.lsx;Shout_MeleePowerStance_DisplayName;Melee Precision Stance;Стойка точности в ближнем бою
-ayylmao.lsx;SKILLBOOK_Warrior_Shout_MeleePowerStance;Melee Precision Stance Skillbook;Книга навыка «Стойка точности в ближнем бою»
+ayylmao.lsx;Shout_MeleePowerStance_DisplayName;Melee Precision Stance;Стойка точности
+ayylmao.lsx;SKILLBOOK_Warrior_Shout_MeleePowerStance;Melee Precision Stance Skillbook;Книга навыка «Стойка точности»
 ayylmao.lsx;Target_StunStart_Description;"An enormous fist smashes your enemy and knocks it down; dealing [1] damage.";
 ayylmao.lsx;AMER_STATUS_Lucky;"<font color=""c1a257"">Lucky</font>";
 ayylmao.lsx;AMER_LuckyCharm_Armor1;Lucky!;
@@ -2307,11 +2307,11 @@ ayylmao.lsx;AMER_SKILLBOOK_CreepingOoze;Creeping Ooze Skillbook;
 ayylmao.lsx;AMER_SKILL_CreepingOoze_DisplayName;Creeping Ooze;
 ayylmao.lsx;AMER_SKILL_CreepingOoze_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    8 Intelligence<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Radius: [2]</font><br><br>Ooze Poisons characters and will explode when ignited.<br><br>Poisoned deals poison damage over time. Poisoned targets lose 15% Poison Resistance every turn, up to -45%.</p>";
 ayylmao.lsx;AMER_SKILL_CreepingOoze_Description;Coat the target surface with a viscous, poisonous Ooze that extends under neighboring characters within 2.5m. This expansion continues from target-to-target.;
-ayylmao.lsx;AMER_STATUS_DrainWillpower2;"<font color=""9b26de"">Drain Willpower</font>";
-ayylmao.lsx;AMER_STATUS_DrainWillpowerFail;"is <font color=""9b26de"">Willpower Drained</font>.";
-ayylmao.lsx;AMER_STATUS_DrainWillpowerSave;"partially resisted <font color=""9b26de"">Drain Willpower</font>.";
-ayylmao.lsx;AMER_STATUS_DrainWillpower1;"<font color=""9b26de"">Partial Drain Willpower</font>";
-ayylmao.lsx;AMER_STATUS_ApplyDrainWillpower;"<font color=""9b26de"">Drain Willpower</font>";
+ayylmao.lsx;AMER_STATUS_DrainWillpower2;"<font color=""9b26de"">Drain Willpower</font>";"<font color=""9b26de"">Истощение воли</font>"
+ayylmao.lsx;AMER_STATUS_DrainWillpowerFail;"is <font color=""9b26de"">Willpower Drained</font>.";"<font color=""9b26de"">теряет волю</font>."
+ayylmao.lsx;AMER_STATUS_DrainWillpowerSave;"partially resisted <font color=""9b26de"">Drain Willpower</font>.";"пытается сопротивляться <font color=""9b26de"">истощению воли</font>."
+ayylmao.lsx;AMER_STATUS_DrainWillpower1;"<font color=""9b26de"">Partial Drain Willpower</font>";"<font color=""9b26de"">Малое истощение воли</font>"
+ayylmao.lsx;AMER_STATUS_ApplyDrainWillpower;"<font color=""9b26de"">Drain Willpower</font>";"<font color=""9b26de"">Истощение воли</font>"
 ayylmao.lsx;Target_DrainWillpower_Description;Tarnish a target's presence of mind, reducing its Willpower by [2]. Those who resist the effect are still compromised to a lesser extent.;
 ayylmao.lsx;AMER_STATUS_SoulsapFail;"is <font color=""9b26de"">Soulsapped</font>.";
 ayylmao.lsx;AMER_STATUS_SoulsapSave1;"partially resisted <font color=""9b26de"">Soulsap</font>.";
@@ -2515,19 +2515,19 @@ ayylmao.lsx;AMER_SKILL_FreezingTrap_DisplayName;Freezing Trap;Морозная �
 ayylmao.lsx;AMER_SKILL_FreezingTrap_Description;Set a devious, icy trap at your feet that remains for up to 3 rounds. Enemies who come within 3 meters of the trap trigger it, dealing [1] damage and Freezing all, except the caster, within 3 meters.;
 ayylmao.lsx;AMER_SKILL_FreezingTrap_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Dexterity<br>    •    3 Ranger<br>    •    Cooldown -4 at 15 Dexterity</font><br><br>&quot;You've triggered my trap-card!&quot;</p>";
 ayylmao.lsx;AMER_FreezingTrap;"<font color=""3ba8f0"">Freezing Trap</font>";"<font color=""3ba8f0"">Морозная ловушка</font>"
-ayylmao.lsx;AMER_STATUS_Enervate;"<font color=""7b70d2"">Enervate</font>";
+ayylmao.lsx;AMER_STATUS_Enervate;"<font color=""7b70d2"">Enervate</font>";"<font color=""7b70d2"">Воля похищена</font>"
 ayylmao.lsx;AMER_STATUS_EnervateFail;"is <font color=""7b70d2"">Enervated</font>.";
-ayylmao.lsx;AMER_STATUS_EnervateSave;"saved against <font color=""7b70d2"">Enervate</font>.";
+ayylmao.lsx;AMER_STATUS_EnervateSave;"saved against <font color=""7b70d2"">Enervate</font>.";"сопротивляется <font color=""7b70d2"">похищению воли</font>."
 ayylmao.lsx;AMER_STATUS_EnervateStill;"is still <font color=""7b70d2"">Enervated</font>.";
 ayylmao.lsx;AMER_STATUS_EnervateNoLonger;"is no longer <font color=""7b70d2"">Enervated</font>.";
-ayylmao.lsx;AMER_STATUS_EnervateSelf1;"<font color=""7b70d2"">Enervate I</font>";
-ayylmao.lsx;AMER_STATUS_EnervateSelf2;"<font color=""7b70d2"">Enervate II</font>";
-ayylmao.lsx;AMER_STATUS_EnervateSelf3;"<font color=""7b70d2"">Enervate III</font>";
-ayylmao.lsx;AMER_SKILLBOOK_Enervate;"<font color=""c7a758"">Enervate Skillbook</font>";
-ayylmao.lsx;AMER_SKILL_Enervate_DisplayName;Enervate;
+ayylmao.lsx;AMER_STATUS_EnervateSelf1;"<font color=""7b70d2"">Enervate I</font>";"<font color=""7b70d2"">Похищение воли I</font>"
+ayylmao.lsx;AMER_STATUS_EnervateSelf2;"<font color=""7b70d2"">Enervate II</font>";"<font color=""7b70d2"">Похищение воли II</font>"
+ayylmao.lsx;AMER_STATUS_EnervateSelf3;"<font color=""7b70d2"">Enervate III</font>";"<font color=""7b70d2"">Похищение воли III</font>"
+ayylmao.lsx;AMER_SKILLBOOK_Enervate;"<font color=""c7a758"">Enervate Skillbook</font>";"<font color=""c7a758"">Книга навыка «Похищение воли»</font>"
+ayylmao.lsx;AMER_SKILL_Enervate_DisplayName;Enervate;Похищение воли
 ayylmao.lsx;AMER_SKILL_Enervate_Description;Drain energy from all within the target area, draining the Willpower and Intelligence of afflicted targets while gaining it for yourself.;
 ayylmao.lsx;AMER_SKILL_Enervate_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    4 Aerotheurge<br>    •    Cooldown -4 at 15 Intelligence<br></font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Radius: [2]<br>Saving Throw: Willpower.<br>Target Willpower: -1.<br>Intelligence: -2.<br>Gain 1 Willpower and Intelligence for each target successfully afflicted, up to 3.</font><br><br>&quot;Confused? I know!&quot;</p>";
-ayylmao.lsx;AMER_STATUS_ApplyEnervate;Enervate;
+ayylmao.lsx;AMER_STATUS_ApplyEnervate;Enervate;Похищение воли
 ayylmao.lsx;AMER_SKILL_EnemyBlooodShower_DisplayName;Primordial Tempest;
 ayylmao.lsx;AMER_CMB_MelchiorCarnality_BossBuff1;"<font color=""c80000"">Echoes of Humanity</font>";
 ayylmao.lsx;AMER_CMB_MelchiorCarnality_BossBuff2;"<font color=""c80000"">Echoes of Humanity</font>";
@@ -3027,36 +3027,36 @@ BAAR_WeaponModAdjectives.lsx;Vampire Bat's;Vampiric;Вампирическ.
 BAAR_WeaponModAdjectives.lsx;of Minor Vampirism;of Vampirism;вампиризма
 BAAR_WeaponModAdjectives.lsx;Elementalist's;Elementalist's;
 BAAR_WeaponModAdjectives.lsx;of the Blood Rainbow;of Elements;
-BAAR_WeaponModAdjectives.lsx;Attentive;Reactive;
-BAAR_WeaponModAdjectives.lsx;of Quick Step;of Reaction;
-BAAR_WeaponModAdjectives.lsx;Floating;Grounded;
+BAAR_WeaponModAdjectives.lsx;Attentive;Reactive;Реактивн.
+BAAR_WeaponModAdjectives.lsx;of Quick Step;of Reaction;реакции
+BAAR_WeaponModAdjectives.lsx;Floating;Grounded;Заземлённ.
 BAAR_WeaponModAdjectives.lsx;Self-Cleaning;Cthonic;Хтоническ.
-BAAR_WeaponModAdjectives.lsx;Serene;Psychrophilic;
-BAAR_WeaponModAdjectives.lsx;Mage's;Chromatic;
-BAAR_WeaponModAdjectives.lsx;of Elemental Knowledge;of Prisms;
-BAAR_WeaponModAdjectives.lsx;Lethargic;Torpid;
-BAAR_WeaponModAdjectives.lsx;of Torpor;of Torpor;
-BAAR_WeaponModAdjectives.lsx;Reaper's;Reaper's;
+BAAR_WeaponModAdjectives.lsx;Serene;Psychrophilic;Холодолюбив.
+BAAR_WeaponModAdjectives.lsx;Mage's;Chromatic;Хроматическ.
+BAAR_WeaponModAdjectives.lsx;of Elemental Knowledge;of Prisms;многоцветья
+BAAR_WeaponModAdjectives.lsx;Lethargic;Torpid;Оцепеневш.
+BAAR_WeaponModAdjectives.lsx;of Torpor;of Torpor;оцепенения
+BAAR_WeaponModAdjectives.lsx;Reaper's;Reaper's;Жатвенн.
 BAAR_WeaponModAdjectives.lsx;of the Reaper;of the Reaper;жнеца
-BAAR_WeaponModAdjectives.lsx;Sundering;Sundering;
-BAAR_WeaponModAdjectives.lsx;of Cracking;of Sundering;
-BAAR_WeaponModAdjectives.lsx;of the Flash;of Travel;
+BAAR_WeaponModAdjectives.lsx;Sundering;Sundering;Раскалывающ.
+BAAR_WeaponModAdjectives.lsx;of Cracking;of Sundering;раскола
+BAAR_WeaponModAdjectives.lsx;of the Flash;of Travel;странствий
 BAAR_WeaponModAdjectives.lsx;of the Bard;of the Bard;барда
 BAAR_WeaponModAdjectives.lsx;Bardic;Bardic;Бардовск.
-BAAR_WeaponModAdjectives.lsx;Nullifying;Nullifying;
-BAAR_WeaponModAdjectives.lsx;of Nullification;of Nullification;
+BAAR_WeaponModAdjectives.lsx;Nullifying;Nullifying;Обнуляющ.
+BAAR_WeaponModAdjectives.lsx;of Nullification;of Nullification;обнуления
 BAAR_WeaponModAdjectives.lsx;Chameleonic;Chameleonic;Хамелеонск.
 BAAR_WeaponModAdjectives.lsx;of the Chameleon;of the Chameleon;хамелеона
-BAAR_WeaponModAdjectives.lsx;Barbed;Barbed;
-BAAR_WeaponModAdjectives.lsx;of Barbs;of Barbs;
+BAAR_WeaponModAdjectives.lsx;Barbed;Barbed;Колюч.
+BAAR_WeaponModAdjectives.lsx;of Barbs;of Barbs;с шипами
 BAAR_WeaponModAdjectives.lsx;Delicious;Hungering;Жаждущ.
 BAAR_WeaponModAdjectives.lsx;of Gnawing;of Famine;голода
 BAAR_WeaponModAdjectives.lsx;Bloodsucking;Cannibalistic;Людоедск.
 BAAR_WeaponModAdjectives.lsx;of the Generous Leech;of Cannibals;людоеда
-BAAR_WeaponModAdjectives.lsx;Ravenous;Voracious;
-BAAR_WeaponModAdjectives.lsx;of the Bloody Feast;of Voracity;
-BAAR_WeaponModAdjectives.lsx;Self-Blessing;Consecrated;
-BAAR_WeaponModAdjectives.lsx;of the Racer;of Celerity;
+BAAR_WeaponModAdjectives.lsx;Ravenous;Voracious;Прожорлив.
+BAAR_WeaponModAdjectives.lsx;of the Bloody Feast;of Voracity;прожорливости
+BAAR_WeaponModAdjectives.lsx;Self-Blessing;Consecrated;Освящённ.
+BAAR_WeaponModAdjectives.lsx;of the Racer;of Celerity;проворства
 BAAR_WeaponModAdjectives.lsx;of Karma;of Karma;кармы
 BAAR_WeaponModAdjectives.lsx;FeveredTouch;FeveredTouch;
 BAAR_WeaponModStatuses.lsx;Alchemist;Alchemist's Joy;
@@ -3092,8 +3092,8 @@ BAAR_WeaponModStatuses.lsx;FastWeaponSwitch;Weapon Juggler;
 BAAR_WeaponModStatuses.lsx;FocusedVampirism;Hunger;
 BAAR_WeaponModStatuses.lsx;MassVampirism;Leeching Strikes;
 BAAR_WeaponModStatuses.lsx;SharedVampirism;Mark of the Cannibal;
-BAAR_WeaponModStatuses.lsx;GritDrain1;Minor Grit Drain;
-BAAR_WeaponModStatuses.lsx;WillpowerDrain1;Minor Willpower Drain;
+BAAR_WeaponModStatuses.lsx;GritDrain1;Minor Grit Drain;Малое истощение тела
+BAAR_WeaponModStatuses.lsx;WillpowerDrain1;Minor Willpower Drain;Малое истощение воли
 BAAR_WeaponModStatuses.lsx;ReapersDelight;Reaper's Revelry;
 BAAR_WeaponModStatuses.lsx;EarthVulnerability1;Earth Resistance Drain I;
 BAAR_WeaponModStatuses.lsx;EarthVulnerability2;Earth Resistance Drain II;
