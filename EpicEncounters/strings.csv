@@ -1556,14 +1556,14 @@ ayylmao.lsx;AMER_PERC_Init4;Perception;Восприятие
 ayylmao.lsx;AMER_PERC_Init3;Perception;Восприятие
 ayylmao.lsx;AMER_PERC_Init2;Perception;Восприятие
 ayylmao.lsx;AMER_PERC_Init1;Perception;Восприятие
-ayylmao.lsx;AMER_TwoHand1;Two-Handed;
-ayylmao.lsx;AMER_TwoHand2;Two-Handed;
-ayylmao.lsx;AMER_TwoHand3;Two-Handed;
-ayylmao.lsx;AMER_TwoHand4;Two-Handed;
-ayylmao.lsx;AMER_TwoHand5;Two-Handed;
-ayylmao.lsx;AMER_TwoHand6;Two-Handed;
-ayylmao.lsx;AMER_TwoHand7;Two-Handed;
-ayylmao.lsx;AMER_TwoHand8;Two-Handed;
+ayylmao.lsx;AMER_TwoHand1;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand2;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand3;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand4;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand5;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand6;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand7;Two-Handed;Двуручное оружие
+ayylmao.lsx;AMER_TwoHand8;Two-Handed;Двуручное оружие
 ayylmao.lsx;AMER_BackstabBonus8;"<font color=""c80000"">Backstab! Damage times 3.8!</font>";
 ayylmao.lsx;AMER_BackstabBonus9;"<font color=""c80000"">Backstab! Damage times 4.2!</font>";
 ayylmao.lsx;AMER_BullyPenalty;Bully;Забияка
@@ -2566,12 +2566,12 @@ ayylmao.lsx;AMER_GlobalScaling2;Epic Encounters;
 ayylmao.lsx;AMER_GlobalScaling3;Epic Encounters;
 ayylmao.lsx;AMER_GlobalScaling4;Epic Encounters;
 ayylmao.lsx;AMER_GlobalScaling5;Epic Encounters;
-ayylmao.lsx;AMER_STATUS_FearImmune4;Fear Immunity;
-ayylmao.lsx;AMER_STATUS_FrozenImmune4;Freeze Immunity;
-ayylmao.lsx;AMER_STATUS_StunnedImmune4;Stun Immunity;
-ayylmao.lsx;AMER_STATUS_KnockedDownImmune4;Knockdown Immunity;
-ayylmao.lsx;AMER_STATUS_BlindImmune4;Blind Immunity;
-ayylmao.lsx;AMER_STATUS_PetrifiedImmune4;Petrify Immunity;
+ayylmao.lsx;AMER_STATUS_FearImmune4;Fear Immunity;Нельзя напугать
+ayylmao.lsx;AMER_STATUS_FrozenImmune4;Freeze Immunity;Нельзя заморозить
+ayylmao.lsx;AMER_STATUS_StunnedImmune4;Stun Immunity;Нельзя оглушить
+ayylmao.lsx;AMER_STATUS_KnockedDownImmune4;Knockdown Immunity;Нельзя уронить
+ayylmao.lsx;AMER_STATUS_BlindImmune4;Blind Immunity;Нельзя ослепить
+ayylmao.lsx;AMER_STATUS_PetrifiedImmune4;Petrify Immunity;Нельзя окаменить
 ayylmao.lsx;AMER_Scaling6;Epic Encounters;
 ayylmao.lsx;AMER_Scaling7;Epic Encounters;
 ayylmao.lsx;AMER_Scaling8;Epic Encounters;
@@ -2742,8 +2742,8 @@ ayylmao.lsx;AMER_EndgameBossScaling5;Epic Encounters;
 ayylmao.lsx;AMER_EndgameBossScaling6;Epic Encounters;
 ayylmao.lsx;AMER_EndgameBossScaling7;Epic Encounters;
 ayylmao.lsx;AMER_EndgameBossScaling8;Epic Encounters;
-ayylmao.lsx;SCROLL_Ranger_Charm;Rapture Scroll;
-ayylmao.lsx;SKILLBOOST_ImmuneToElectrifying;Avatar of Storms;
+ayylmao.lsx;SCROLL_Ranger_Charm;Rapture Scroll;Свиток «Очарование»
+ayylmao.lsx;SKILLBOOST_ImmuneToElectrifying;Avatar of Storms;Аватар бурь
 ayylmao.lsx;AMER_CMB_Incandescent;Incandescent;
 ayylmao.lsx;AMER_WhatARushAP1;What a Rush;
 ayylmao.lsx;AMER_WhatARushAP2;What a Rush;
