@@ -2030,30 +2030,30 @@ ayylmao.lsx;AMER_Charisma_BlockBuff3;"<font color=""c1a257"">Bardic Reaction</fo
 ayylmao.lsx;AMER_Charisma_BlockDebuff3;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
 ayylmao.lsx;AMER_Charisma_BlockDebuff2;"<font color=""c1a257"">Bardic Reaction</font>";"<font color=""c1a257"">Бардовская реакция</font>"
 ayylmao.lsx;AMER_BOOK_InfestorJournal;"*Most of the pages are long-decayed and coated in a thick fungal coat; it is difficult to find any legible text.*<br><br><br><NewPage>...Those fanatics will be the end of us all...<NewPage>...I will hide us, what else can I do?<NewPage>...Everyone is changing...<NewPage>I can no longer leave.";
-ayylmao.lsx;AMER_DIFFICULTY_Damage1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage8;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage16;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage32;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage64;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage128;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage256;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage512;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding3;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding5;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding6;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding7;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower3;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower5;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower6;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Willpower7;Epic Encounters;
+ayylmao.lsx;AMER_DIFFICULTY_Damage1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage128;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage256;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage512;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding5;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding6;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_BodyBuilding7;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower5;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower6;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Willpower7;Epic Encounters;Былинные битвы
 ayylmao.lsx;Stats_Stunned;Stunned;
 ayylmao.lsx;AMER_SKILL_EnemyCreepingShadows_DisplayName;Creeping Shadows;
 ayylmao.lsx;AMER_SKILL_EnemyWinterwolfIce_DisplayName;Winterwolf Breath;
@@ -2411,8 +2411,8 @@ ayylmao.lsx;AMER_CMB_MelchiorRestraint_Thorns;"<font color=""ff531a"">Ascendant 
 ayylmao.lsx;AMER_SKILL_EnemyMelchiorFearShackles_DisplayName;"<font color=""c80000"">Vitality Link</font>";
 ayylmao.lsx;Target_MassDisease_DisplayName;Plague;
 ayylmao.lsx;SKILLBOOK_MassDisease;Plague Skillbook;
-ayylmao.lsx;AMER_DIFFICULTY_Damage1024;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Damage2048;Epic Encounters;
+ayylmao.lsx;AMER_DIFFICULTY_Damage1024;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Damage2048;Epic Encounters;Былинные битвы
 ayylmao.lsx;AMER_BlessedEarthDamage;"<font color=""c1a257"">Blessed Damage</font>";
 ayylmao.lsx;AMER_WPN_Cyclops_Staff_B_Fighting_Staff_Shadow;Shaman Skull Shadow Staff;
 ayylmao.lsx;AMER_WPN_Wollocks_Staff_A_SkullHorns_Shadow;Skull Shadow Staff;
@@ -2467,11 +2467,11 @@ ayylmao.lsx;Target_Immolate_DisplayName;Soulfire;
 ayylmao.lsx;SKILLBOOK_Immolate;Soulfire Skillbook;
 ayylmao.lsx;Shout_Invulnerability_Description;"Channel your inner divinity or exploit source to achieve near-immortality; for the duration you cannot be harmed by conventional means.";
 ayylmao.lsx;AMER_Invulnerability;"<font color=""9b26de"">Invulnerable</font>";
-ayylmao.lsx;AMER_Scaling1;Epic Encounters;
-ayylmao.lsx;AMER_Scaling2;Epic Encounters;
-ayylmao.lsx;AMER_Scaling3;Epic Encounters;
-ayylmao.lsx;AMER_Scaling4;Epic Encounters;
-ayylmao.lsx;AMER_Scaling5;Epic Encounters;
+ayylmao.lsx;AMER_Scaling1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling5;Epic Encounters;Былинные битвы
 ayylmao.lsx;SCROLL_Immolate;Soulfire Scroll;
 ayylmao.lsx;SCROLL_IceShardStart;Ice Shards Scroll;
 ayylmao.lsx;SCROLL_MassDisease;Plague Scroll;
@@ -2561,109 +2561,109 @@ ayylmao.lsx;AMER_Overcharge1;"<font color=""7b70d2"">Overcharged x1</font>";
 ayylmao.lsx;AMER_Overcharge2;"<font color=""7b70d2"">Overcharged x2</font>";
 ayylmao.lsx;AMER_Overcharge3;"<font color=""7b70d2"">Overcharged x3</font>";
 ayylmao.lsx;AMER_Overcharge4;"<font color=""7b70d2"">Overcharged x4</font>";
-ayylmao.lsx;AMER_GlobalScaling1;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling2;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling3;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling4;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling5;Epic Encounters;
+ayylmao.lsx;AMER_GlobalScaling1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling5;Epic Encounters;Былинные битвы
 ayylmao.lsx;AMER_STATUS_FearImmune4;Fear Immunity;Нельзя напугать
 ayylmao.lsx;AMER_STATUS_FrozenImmune4;Freeze Immunity;Нельзя заморозить
 ayylmao.lsx;AMER_STATUS_StunnedImmune4;Stun Immunity;Нельзя оглушить
 ayylmao.lsx;AMER_STATUS_KnockedDownImmune4;Knockdown Immunity;Нельзя уронить
 ayylmao.lsx;AMER_STATUS_BlindImmune4;Blind Immunity;Нельзя ослепить
 ayylmao.lsx;AMER_STATUS_PetrifiedImmune4;Petrify Immunity;Нельзя окаменить
-ayylmao.lsx;AMER_Scaling6;Epic Encounters;
-ayylmao.lsx;AMER_Scaling7;Epic Encounters;
-ayylmao.lsx;AMER_Scaling8;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling6;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling7;Epic Encounters;
-ayylmao.lsx;AMER_GlobalScaling8;Epic Encounters;
-ayylmao.lsx;AMER_WillpowerScaling1;Epic Encounters;
-ayylmao.lsx;AMER_WillpowerScaling2;Epic Encounters;
-ayylmao.lsx;AMER_WillpowerScaling3;Epic Encounters;
-ayylmao.lsx;AMER_WillpowerScaling4;Epic Encounters;
-ayylmao.lsx;AMER_WillpowerScaling5;Epic Encounters;
-ayylmao.lsx;AMER_BodyBuildingScaling1;Epic Encounters;
-ayylmao.lsx;AMER_BodyBuildingScaling2;Epic Encounters;
-ayylmao.lsx;AMER_BodyBuildingScaling3;Epic Encounters;
-ayylmao.lsx;AMER_BodyBuildingScaling4;Epic Encounters;
-ayylmao.lsx;AMER_BodyBuildingScaling5;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingFireRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingWaterRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAirRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingEarthRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPoisonRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingShadowRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingPiercingRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingSlashingRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes16;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes32;Epic Encounters;
-ayylmao.lsx;AMER_ScalingCrushingRes64;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPRecovery1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPRecovery2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPRecovery4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPRecovery8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStart1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStart2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStart4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStart8;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStartN1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStartN2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStartN4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingAPStartN8;Epic Encounters;
+ayylmao.lsx;AMER_Scaling6;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling7;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_Scaling8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling6;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling7;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_GlobalScaling8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_WillpowerScaling1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_WillpowerScaling2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_WillpowerScaling3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_WillpowerScaling4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_WillpowerScaling5;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_BodyBuildingScaling1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_BodyBuildingScaling2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_BodyBuildingScaling3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_BodyBuildingScaling4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_BodyBuildingScaling5;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingFireRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingWaterRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAirRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingEarthRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPoisonRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingShadowRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingPiercingRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingSlashingRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingCrushingRes64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPRecovery1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPRecovery2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPRecovery4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPRecovery8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStart1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStart2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStart4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStart8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStartN1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStartN2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStartN4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingAPStartN8;Epic Encounters;Былинные битвы
 ayylmao.lsx;CON_Potion_Telekinesis_A;Metamind Potion;Зелье силы мысли
 ayylmao.lsx;CON_Potion_Telekinesis_Medium_A;Medium Metamind Potion;Среднее зелье силы мысли
 ayylmao.lsx;CON_Potion_Telekinesis_Large_A;Large Metamind Potion;Большое зелье силы мысли
@@ -2734,14 +2734,14 @@ ayylmao.lsx;Shout_SlowMass_Description;A low, rumbling distortion emanates from 
 ayylmao.lsx;Path_CreateSmokescreen_DisplayName;Sphere of Negation;Сфера отрицания
 ayylmao.lsx;SCROLL_CreateSmokescreen;Sphere of Negation Scroll;Свиток «Сфера отрицания»
 ayylmao.lsx;SKILLBOOK_CreateSmokescreen;Sphere of Negation Skillbook;Книга навыка «Сфера отрицания»
-ayylmao.lsx;AMER_EndgameBossScaling1;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling2;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling3;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling4;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling5;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling6;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling7;Epic Encounters;
-ayylmao.lsx;AMER_EndgameBossScaling8;Epic Encounters;
+ayylmao.lsx;AMER_EndgameBossScaling1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling3;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling5;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling6;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling7;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_EndgameBossScaling8;Epic Encounters;Былинные битвы
 ayylmao.lsx;SCROLL_Ranger_Charm;Rapture Scroll;Свиток «Очарование»
 ayylmao.lsx;SKILLBOOST_ImmuneToElectrifying;Avatar of Storms;Аватар бурь
 ayylmao.lsx;AMER_CMB_Incandescent;Incandescent;
@@ -2776,30 +2776,30 @@ ayylmao.lsx;AMER_PhysiquePoisonRes5;Physique;Выносливость
 ayylmao.lsx;AMER_PhysiquePoisonRes10;Physique;Выносливость
 ayylmao.lsx;AMER_PhysiquePoisonRes20;Physique;Выносливость
 ayylmao.lsx;AMER_PhysiquePoisonRes40;Physique;Выносливость
-ayylmao.lsx;AMER_ScalingInitiative1;Epic Encounters;
-ayylmao.lsx;AMER_ScalingInitiative2;Epic Encounters;
-ayylmao.lsx;AMER_ScalingInitiative4;Epic Encounters;
-ayylmao.lsx;AMER_ScalingInitiative8;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart8;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart16;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APStart32;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery8;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery16;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_APRecovery32;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative1;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative2;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative4;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative8;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative16;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative32;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative64;Epic Encounters;
-ayylmao.lsx;AMER_DIFFICULTY_Initiative128;Epic Encounters;
+ayylmao.lsx;AMER_ScalingInitiative1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingInitiative2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingInitiative4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_ScalingInitiative8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APStart32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_APRecovery32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative1;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative2;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative4;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative8;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative16;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative32;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative64;Epic Encounters;Былинные битвы
+ayylmao.lsx;AMER_DIFFICULTY_Initiative128;Epic Encounters;Былинные битвы
 ayylmao.lsx;Projectile_DeadlySpores_Description;Launch five poisonous spores that each deal [1] damage each to anything [3] from impact.;
 ayylmao.lsx;AMER_TEST_TurnTimeout;Waiting;
 ayylmao.lsx;AMER_TEST_TurnNoTargets;No Targets Available;
