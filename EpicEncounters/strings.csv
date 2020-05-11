@@ -2,7 +2,7 @@ File;UUID;English;Russian
 AMER_Adjectives.lsx;Deadly;Deadly;Смертоносн.
 AMER_Adjectives.lsx;of Slaying;of Slaying;убийства
 AMER_Adjectives.lsx;Lethal;Lethal;Смертельн.
-AMER_Adjectives.lsx;of Headstriking;of Headstriking;
+AMER_Adjectives.lsx;of Headstriking;of Headstriking;головоломства
 AMER_Adjectives.lsx;Heartseeker's;Heartseeker's;
 AMER_Adjectives.lsx;of Oblivion;of Oblivion;забвения
 AMER_Adjectives.lsx;of Eternity;of Eternity;вечности
@@ -11,33 +11,33 @@ AMER_Adjectives.lsx;Perpetual;Perpetual;Вечн.
 AMER_Adjectives.lsx;of the Stone;of the Stone;камня
 AMER_Adjectives.lsx;Enduring;Enduring;Прочн.
 AMER_Adjectives.lsx;of the Jaguar;of the Jaguar;ягуара
-AMER_Adjectives.lsx;Pouncing;Pouncing;
+AMER_Adjectives.lsx;Pouncing;Pouncing;Набрасывающ.
 AMER_Adjectives.lsx;of the Cobra;of the Cobra;кобры
-AMER_Adjectives.lsx;Springing;Springing;
+AMER_Adjectives.lsx;Springing;Springing;Упруг.
 AMER_Adjectives.lsx;of the Mongoose;of the Mongoose;мангуста
-AMER_Adjectives.lsx;Ambusher's;Ambusher's;
+AMER_Adjectives.lsx;Ambusher's;Ambusher's;Засадн.
 AMER_Adjectives.lsx;of the Ox;Of the Ox;буйвола
-AMER_Adjectives.lsx;Thrashing;Thrashing;
+AMER_Adjectives.lsx;Thrashing;Thrashing;Избит.
 AMER_Adjectives.lsx;of Mangling;of Mangling;искажения
-AMER_Adjectives.lsx;Binocular;Binocular;
+AMER_Adjectives.lsx;Binocular;Binocular;Бинокулярн.
 AMER_Adjectives.lsx;of Vision;of Vision;видения
 AMER_Adjectives.lsx;Empowered;Empowered;
 AMER_Adjectives.lsx;of Empowering;of Empowering;
-AMER_Adjectives.lsx;Metamind's;Metamind's;
-AMER_Adjectives.lsx;of the Metamind;of the Metamind;
+AMER_Adjectives.lsx;Metamind's;Metamind's;Ментальн.
+AMER_Adjectives.lsx;of the Metamind;of the Metamind;силы мысли
 AMER_Adjectives.lsx;of Tricks;of Tricks;хитрости
-AMER_Adjectives.lsx;Trickster's;Trickster's;
+AMER_Adjectives.lsx;Trickster's;Trickster's;Трикстерск.
 AMER_Adjectives.lsx;Godly;Godly;Божественн.
 AMER_Adjectives.lsx;of the Eternal Reign;of the Eternal Reign;вечного господства
 AMER_Adjectives.lsx;Shadoweave;Shadoweave;Тенешёлк.
-AMER_Adjectives.lsx;of the Antipode;of the Antipode;
-AMER_Adjectives.lsx;of Divinity;of Divinity;
+AMER_Adjectives.lsx;of the Antipode;of the Antipode;противоположностей
+AMER_Adjectives.lsx;of Divinity;of Divinity;божественности
 AMER_Adjectives.lsx;Unfettered;Unfettered;Освобождённ.
 AMER_Adjectives.lsx;of the Goliath;of the Goliath;гиганта
 AMER_Adjectives.lsx;Unstoppable;Unstoppable;Неудержим.
 AMER_Adjectives.lsx;Centurion's;Centurion's;центуриона
 AMER_Adjectives.lsx;of the Bastion;of the Bastion;бастиона
-AMER_Adjectives.lsx;Vitriolic;Vitriolic;
+AMER_Adjectives.lsx;Vitriolic;Vitriolic;Едк.
 AMER_Adjectives.lsx;of Corrosion;of Corrosion;коррозии
 AMER_Hints.lsx;HINT_CAM_ROTATE;In Epic Encounters your resistances are limited to 75%, but some powerful effects can allow you to surpass this limit.;
 AMER_Hints.lsx;HINT_CAM_ZOOM;Take caution to protect your resurrected companions, as they will return in a greatly weakened state for a short time.;
@@ -2860,46 +2860,46 @@ ayylmao.lsx;AMER_SKILL_EMPOWERED_Bolster_DisplayName;Empowered Bolster;
 ayylmao.lsx;AMER_SKILL_EMPOWERED_Bolster_Description;Steel your nerves and prepare for worst, increasing your armor and instantly removing the next two instances of Knockdown, Stun, Freeze, Petrify, Fear, or Charm that ails you. Your remaining AP is spent in the process.;
 ayylmao.lsx;AMER_SKILL_EMPOWERED_Bolster_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    8 Strength<br>    •    Cooldown -2 at 15 Strength</font><br><br><font color=""00ffff"" face=""Copperplate Gothic Bold"">Removes the next two disabling effects that ail you.</font><br><font face=""Copperplate Gothic Bold"">May only be cast in combat.<br>Spends all remaining AP.<br>+[1] armor until your next turn.</font></p>";
 ayylmao.lsx;Target_TargetedCurse_Description;Malediction removes Bless, then Weakens and Curses an enemy.;
-BAAR_WeaponModAdjectives.lsx;Kinetic;Traveling;
-BAAR_WeaponModAdjectives.lsx;Self-Hasting;Expeditious;
-BAAR_WeaponModAdjectives.lsx;Self-Raging;Furious;
-BAAR_WeaponModAdjectives.lsx;Karmic;Karmic;
-BAAR_WeaponModAdjectives.lsx;Avatar of Ash's;Incandescent;
-BAAR_WeaponModAdjectives.lsx;Avatar of Bile's;Inoculated;
-BAAR_WeaponModAdjectives.lsx;Avatar of Lightning's;Galvanized;
-BAAR_WeaponModAdjectives.lsx;Avatar of Frost's;Hibernal;
-BAAR_WeaponModAdjectives.lsx;of Thin Air;of Concealment;
-BAAR_WeaponModAdjectives.lsx;Magician's;Concealing;
-BAAR_WeaponModAdjectives.lsx;Hateful;Hateful;
+BAAR_WeaponModAdjectives.lsx;Kinetic;Traveling;Передвижн.
+BAAR_WeaponModAdjectives.lsx;Self-Hasting;Expeditious;Поспешн.
+BAAR_WeaponModAdjectives.lsx;Self-Raging;Furious;Неистов.
+BAAR_WeaponModAdjectives.lsx;Karmic;Karmic;Кармическ.
+BAAR_WeaponModAdjectives.lsx;Avatar of Ash's;Incandescent;Раскалённ.
+BAAR_WeaponModAdjectives.lsx;Avatar of Bile's;Inoculated;Инокулированн.
+BAAR_WeaponModAdjectives.lsx;Avatar of Lightning's;Galvanized;Гальванизированн.
+BAAR_WeaponModAdjectives.lsx;Avatar of Frost's;Hibernal;Зимн.
+BAAR_WeaponModAdjectives.lsx;of Thin Air;of Concealment;сокрытия
+BAAR_WeaponModAdjectives.lsx;Magician's;Concealing;Скрывающ.
 BAAR_WeaponModAdjectives.lsx;of Holiness;of Consecration;
-BAAR_WeaponModAdjectives.lsx;Quickening;Expeditious;
-BAAR_WeaponModAdjectives.lsx;of the Stone Shield;of Fortification;
-BAAR_WeaponModAdjectives.lsx;of Cleanliness;of Cthonians;
-BAAR_WeaponModAdjectives.lsx;of the Windbreak;of Grounding;
-BAAR_WeaponModAdjectives.lsx;of Gliding;of Gliding;
-BAAR_WeaponModAdjectives.lsx;of Cool Comfort;of Cool Comfort;
+BAAR_WeaponModAdjectives.lsx;Hateful;Hateful;Ненавистн.
+BAAR_WeaponModAdjectives.lsx;Quickening;Expeditious;Поспешн.
+BAAR_WeaponModAdjectives.lsx;of the Stone Shield;of Fortification;укрепления
+BAAR_WeaponModAdjectives.lsx;of Cleanliness;of Cthonians;хтоничности
+BAAR_WeaponModAdjectives.lsx;of the Windbreak;of Grounding;заземления
+BAAR_WeaponModAdjectives.lsx;of Gliding;of Gliding;скольжения
+BAAR_WeaponModAdjectives.lsx;of Cool Comfort;of Cool Comfort;прохлады и удобства
 BAAR_WeaponModAdjectives.lsx;Waterproof;Waterproof;Непромокаем.
-BAAR_WeaponModAdjectives.lsx;Ultralight;Delicate;
-BAAR_WeaponModAdjectives.lsx;of Feathered Metal;of Delicacy;
-BAAR_WeaponModAdjectives.lsx;Chromatic;Chromatic;
-BAAR_WeaponModAdjectives.lsx;of the Rainbow;of Prisms;
-BAAR_WeaponModAdjectives.lsx;Reactive;Reactive;
-BAAR_WeaponModAdjectives.lsx;of Reaction;of Reaction;
-BAAR_WeaponModAdjectives.lsx;Hothanded;Thermophilic;
-BAAR_WeaponModAdjectives.lsx;of the Hot Hand;of Thermophilia;
-BAAR_WeaponModAdjectives.lsx;of the Babbling Brook;of Psychrophilia;
-BAAR_WeaponModAdjectives.lsx;of the Ashen Avatar;of Incandescence;
-BAAR_WeaponModAdjectives.lsx;of the Putrid Avatar;of Inoculation;
-BAAR_WeaponModAdjectives.lsx;of the Crackling Avatar;of Galvanizing;
-BAAR_WeaponModAdjectives.lsx;of the Frozen Avatar;of Hibernation;
-BAAR_WeaponModAdjectives.lsx;Smoking;Smoking;
-BAAR_WeaponModAdjectives.lsx;of the Chimney;of the Chimney;
+BAAR_WeaponModAdjectives.lsx;Ultralight;Delicate;Изысканн.
+BAAR_WeaponModAdjectives.lsx;of Feathered Metal;of Delicacy;изысканности
+BAAR_WeaponModAdjectives.lsx;Chromatic;Chromatic;Хроматическ.
+BAAR_WeaponModAdjectives.lsx;of the Rainbow;of Prisms;многоцветья
+BAAR_WeaponModAdjectives.lsx;Reactive;Reactive;Реактивн.
+BAAR_WeaponModAdjectives.lsx;of Reaction;of Reaction;реакции
+BAAR_WeaponModAdjectives.lsx;Hothanded;Thermophilic;Теплолюбив.
+BAAR_WeaponModAdjectives.lsx;of the Hot Hand;of Thermophilia;теплолюбия
+BAAR_WeaponModAdjectives.lsx;of the Babbling Brook;of Psychrophilia;психрофилии
+BAAR_WeaponModAdjectives.lsx;of the Ashen Avatar;of Incandescence;накаливания
+BAAR_WeaponModAdjectives.lsx;of the Putrid Avatar;of Inoculation;инокуляции
+BAAR_WeaponModAdjectives.lsx;of the Crackling Avatar;of Galvanizing;гальванизации
+BAAR_WeaponModAdjectives.lsx;of the Frozen Avatar;of Hibernation;зимней спячки
+BAAR_WeaponModAdjectives.lsx;Smoking;Smoking;Дымящ.
+BAAR_WeaponModAdjectives.lsx;of the Chimney;of the Chimney;дымохода
 BAAR_WeaponModAdjectives.lsx;Cough Inducing;Cough Inducing;
-BAAR_WeaponModAdjectives.lsx;of Exhaust;of Exhaust;
-BAAR_WeaponModAdjectives.lsx;Smoke Spitting;Smoke Spitting;
-BAAR_WeaponModAdjectives.lsx;of the Cough;of the Cough;
-BAAR_WeaponModAdjectives.lsx;Icing;Icing;
-BAAR_WeaponModAdjectives.lsx;of Slipping;of Slipping;
+BAAR_WeaponModAdjectives.lsx;of Exhaust;of Exhaust;изнурения
+BAAR_WeaponModAdjectives.lsx;Smoke Spitting;Smoke Spitting;Дымошипящ.
+BAAR_WeaponModAdjectives.lsx;of the Cough;of the Cough;кашля
+BAAR_WeaponModAdjectives.lsx;Icing;Icing;Обледеневш.
+BAAR_WeaponModAdjectives.lsx;of Slipping;of Slipping;соскальзывания
 BAAR_WeaponModAdjectives.lsx;Self-Icing;Rimy;Инеев.
 BAAR_WeaponModAdjectives.lsx;of the Ice Skater;of Rime;инея
 BAAR_WeaponModAdjectives.lsx;Ice Painting;Ice Painting;
@@ -3013,8 +3013,8 @@ BAAR_WeaponModAdjectives.lsx;of Prickly Presence;of Bloodletting;
 BAAR_WeaponModAdjectives.lsx;of Breezes;of Grounding;
 BAAR_WeaponModAdjectives.lsx;of Warmth;of Thermophelia;
 BAAR_WeaponModAdjectives.lsx;of the Pond;of Psychrophilia;
-BAAR_WeaponModAdjectives.lsx;of Dirt;of Cthonians;
-BAAR_WeaponModAdjectives.lsx;of Exhaustion;of Lethargy;
+BAAR_WeaponModAdjectives.lsx;of Dirt;of Cthonians;хтоничности
+BAAR_WeaponModAdjectives.lsx;of Exhaustion;of Lethargy;летаргии
 BAAR_WeaponModAdjectives.lsx;Leaking;Terraformer's;
 BAAR_WeaponModAdjectives.lsx;with a Magical Leak;of Terraforming;
 BAAR_WeaponModAdjectives.lsx;Inoculating;Remedying;
