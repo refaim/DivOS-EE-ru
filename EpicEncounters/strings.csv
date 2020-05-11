@@ -604,7 +604,7 @@ AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit147;chance to resist: 147% (Grit).;�
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit148;chance to resist: 148% (Grit).;шанс защититься: 148% («Крепость тела»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit149;chance to resist: 149% (Grit).;шанс защититься: 149% («Крепость тела»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoGrit150;chance to resist: 150% (Grit).;шанс защититься: 150% («Крепость тела»)
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial0;chance to resist: 0% (Special).;
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial0;chance to resist: 0% (Special).;шанс защититься: 0% (спец.)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower1;chance to resist: 1% (Willpower).;шанс защититься: 1% («Сила воли»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower2;chance to resist: 2% (Willpower).;шанс защититься: 2% («Сила воли»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower3;chance to resist: 3% (Willpower).;шанс защититься: 3% («Сила воли»)
@@ -805,206 +805,206 @@ AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower147;chance to resist: 147% (Wil
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower148;chance to resist: 148% (Willpower).;шанс защититься: 148% («Сила воли»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower149;chance to resist: 149% (Willpower).;шанс защититься: 149% («Сила воли»)
 AMER_SaveValues.lsx;AMER_STATUS_SaveInfoWillpower150;chance to resist: 150% (Willpower).;шанс защититься: 150% («Сила воли»)
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial1;chance to resist: 1% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial2;chance to resist: 2% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial3;chance to resist: 3% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial4;chance to resist: 4% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial5;chance to resist: 5% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial6;chance to resist: 6% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial7;chance to resist: 7% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial8;chance to resist: 8% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial9;chance to resist: 9% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial10;chance to resist: 10% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial11;chance to resist: 11% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial12;chance to resist: 12% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial13;chance to resist: 13% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial14;chance to resist: 14% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial15;chance to resist: 15% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial16;chance to resist: 16% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial17;chance to resist: 17% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial18;chance to resist: 18% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial19;chance to resist: 19% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial20;chance to resist: 20% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial21;chance to resist: 21% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial22;chance to resist: 22% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial23;chance to resist: 23% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial24;chance to resist: 24% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial25;chance to resist: 25% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial26;chance to resist: 26% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial27;chance to resist: 27% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial28;chance to resist: 28% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial29;chance to resist: 29% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial30;chance to resist: 30% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial31;chance to resist: 31% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial32;chance to resist: 32% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial33;chance to resist: 33% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial34;chance to resist: 34% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial35;chance to resist: 35% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial36;chance to resist: 36% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial37;chance to resist: 37% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial38;chance to resist: 38% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial39;chance to resist: 39% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial40;chance to resist: 40% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial41;chance to resist: 41% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial42;chance to resist: 42% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial43;chance to resist: 43% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial44;chance to resist: 44% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial45;chance to resist: 45% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial46;chance to resist: 46% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial47;chance to resist: 47% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial48;chance to resist: 48% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial49;chance to resist: 49% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial50;chance to resist: 50% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial51;chance to resist: 51% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial52;chance to resist: 52% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial53;chance to resist: 53% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial54;chance to resist: 54% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial55;chance to resist: 55% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial56;chance to resist: 56% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial57;chance to resist: 57% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial58;chance to resist: 58% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial59;chance to resist: 59% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial60;chance to resist: 60% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial61;chance to resist: 61% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial62;chance to resist: 62% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial63;chance to resist: 63% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial64;chance to resist: 64% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial65;chance to resist: 65% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial66;chance to resist: 66% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial67;chance to resist: 67% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial68;chance to resist: 68% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial69;chance to resist: 69% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial70;chance to resist: 70% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial71;chance to resist: 71% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial72;chance to resist: 72% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial73;chance to resist: 73% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial74;chance to resist: 74% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial75;chance to resist: 75% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial76;chance to resist: 76% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial77;chance to resist: 77% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial78;chance to resist: 78% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial79;chance to resist: 79% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial80;chance to resist: 80% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial81;chance to resist: 81% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial82;chance to resist: 82% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial83;chance to resist: 83% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial84;chance to resist: 84% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial85;chance to resist: 85% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial86;chance to resist: 86% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial87;chance to resist: 87% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial88;chance to resist: 88% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial89;chance to resist: 89% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial90;chance to resist: 90% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial91;chance to resist: 91% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial92;chance to resist: 92% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial93;chance to resist: 93% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial94;chance to resist: 94% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial95;chance to resist: 95% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial96;chance to resist: 96% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial97;chance to resist: 97% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial98;chance to resist: 98% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial99;chance to resist: 99% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial100;chance to resist: 100% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial101;chance to resist: 101% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial102;chance to resist: 102% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial103;chance to resist: 103% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial104;chance to resist: 104% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN1;chance to resist: -1% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN2;chance to resist: -2% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN3;chance to resist: -3% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN4;chance to resist: -4% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN5;chance to resist: -5% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN6;chance to resist: -6% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN7;chance to resist: -7% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN8;chance to resist: -8% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN9;chance to resist: -9% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN10;chance to resist: -10% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN11;chance to resist: -11% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN12;chance to resist: -12% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN13;chance to resist: -13% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN14;chance to resist: -14% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN15;chance to resist: -15% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN16;chance to resist: -16% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN17;chance to resist: -17% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN18;chance to resist: -18% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN19;chance to resist: -19% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN20;chance to resist: -20% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN21;chance to resist: -21% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN22;chance to resist: -22% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN23;chance to resist: -23% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN24;chance to resist: -24% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN25;chance to resist: -25% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN26;chance to resist: -26% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN27;chance to resist: -27% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN28;chance to resist: -28% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN29;chance to resist: -29% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN30;chance to resist: -30% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN31;chance to resist: -31% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN32;chance to resist: -32% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN33;chance to resist: -33% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN34;chance to resist: -34% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN35;chance to resist: -35% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN36;chance to resist: -36% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN37;chance to resist: -37% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN38;chance to resist: -38% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN39;chance to resist: -39% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN40;chance to resist: -40% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN41;chance to resist: -41% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN42;chance to resist: -42% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN43;chance to resist: -43% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN44;chance to resist: -44% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN45;chance to resist: -45% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN46;chance to resist: -46% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN47;chance to resist: -47% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN48;chance to resist: -48% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN49;chance to resist: -49% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN50;chance to resist: -50% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial105;chance to resist: 105% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial106;chance to resist: 106% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial107;chance to resist: 107% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial108;chance to resist: 108% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial109;chance to resist: 109% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial110;chance to resist: 110% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial111;chance to resist: 111% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial112;chance to resist: 112% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial113;chance to resist: 113% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial114;chance to resist: 114% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial115;chance to resist: 115% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial116;chance to resist: 116% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial117;chance to resist: 117% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial118;chance to resist: 118% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial119;chance to resist: 119% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial120;chance to resist: 120% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial121;chance to resist: 121% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial122;chance to resist: 122% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial123;chance to resist: 123% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial124;chance to resist: 124% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial125;chance to resist: 125% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial126;chance to resist: 126% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial127;chance to resist: 127% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial128;chance to resist: 128% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial129;chance to resist: 129% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial130;chance to resist: 130% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial131;chance to resist: 131% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial132;chance to resist: 132% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial133;chance to resist: 133% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial134;chance to resist: 134% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial135;chance to resist: 135% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial136;chance to resist: 136% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial137;chance to resist: 137% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial138;chance to resist: 138% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial139;chance to resist: 139% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial140;chance to resist: 140% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial141;chance to resist: 141% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial142;chance to resist: 142% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial143;chance to resist: 143% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial144;chance to resist: 144% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial145;chance to resist: 145% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial146;chance to resist: 146% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial147;chance to resist: 147% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial148;chance to resist: 148% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial149;chance to resist: 149% (Special).;
-AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial150;chance to resist: 150% (Special).;
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial1;chance to resist: 1% (Special).;шанс защититься: 1% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial2;chance to resist: 2% (Special).;шанс защититься: 2% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial3;chance to resist: 3% (Special).;шанс защититься: 3% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial4;chance to resist: 4% (Special).;шанс защититься: 4% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial5;chance to resist: 5% (Special).;шанс защититься: 5% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial6;chance to resist: 6% (Special).;шанс защититься: 6% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial7;chance to resist: 7% (Special).;шанс защититься: 7% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial8;chance to resist: 8% (Special).;шанс защититься: 8% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial9;chance to resist: 9% (Special).;шанс защититься: 9% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial10;chance to resist: 10% (Special).;шанс защититься: 10% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial11;chance to resist: 11% (Special).;шанс защититься: 11% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial12;chance to resist: 12% (Special).;шанс защититься: 12% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial13;chance to resist: 13% (Special).;шанс защититься: 13% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial14;chance to resist: 14% (Special).;шанс защититься: 14% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial15;chance to resist: 15% (Special).;шанс защититься: 15% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial16;chance to resist: 16% (Special).;шанс защититься: 16% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial17;chance to resist: 17% (Special).;шанс защититься: 17% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial18;chance to resist: 18% (Special).;шанс защититься: 18% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial19;chance to resist: 19% (Special).;шанс защититься: 19% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial20;chance to resist: 20% (Special).;шанс защититься: 20% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial21;chance to resist: 21% (Special).;шанс защититься: 21% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial22;chance to resist: 22% (Special).;шанс защититься: 22% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial23;chance to resist: 23% (Special).;шанс защититься: 23% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial24;chance to resist: 24% (Special).;шанс защититься: 24% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial25;chance to resist: 25% (Special).;шанс защититься: 25% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial26;chance to resist: 26% (Special).;шанс защититься: 26% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial27;chance to resist: 27% (Special).;шанс защититься: 27% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial28;chance to resist: 28% (Special).;шанс защититься: 28% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial29;chance to resist: 29% (Special).;шанс защититься: 29% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial30;chance to resist: 30% (Special).;шанс защититься: 30% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial31;chance to resist: 31% (Special).;шанс защититься: 31% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial32;chance to resist: 32% (Special).;шанс защититься: 32% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial33;chance to resist: 33% (Special).;шанс защититься: 33% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial34;chance to resist: 34% (Special).;шанс защититься: 34% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial35;chance to resist: 35% (Special).;шанс защититься: 35% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial36;chance to resist: 36% (Special).;шанс защититься: 36% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial37;chance to resist: 37% (Special).;шанс защититься: 37% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial38;chance to resist: 38% (Special).;шанс защититься: 38% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial39;chance to resist: 39% (Special).;шанс защититься: 39% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial40;chance to resist: 40% (Special).;шанс защититься: 40% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial41;chance to resist: 41% (Special).;шанс защититься: 41% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial42;chance to resist: 42% (Special).;шанс защититься: 42% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial43;chance to resist: 43% (Special).;шанс защититься: 43% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial44;chance to resist: 44% (Special).;шанс защититься: 44% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial45;chance to resist: 45% (Special).;шанс защититься: 45% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial46;chance to resist: 46% (Special).;шанс защититься: 46% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial47;chance to resist: 47% (Special).;шанс защититься: 47% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial48;chance to resist: 48% (Special).;шанс защититься: 48% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial49;chance to resist: 49% (Special).;шанс защититься: 49% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial50;chance to resist: 50% (Special).;шанс защититься: 50% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial51;chance to resist: 51% (Special).;шанс защититься: 51% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial52;chance to resist: 52% (Special).;шанс защититься: 52% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial53;chance to resist: 53% (Special).;шанс защититься: 53% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial54;chance to resist: 54% (Special).;шанс защититься: 54% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial55;chance to resist: 55% (Special).;шанс защититься: 55% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial56;chance to resist: 56% (Special).;шанс защититься: 56% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial57;chance to resist: 57% (Special).;шанс защититься: 57% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial58;chance to resist: 58% (Special).;шанс защититься: 58% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial59;chance to resist: 59% (Special).;шанс защититься: 59% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial60;chance to resist: 60% (Special).;шанс защититься: 60% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial61;chance to resist: 61% (Special).;шанс защититься: 61% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial62;chance to resist: 62% (Special).;шанс защититься: 62% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial63;chance to resist: 63% (Special).;шанс защититься: 63% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial64;chance to resist: 64% (Special).;шанс защититься: 64% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial65;chance to resist: 65% (Special).;шанс защититься: 65% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial66;chance to resist: 66% (Special).;шанс защититься: 66% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial67;chance to resist: 67% (Special).;шанс защититься: 67% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial68;chance to resist: 68% (Special).;шанс защититься: 68% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial69;chance to resist: 69% (Special).;шанс защититься: 69% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial70;chance to resist: 70% (Special).;шанс защититься: 70% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial71;chance to resist: 71% (Special).;шанс защититься: 71% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial72;chance to resist: 72% (Special).;шанс защититься: 72% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial73;chance to resist: 73% (Special).;шанс защититься: 73% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial74;chance to resist: 74% (Special).;шанс защититься: 74% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial75;chance to resist: 75% (Special).;шанс защититься: 75% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial76;chance to resist: 76% (Special).;шанс защититься: 76% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial77;chance to resist: 77% (Special).;шанс защититься: 77% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial78;chance to resist: 78% (Special).;шанс защититься: 78% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial79;chance to resist: 79% (Special).;шанс защититься: 79% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial80;chance to resist: 80% (Special).;шанс защититься: 80% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial81;chance to resist: 81% (Special).;шанс защититься: 81% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial82;chance to resist: 82% (Special).;шанс защититься: 82% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial83;chance to resist: 83% (Special).;шанс защититься: 83% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial84;chance to resist: 84% (Special).;шанс защититься: 84% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial85;chance to resist: 85% (Special).;шанс защититься: 85% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial86;chance to resist: 86% (Special).;шанс защититься: 86% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial87;chance to resist: 87% (Special).;шанс защититься: 87% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial88;chance to resist: 88% (Special).;шанс защититься: 88% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial89;chance to resist: 89% (Special).;шанс защититься: 89% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial90;chance to resist: 90% (Special).;шанс защититься: 90% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial91;chance to resist: 91% (Special).;шанс защититься: 91% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial92;chance to resist: 92% (Special).;шанс защититься: 92% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial93;chance to resist: 93% (Special).;шанс защититься: 93% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial94;chance to resist: 94% (Special).;шанс защититься: 94% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial95;chance to resist: 95% (Special).;шанс защититься: 95% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial96;chance to resist: 96% (Special).;шанс защититься: 96% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial97;chance to resist: 97% (Special).;шанс защититься: 97% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial98;chance to resist: 98% (Special).;шанс защититься: 98% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial99;chance to resist: 99% (Special).;шанс защититься: 99% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial100;chance to resist: 100% (Special).;шанс защититься: 100% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial101;chance to resist: 101% (Special).;шанс защититься: 101% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial102;chance to resist: 102% (Special).;шанс защититься: 102% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial103;chance to resist: 103% (Special).;шанс защититься: 103% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial104;chance to resist: 104% (Special).;шанс защититься: 104% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN1;chance to resist: -1% (Special).;шанс защититься: -1% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN2;chance to resist: -2% (Special).;шанс защититься: -2% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN3;chance to resist: -3% (Special).;шанс защититься: -3% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN4;chance to resist: -4% (Special).;шанс защититься: -4% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN5;chance to resist: -5% (Special).;шанс защититься: -5% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN6;chance to resist: -6% (Special).;шанс защититься: -6% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN7;chance to resist: -7% (Special).;шанс защититься: -7% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN8;chance to resist: -8% (Special).;шанс защититься: -8% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN9;chance to resist: -9% (Special).;шанс защититься: -9% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN10;chance to resist: -10% (Special).;шанс защититься: -10% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN11;chance to resist: -11% (Special).;шанс защититься: -11% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN12;chance to resist: -12% (Special).;шанс защититься: -12% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN13;chance to resist: -13% (Special).;шанс защититься: -13% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN14;chance to resist: -14% (Special).;шанс защититься: -14% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN15;chance to resist: -15% (Special).;шанс защититься: -15% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN16;chance to resist: -16% (Special).;шанс защититься: -16% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN17;chance to resist: -17% (Special).;шанс защититься: -17% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN18;chance to resist: -18% (Special).;шанс защититься: -18% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN19;chance to resist: -19% (Special).;шанс защититься: -19% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN20;chance to resist: -20% (Special).;шанс защититься: -20% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN21;chance to resist: -21% (Special).;шанс защититься: -21% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN22;chance to resist: -22% (Special).;шанс защититься: -22% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN23;chance to resist: -23% (Special).;шанс защититься: -23% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN24;chance to resist: -24% (Special).;шанс защититься: -24% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN25;chance to resist: -25% (Special).;шанс защититься: -25% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN26;chance to resist: -26% (Special).;шанс защититься: -26% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN27;chance to resist: -27% (Special).;шанс защититься: -27% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN28;chance to resist: -28% (Special).;шанс защититься: -28% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN29;chance to resist: -29% (Special).;шанс защититься: -29% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN30;chance to resist: -30% (Special).;шанс защититься: -30% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN31;chance to resist: -31% (Special).;шанс защититься: -31% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN32;chance to resist: -32% (Special).;шанс защититься: -32% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN33;chance to resist: -33% (Special).;шанс защититься: -33% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN34;chance to resist: -34% (Special).;шанс защититься: -34% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN35;chance to resist: -35% (Special).;шанс защититься: -35% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN36;chance to resist: -36% (Special).;шанс защититься: -36% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN37;chance to resist: -37% (Special).;шанс защититься: -37% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN38;chance to resist: -38% (Special).;шанс защититься: -38% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN39;chance to resist: -39% (Special).;шанс защититься: -39% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN40;chance to resist: -40% (Special).;шанс защититься: -40% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN41;chance to resist: -41% (Special).;шанс защититься: -41% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN42;chance to resist: -42% (Special).;шанс защититься: -42% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN43;chance to resist: -43% (Special).;шанс защититься: -43% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN44;chance to resist: -44% (Special).;шанс защититься: -44% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN45;chance to resist: -45% (Special).;шанс защититься: -45% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN46;chance to resist: -46% (Special).;шанс защититься: -46% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN47;chance to resist: -47% (Special).;шанс защититься: -47% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN48;chance to resist: -48% (Special).;шанс защититься: -48% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN49;chance to resist: -49% (Special).;шанс защититься: -49% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecialN50;chance to resist: -50% (Special).;шанс защититься: -50% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial105;chance to resist: 105% (Special).;шанс защититься: 105% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial106;chance to resist: 106% (Special).;шанс защититься: 106% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial107;chance to resist: 107% (Special).;шанс защититься: 107% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial108;chance to resist: 108% (Special).;шанс защититься: 108% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial109;chance to resist: 109% (Special).;шанс защититься: 109% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial110;chance to resist: 110% (Special).;шанс защититься: 110% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial111;chance to resist: 111% (Special).;шанс защититься: 111% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial112;chance to resist: 112% (Special).;шанс защититься: 112% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial113;chance to resist: 113% (Special).;шанс защититься: 113% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial114;chance to resist: 114% (Special).;шанс защититься: 114% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial115;chance to resist: 115% (Special).;шанс защититься: 115% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial116;chance to resist: 116% (Special).;шанс защититься: 116% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial117;chance to resist: 117% (Special).;шанс защититься: 117% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial118;chance to resist: 118% (Special).;шанс защититься: 118% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial119;chance to resist: 119% (Special).;шанс защититься: 119% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial120;chance to resist: 120% (Special).;шанс защититься: 120% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial121;chance to resist: 121% (Special).;шанс защититься: 121% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial122;chance to resist: 122% (Special).;шанс защититься: 122% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial123;chance to resist: 123% (Special).;шанс защититься: 123% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial124;chance to resist: 124% (Special).;шанс защититься: 124% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial125;chance to resist: 125% (Special).;шанс защититься: 125% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial126;chance to resist: 126% (Special).;шанс защититься: 126% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial127;chance to resist: 127% (Special).;шанс защититься: 127% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial128;chance to resist: 128% (Special).;шанс защититься: 128% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial129;chance to resist: 129% (Special).;шанс защититься: 129% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial130;chance to resist: 130% (Special).;шанс защититься: 130% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial131;chance to resist: 131% (Special).;шанс защититься: 131% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial132;chance to resist: 132% (Special).;шанс защититься: 132% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial133;chance to resist: 133% (Special).;шанс защититься: 133% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial134;chance to resist: 134% (Special).;шанс защититься: 134% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial135;chance to resist: 135% (Special).;шанс защититься: 135% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial136;chance to resist: 136% (Special).;шанс защититься: 136% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial137;chance to resist: 137% (Special).;шанс защититься: 137% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial138;chance to resist: 138% (Special).;шанс защититься: 138% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial139;chance to resist: 139% (Special).;шанс защититься: 139% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial140;chance to resist: 140% (Special).;шанс защититься: 140% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial141;chance to resist: 141% (Special).;шанс защититься: 141% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial142;chance to resist: 142% (Special).;шанс защититься: 142% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial143;chance to resist: 143% (Special).;шанс защититься: 143% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial144;chance to resist: 144% (Special).;шанс защититься: 144% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial145;chance to resist: 145% (Special).;шанс защититься: 145% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial146;chance to resist: 146% (Special).;шанс защититься: 146% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial147;chance to resist: 147% (Special).;шанс защититься: 147% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial148;chance to resist: 148% (Special).;шанс защититься: 148% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial149;chance to resist: 149% (Special).;шанс защититься: 149% (спец.)
+AMER_SaveValues.lsx;AMER_STATUS_SaveInfoSpecial150;chance to resist: 150% (Special).;шанс защититься: 150% (спец.)
 AMER_Speech.lsx;AMER_CMB_MelchiorCruelty_Turn1;You will suffer! You will *all* suffer!;
 AMER_Speech.lsx;AMER_CMB_MelchiorCruelty_Turn2;Kneel before your king!;
 AMER_Speech.lsx;AMER_CMB_MelchiorCruelty_Turn3;The bones of the weak pave the road to power.;
@@ -2339,7 +2339,7 @@ ayylmao.lsx;AMER_AngelCombatText;"was healed by an <font color=""3ba8f0"">Angel<
 ayylmao.lsx;AMER_DemonCombatText;"was damaged by a <font color=""c80000"">Demon</font> reaction.";
 ayylmao.lsx;AMER_BOOK_Ossurot;"*You peel away the damp, red cover; revealing a bulbous mass of flesh within. A low, rumbling wail finds its way to your ears as the surface of flesh before you contorts, tears, and oozses into two words.*<br><br><br><br><br><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">H   E LL    O FR   I E<br>           N<br>                 D</font><NewPage>*As you stare, the mass begins to shift again, reforming into new text.*<br><br><br><br><br><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">I        I          I<br>   I     I<br>I DO see you, WEARY traveler!<NewPage><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">                 You<br></font><font color=""c80000"" size=6>        I want you. I WILL have you. Sweet, succulent, supple CORPSE. I will make you my HOME I will claim your SANITY I will consume EVERY INCH EVERY SPLINTER. SOUL. I NEED THE SOUL.</font><br><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">are cold? Thirsty?... Hungry?</font><font color=""c80000"" size=6>Walk forward, MEAT. Come, OH YES COME, COME foward COME meet me, MEAT. I need so so so so so so SO SO SO FEW NOW. Oh... Your sweet seat, your flickering, bright, leaking soul aloft before me...</font><NewPage>*The flesh begins to bubble violently at its edges; large portions loosing and falling to your feet. The everpresent wail begins to fluctuate in pitch as more text takes shape before you.*<br><br><br><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">Step forward, friend, I can see to your needs.</font><NewPage><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">My name is...</font><font color=""c80000"" size=6>DON'T say it PATIENCE WHY just take it! Take the SOUL I- I I I I neeeed SO CLOSE</font><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">Ossoras... Yes, it is so....</font><NewPage><font color=""c80000"" size=50 face=""Copperplate Gothic Light"">I Am<br>      Am<br>            I am so alone...</font><br><font color=""c80000"" size=6>TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE ITTAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT</font><NewPage><font color=""c80000"" size=6>TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE ITTAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT TAKE IT</font><NewPage>*Tiny hands and yawning maws begin to take form within the text and reach, fruitlessly, toward you. Laughter erupts around you, then- immpossible, otherworldly tones assault you as the book quivers and jolts violently before slamming shut; ejecting a veritable slaw of sinew and ichor across the floor.*<br><br><br>*Silence.*";
 ayylmao.lsx;AMER_ApplyCreepingOoze;Creeping Ooze;
-ayylmao.lsx;AMER_PERC_Crit1;Perception;
+ayylmao.lsx;AMER_PERC_Crit1;Perception;Восприятие
 ayylmao.lsx;AMER_SKILL_EMPOWERED_SpikedShell_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    Cooldown -2 at 15 Strength</font><br><br><font color=""00ffff"" face=""Copperplate Gothic Bold"">Reflect 35% of all damage taken to attackers as piercing.</font><br><br>Lasts until cancelled or replaced by another stance.</p>";
 ayylmao.lsx;AMER_SKILL_EMPOWERED_SpikedShell_DisplayName;Empowered Spiked Shell;
 ayylmao.lsx;AMER_Empowered_BarbedCoat;Empowered Spiked Shell;
@@ -2540,13 +2540,13 @@ ayylmao.lsx;AMER_LOOT_Treetard;The Treetard;
 ayylmao.lsx;AMER_SKILL_Overcharge_DisplayName;Overcharge;
 ayylmao.lsx;AMER_SKILL_Overcharge_Description;"Empower your staff with volitile energy, firing [3] magical missiles that each split to target two additional targets; the barrage deals [1] damage.";
 ayylmao.lsx;AMER_SKILL_Overcharge_StatsDescription;"<p align=""left""><br><font face=""Copperplate Gothic Bold"">Range: [2]<br>Each cast adds one stack of Overcharge.<br>Caster pays 20% of maximum vitality plus 20% per stack of Overcharge.<br>Due to their frail nature, Glass Cannon casters pay 30%.<br>Each round this spell is not cast removes one stack of Overcharge at the beginning of your next turn.</font><br><br>Missiles fired inherit the power and damage type of the staff. The better the staff, the more damage this spell sows. Can target terrain.</p>";
-ayylmao.lsx;AMER_ApplyRegenerate;"<font color=""3ba8f0"">Regeneration</font>";
-ayylmao.lsx;AMER_Regenerate;"<font color=""3ba8f0"">Regeneration</font>";
+ayylmao.lsx;AMER_ApplyRegenerate;"<font color=""3ba8f0"">Regeneration</font>";"<font color=""3ba8f0"">Регенерация</font>"
+ayylmao.lsx;AMER_Regenerate;"<font color=""3ba8f0"">Regeneration</font>";"<font color=""3ba8f0"">Регенерация</font>"
 ayylmao.lsx;Heal_RegenerateStart_Description;Cause a target's wounds to bind themselves shut, healing it each turn over the duration.;
 ayylmao.lsx;AMER_ApplyPurifyingFire;Purifying Fire;Очищающий огонь
 ayylmao.lsx;Target_PurifyingFire_Description;A soothing flame courses through the target, removing Burning, Frozen, Stun, Charm, Petrified, Rime, Curse of Cuts, Enervate, Healing, and Absorption Shields.;
 ayylmao.lsx;Target_CleansingWater_Description;A comforting energy washes over the target, curing Blind, Mute, Disease, Infectuous Disease, Bleeding, Crippled, Decaying Touch, Attenuate, Borrowed Time, Curse of Cuts, and Balance.;
-ayylmao.lsx;AMER_ApplyCleansingWater;Cleansing Water;
+ayylmao.lsx;AMER_ApplyCleansingWater;Cleansing Water;Очищающая вода
 ayylmao.lsx;AMER_Blur;Blur;
 ayylmao.lsx;AMER_GuerrillaDamage;Guerrilla;
 ayylmao.lsx;Shout_FireSurfaceSelf_Description;Create a fire surface around you, with you in the middle. Grants everyone around you 25% fire resistance for 3 turns and removes Frozen and Stunned.;
