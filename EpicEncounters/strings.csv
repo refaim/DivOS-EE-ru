@@ -1,4 +1,4 @@
-File;UUID;English;Russian
+﻿File;UUID;English;Russian
 AMER_Adjectives.lsx;Deadly;Deadly;Смертоносн.
 AMER_Adjectives.lsx;of Slaying;of Slaying;убийства
 AMER_Adjectives.lsx;Lethal;Lethal;Смертельн.
@@ -2870,8 +2870,8 @@ BAAR_WeaponModAdjectives.lsx;Avatar of Lightning's;Galvanized;Гальваниз
 BAAR_WeaponModAdjectives.lsx;Avatar of Frost's;Hibernal;Зимн.
 BAAR_WeaponModAdjectives.lsx;of Thin Air;of Concealment;сокрытия
 BAAR_WeaponModAdjectives.lsx;Magician's;Concealing;Скрывающ.
-BAAR_WeaponModAdjectives.lsx;of Holiness;of Consecration;
 BAAR_WeaponModAdjectives.lsx;Hateful;Hateful;Ненавистн.
+BAAR_WeaponModAdjectives.lsx;of Holiness;of Consecration;
 BAAR_WeaponModAdjectives.lsx;Quickening;Expeditious;Поспешн.
 BAAR_WeaponModAdjectives.lsx;of the Stone Shield;of Fortification;укрепления
 BAAR_WeaponModAdjectives.lsx;of Cleanliness;of Cthonians;хтоничности
