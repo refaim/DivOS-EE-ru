@@ -1278,11 +1278,11 @@ AMER_UniqueEffects.lsx;AMER_SKILL_UNI_WendigoStance_DisplayName;Wendigo;
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_WendigoStance_Description;With the Predator talent, this grisly trophy grants one additional Predator reaction each round.;
 AMER_UniqueEffects.lsx;AMER_UNI_Wendigo;"<font color=""c7a758"">Wendigo</font>";
 AMER_UniqueEffects.lsx;AMER_UNI_Seraph;"<font color=""c7a758"">Seraph</font>";
-AMER_UniqueEffects.lsx;AMER_UNI_Ghostflame;"<font color=""c7a758"">Ghostflame</font>";
+AMER_UniqueEffects.lsx;AMER_UNI_Ghostflame;"<font color=""c7a758"">Ghostflame</font>";"<font color=""c7a758"">Призрачное пламя</font>"
 AMER_UniqueEffects.lsx;AMER_UNI_Arcturus;"<font color=""c7a758"">Arcturus</font>";
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_ArcturusStance_DisplayName;Arcturus;
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_ArcturusStance_Description;Opportunist's attack bonuses apply to Centurion retaliations.;
-AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_DisplayName;Ghostflame;
+AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_DisplayName;Ghostflame;Призрачное пламя
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_Description;With the Demon talent, this ghastly token grants one additional Demon reaction each round.;
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_SeraphStance_DisplayName;Seraph;
 AMER_UniqueEffects.lsx;AMER_SKILL_UNI_SeraphStance_Description;With the Angel talent, this angelic relic grants one additional Angel reaction each round.;
@@ -1969,17 +1969,17 @@ ayylmao.lsx;AMER_LuckyCharm_BaseCrit8;Lucky Charm;
 ayylmao.lsx;AMER_LuckyCharm_BaseCrit9;Lucky Charm;
 ayylmao.lsx;AMER_LuckyCharm_BaseCrit10;Lucky Charm;
 ayylmao.lsx;AMER_Shield_Air_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Intelligence<br>    •    2 Aerotheurge<br>    •    Cooldown -3 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [3]<br>Absorbs up to [2] of your maximum vitality.</font></p>";
-ayylmao.lsx;AMER_SKILLBOOK_NaturalOrder;"<font color=""c7a758"">Natural Order Skillbook</font>";
-ayylmao.lsx;AMER_SKILL_NaturalOrder_DisplayName;Natural Order;
+ayylmao.lsx;AMER_SKILLBOOK_NaturalOrder;"<font color=""c7a758"">Natural Order Skillbook</font>";Книга навыка «Буйный рост»
+ayylmao.lsx;AMER_SKILL_NaturalOrder_DisplayName;Natural Order;Буйный рост
 ayylmao.lsx;AMER_SKILL_NaturalOrder_Description;A series of rampant, invasive growths infest the target, causing [2] damage and Bleeding each turn until they rend free, dealing triple damage and taking presence upon the battlefield.;
 ayylmao.lsx;AMER_SKILL_NaturalOrder_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Dexterity<br>    •    5 Ranger<br>    •    Cooldown -4 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Successful save prevents effects, but does not remove Natural Order.</font><br><br>Damage dealt depends on your weapon's damage rating.<br><br>&quot;To everything there is a season- a time to be born, and a time to die.&quot;</p>";
-ayylmao.lsx;AMER_STATUS_NaturalOrderFail;"is <font color=""5fbd00"">Infested</font>.";
-ayylmao.lsx;AMER_STATUS_NaturalOrderSave;"saved against <font color=""5fbd00"">Natural Order</font>.";
-ayylmao.lsx;AMER_STATUS_NaturalOrderStill;"is still <font color=""5fbd00"">Infested</font>.";
-ayylmao.lsx;AMER_STATUS_ApplyNaturalOrder;Natural Order;
-ayylmao.lsx;AMER_STATUS_NaturalOrder;"<font color=""5fbd00"">Natural Order I</font>";
-ayylmao.lsx;AMER_STATUS_NaturalOrder2;"<font color=""5fbd00"">Natural Order II</font>";
-ayylmao.lsx;AMER_STATUS_NaturalOrder3;"<font color=""5fbd00"">Natural Order III</font>";
+ayylmao.lsx;AMER_STATUS_NaturalOrderFail;"is <font color=""5fbd00"">Infested</font>.";"<font color=""5fbd00"">прорастает</font>."
+ayylmao.lsx;AMER_STATUS_NaturalOrderSave;"saved against <font color=""5fbd00"">Natural Order</font>.";"не <font color=""5fbd00"">прорастает</font>."
+ayylmao.lsx;AMER_STATUS_NaturalOrderStill;"is still <font color=""5fbd00"">Infested</font>.";"всё ещё <font color=""5fbd00"">прорастает</font>."
+ayylmao.lsx;AMER_STATUS_ApplyNaturalOrder;Natural Order;Буйный рост
+ayylmao.lsx;AMER_STATUS_NaturalOrder;"<font color=""5fbd00"">Natural Order I</font>";"<font color=""5fbd00"">Буйный рост I</font>"
+ayylmao.lsx;AMER_STATUS_NaturalOrder2;"<font color=""5fbd00"">Natural Order II</font>";"<font color=""5fbd00"">Буйный рост II</font>"
+ayylmao.lsx;AMER_STATUS_NaturalOrder3;"<font color=""5fbd00"">Natural Order III</font>";"<font color=""5fbd00"">Буйный рост III</font>"
 ayylmao.lsx;AMER_SKILLBOOK_Premeditate;Premeditate Skillbook;
 ayylmao.lsx;AMER_SKILL_Premeditate_DisplayName;Premeditate;
 ayylmao.lsx;AMER_SKILL_Premeditate_Description;Every outcome, every possible permutation and contingency are known to you as you prepare for your final strike.;
@@ -2084,8 +2084,8 @@ ayylmao.lsx;AMER_SKILLBOOK_Impalement;"<font color=""c7a758"">Impalement Skillbo
 ayylmao.lsx;AMER_SKILL_Impalement_DisplayName;Impalement;
 ayylmao.lsx;AMER_SKILL_Impalement_Description;Jagged spines of onyx erupt from the earth around you and your target, embedding themselves into both. Both are dealt [1] damage while only the target suffers Bleeding. Insects spreading from the primary target may be obstructed by obstacles.;
 ayylmao.lsx;AMER_SKILL_Impalement_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Witchcraft<br>    •    Cooldown -4 at 13 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>&quot;Nothing says &apos;respect me&apos; like a head on a spike.&quot;</p>";
-ayylmao.lsx;AMER_SKILL_ThornCascade_DisplayName;Thorn Cascade;
-ayylmao.lsx;AMER_SKILLBOOK_ThornCascade;Thorn Cascade Skillbook;
+ayylmao.lsx;AMER_SKILL_ThornCascade_DisplayName;Thorn Cascade;Шипомёт
+ayylmao.lsx;AMER_SKILLBOOK_ThornCascade;Thorn Cascade Skillbook;Книга навыка «Шипомёт»
 ayylmao.lsx;AMER_SKILL_ThornCascade_Description;Conjure a cascade of [3] poisonous, earthen thorns to lunge forward and strike your target, dealing [1] damage and Poisoning.;
 ayylmao.lsx;AMER_SKILL_ThornCascade_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Geomancer<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font><br><br>Poisoned deals poison damage over time. Poisoned targets lose 15% Poison Resistance every turn, up to -45%.</p>";
 ayylmao.lsx;AMER_SKILLBOOK_Soothe;Soothe Skillbook;Книга навыка «Утешение»
@@ -2429,11 +2429,11 @@ ayylmao.lsx;Projectile_StaffOfJahan_StatsDescription;Range: [2]<br>The better Ja
 ayylmao.lsx;AMER_RezSickness2;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
 ayylmao.lsx;AMER_RezSickness3;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
 ayylmao.lsx;AMER_RezSickness4;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
-ayylmao.lsx;Shout_Taunt_DisplayName;Command;
+ayylmao.lsx;Shout_Taunt_DisplayName;Command;Приказ
 ayylmao.lsx;AMER_ApplyJustScalingHeal;Percentage Healing;
 ayylmao.lsx;AMER_ApplyEmpoweredSoothe;Percentage Healing;
 ayylmao.lsx;SCROLL_FingerOfDeath;Finger of Death Scroll;Свиток «Перст смерти»
-ayylmao.lsx;Stats_Taunted;Commanded;
+ayylmao.lsx;Stats_Taunted;Commanded;Исполняет приказ
 ayylmao.lsx;AMER_CMB_MelchiorFear_Link;"<font color=""c80000"">Vitality Link</font>";
 ayylmao.lsx;AMER_PredatorCombatText;"attacked with a <font color=""5fbd00"">Predator</font> shot.";
 ayylmao.lsx;AMER_SKILL_EnemyWitheringCloud_DisplayName;Withering Cloud;
@@ -2450,7 +2450,7 @@ ayylmao.lsx;AMER_ImmolationArmor;Immolated;
 ayylmao.lsx;AMER_ApplyMassHeal;Healing;
 ayylmao.lsx;AMER_ApplyGreaterInvisibility;Greater Invisibility;Латы незримости
 ayylmao.lsx;AMER_CMB_MelchiorIgnorance_AstralWinds;Astral Winds;
-ayylmao.lsx;SKILLBOOK_Taunt;Command Skillbook;
+ayylmao.lsx;SKILLBOOK_Taunt;Command Skillbook;Книга навыка «Приказ»
 ayylmao.lsx;AMER_STATUS_InfectiousFlame;"<font color=""e96810"">Infectious Flame</font>";
 ayylmao.lsx;AMER_STATUS_InfectiousFlameFail;"is <font color=""e96810"">Infectious Flamed</font>.";
 ayylmao.lsx;AMER_STATUS_InfectiousFlameSave;"saved against <font color=""e96810"">Infectious Flame</font>.";
@@ -2551,11 +2551,11 @@ ayylmao.lsx;AMER_Blur;Blur;
 ayylmao.lsx;AMER_GuerrillaDamage;Guerrilla;
 ayylmao.lsx;Shout_FireSurfaceSelf_Description;Create a fire surface around you, with you in the middle. Grants everyone around you 25% fire resistance for 3 turns and removes Frozen and Stunned.;
 ayylmao.lsx;SKILLBOOK_MeteorStrike;Meteor Shower Skillbook;Книга навыка «Метеоритный дождь»
-ayylmao.lsx;AMER_BOOK_Depreciated;Lewd Diary;«Похотливая аргонианская дева»
-ayylmao.lsx;SKILLBOOK_CrawlingInfestation;Lewd Diary;«Похотливая аргонианская дева»
-ayylmao.lsx;SKILLBOOK_TargetedOilSurface;Lewd Diary;«Похотливая аргонианская дева»
-ayylmao.lsx;SKILLBOOK_CorpseExplosion;Lewd Diary;«Похотливая аргонианская дева»
-ayylmao.lsx;SKILLBOOK_SummonWolf;Lewd Diary;«Похотливая аргонианская дева»
+ayylmao.lsx;AMER_BOOK_Depreciated;Lewd Diary;Похотливая аргонианская дева
+ayylmao.lsx;SKILLBOOK_CrawlingInfestation;Lewd Diary;Похотливая аргонианская дева
+ayylmao.lsx;SKILLBOOK_TargetedOilSurface;Lewd Diary;Похотливая аргонианская дева
+ayylmao.lsx;SKILLBOOK_CorpseExplosion;Lewd Diary;Похотливая аргонианская дева
+ayylmao.lsx;SKILLBOOK_SummonWolf;Lewd Diary;Похотливая аргонианская дева
 ayylmao.lsx;AMER_OoCHealing;"<font color=""3ba8f0"">Sourcehunter's Survival</font>";
 ayylmao.lsx;AMER_Overcharge1;"<font color=""7b70d2"">Overcharged x1</font>";
 ayylmao.lsx;AMER_Overcharge2;"<font color=""7b70d2"">Overcharged x2</font>";
@@ -2766,11 +2766,11 @@ ayylmao.lsx;AMER_SKILL_EnemyHugeHealingSalve_DisplayName;Exception Salve of Rest
 ayylmao.lsx;AMER_SKILL_EnemyLargeHealingSalve_DisplayName;Greater Salve of Restoration;Большое зелье лечения
 ayylmao.lsx;AMER_SKILL_EnemyMediumHealingSalve_DisplayName;Moderate Salve of Restoration;Среднее зелье лечения
 ayylmao.lsx;AMER_SKILL_EnemyMinorHealingSalve_DisplayName;Minor Salve of Restoration;Малое зелье лечения
-ayylmao.lsx;AMER_SKILL_ErodingStrike_DisplayName;Eroding Strike;
+ayylmao.lsx;AMER_SKILL_ErodingStrike_DisplayName;Eroding Strike;Разъедающий удар
 ayylmao.lsx;AMER_SKILL_ErodingStrike_Description;Imbue your strike with a cruel affliction, flaking away your target's hardiness. Deals [1] weapon damage.;
 ayylmao.lsx;AMER_SKILL_ErodingStrike_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Strength<br>    •    5 Soldier<br>    •    Cooldown -4 at 15 Strength</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]<br>Grit: [3]<br>No Saving Throw</font></p>";
-ayylmao.lsx;AMER_SKILLBOOK_ErodingStrike;Eroding Strike Skillbook;
-ayylmao.lsx;AMER_ApplyErosion1Turn;Erosion;
+ayylmao.lsx;AMER_SKILLBOOK_ErodingStrike;Eroding Strike Skillbook;Книга навыка «Разъедающий удар»
+ayylmao.lsx;AMER_ApplyErosion1Turn;Erosion;Разъедание
 ayylmao.lsx;Projectile_Grenade_PoisonFlask_Description;Deals [1] damage and creates a small ooze surface with a [2] radius.;
 ayylmao.lsx;AMER_PhysiquePoisonRes5;Physique;Выносливость
 ayylmao.lsx;AMER_PhysiquePoisonRes10;Physique;Выносливость
@@ -2827,10 +2827,10 @@ ayylmao.lsx;AMER_SKILL_Anticipate_Description;Heighten your senses and enter a s
 ayylmao.lsx;AMER_SKILL_Anticipate_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    8 Ranger<br>    •    Cooldown -2 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">May only be cast in combat.<br>Spends all remaining AP.<br>+[1]% damage until your next turn.<br>Retaliate against the first enemy, within your reach, who damages you.</font></p>";
 ayylmao.lsx;AMER_AnticipateText;Anticipatory Strike;
 ayylmao.lsx;AMER_Anticipate;Anticipate;
-ayylmao.lsx;AMER_SKILLBOOK_Bolster;Bolster Skillbook;
+ayylmao.lsx;AMER_SKILLBOOK_Bolster;Bolster Skillbook;Книга навыка «Стальные нервы»
 ayylmao.lsx;AMER_SKILL_Bolster_Description;Steel your nerves and prepare for worst, increasing your armor and instantly removing the next Knockdown, Stun, Freeze, Petrify, Fear, or Charm that ails you. Your remaining AP is spent in the process.;
-ayylmao.lsx;AMER_SKILL_Bolster_DisplayName;Bolster;
-ayylmao.lsx;AMER_Bolster;Bolster;
+ayylmao.lsx;AMER_SKILL_Bolster_DisplayName;Bolster;Стальные нервы
+ayylmao.lsx;AMER_Bolster;Bolster;Стальные нервы
 ayylmao.lsx;AMER_SKILL_Bolster_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    8 Strength<br>    •    Cooldown -2 at 15 Strength</font><br><br><font face=""Copperplate Gothic Bold"">May only be cast in combat.<br>Spends all remaining AP.<br>+[1] armor until your next turn.<br>Removes the next disabling effect that ails you.</font></p>";
 ayylmao.lsx;AMER_Shaken;<font color=8e3f8e>Shaken</font>;
 ayylmao.lsx;AMER_SKILL_UNI_Uptier_B_DisplayName;Artificer;Артефактор
