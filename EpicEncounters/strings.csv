@@ -1481,7 +1481,7 @@ ayylmao.lsx;SKILLBOOST_BarbedCoat;Spiked Shell;
 ayylmao.lsx;SKILLBOOST_Blink;Fade;
 ayylmao.lsx;Shout_Blink_DisplayName;Fade;
 ayylmao.lsx;Shout_Blink_Description;Your physicality blends and fades into the shadows, reducing all physical damage dealt to you.;
-ayylmao.lsx;AMER_RezSickness;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>";
+ayylmao.lsx;AMER_RezSickness;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
 ayylmao.lsx;SKILLBOOK_Blink;Fade Skillbook;
 ayylmao.lsx;Wall_Ice_Description;Raise icy crystals to block an area, enemies caught inside the crystals may be frozen and take [1] damage.;
 ayylmao.lsx;Quake_Earthquake_Description;Rock the earth with powerful tremors, knocking down characters and spewing oil out onto the battlefield at random locations. deals [1] damage.;
@@ -2115,10 +2115,10 @@ ayylmao.lsx;AMER_ExecuteKill;"<font color=""c80000"">Fatality</font>";
 ayylmao.lsx;Target_Fatality_DisplayName;Execute;Казнь
 ayylmao.lsx;Target_Fatality_Description;Deliver a series of 5 vicious attacks to your target, each dealing [2] damage.;
 ayylmao.lsx;Target_Fatality_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Dexterity<br>    •    5 Scoundrel<br>    •    Cooldown -4 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br><br>Chain Bonus: Fatality</font><br>x5: When Execute has finished, if it dealt more damage than half the target's remaining vitality, the target is instantly slain.<br><br>Boss-creatures can never be instantly slain.<br><br>Damage dealt depends on your weapon's damage rating.</p>";
-ayylmao.lsx;AMER_STATUS_FingerOfDeath;"<font color=""9b26de"">Finger of Death</font>";"<font color=""9b26de"">Перст смерти</font>";
+ayylmao.lsx;AMER_STATUS_FingerOfDeath;"<font color=""9b26de"">Finger of Death</font>";"<font color=""9b26de"">Перст смерти</font>"
 ayylmao.lsx;AMER_STATUS_ApplyFingerOfDeath;Finger of Death;Перст смерти
 ayylmao.lsx;AMER_STATUS_FingerOfDeathFail;is instantly slain.;мгновенно погибает.
-ayylmao.lsx;AMER_STATUS_FingerOfDeathSave;"saved against <font color=""9b26de"">Finger of Death</font>";"сопротивляется <font color=""9b26de"">Персту смерти</font>";
+ayylmao.lsx;AMER_STATUS_FingerOfDeathSave;"saved against <font color=""9b26de"">Finger of Death</font>";"сопротивляется <font color=""9b26de"">Персту смерти</font>"
 ayylmao.lsx;Target_FingerOfDeath_Description;"A burst of dull, sickly green energy streaks through the air at your target; its form degenerates instantly, suffering [1] damage and debilitating, if not slaying, the unfortunate foe.";
 ayylmao.lsx;AMER_SKILL_InsectPlague_DisplayName;Insect Plague;
 ayylmao.lsx;AMER_SKILL_InsectPlague_Description;Conjure clouds of poisonous, biting gnats to swarm your target and other enemies within [2] of the first, making spellcasting difficult. The swarm will only disperse if their target is Burning.;
@@ -2426,9 +2426,9 @@ ayylmao.lsx;Projectile_StaffOfMagus_Description;"Launch [3] magical missiles fro
 ayylmao.lsx;Projectile_StaffOfMagus_StatsDescription;Range: [2]<br>Launches [3] magical missiles that inherit the power and damage type of the staff. The better the staff, the more damage this spell sows. Can target terrain.;
 ayylmao.lsx;Projectile_StaffOfJahan_Description;"Launch [3] magical missiles from your staff; the barrage deals [1] damage.";
 ayylmao.lsx;Projectile_StaffOfJahan_StatsDescription;Range: [2]<br>The better Jahan's staff, the better the damage.;
-ayylmao.lsx;AMER_RezSickness2;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>";
-ayylmao.lsx;AMER_RezSickness3;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>";
-ayylmao.lsx;AMER_RezSickness4;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>";
+ayylmao.lsx;AMER_RezSickness2;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
+ayylmao.lsx;AMER_RezSickness3;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
+ayylmao.lsx;AMER_RezSickness4;"<font color=""c80000"">Touch of the Grave</font>";"<font color=""c80000"">Дыхание смерти</font>"
 ayylmao.lsx;Shout_Taunt_DisplayName;Command;
 ayylmao.lsx;AMER_ApplyJustScalingHeal;Percentage Healing;
 ayylmao.lsx;AMER_ApplyEmpoweredSoothe;Percentage Healing;
@@ -2504,9 +2504,9 @@ ayylmao.lsx;AMER_STATUS_CurseOfCuts;"<font color=""9b26de"">Curse of Cuts</font>
 ayylmao.lsx;AMER_STATUS_ApplyCurseOfCuts;Curse of Cuts;Режущее проклятие
 ayylmao.lsx;AMER_SKILLBOOK_CurseOfCuts;Curse of Cuts Skillbook;Книга навыка «Режущее проклятие»
 ayylmao.lsx;AMER_STATUS_CurseOfCutsFail;"is <font color=""9b26de"">Cursed with Cuts</font>.";"под воздействием <font color=""9b26de"">Режущего проклятия</font>."
-ayylmao.lsx;AMER_STATUS_CurseOfCutsSave;"saved against <font color=""9b26de"">Curse of Cuts</font>.";"сопротивляется <font color=""9b26de"">Режущему проклятию</font>.";
-ayylmao.lsx;AMER_STATUS_CurseOfCutsStill;"is still <font color=""9b26de"">Cursed with Cuts</font>.";"всё ещё под воздействием <font color=""9b26de"">Режущего проклятия</font>.";
-ayylmao.lsx;AMER_STATUS_CurseOfCutsNoLonger;"is <font color=""9b26de"">Cursed with Cuts</font> no longer.";"освободился от <font color=""9b26de"">Режущего проклятия</font>.";
+ayylmao.lsx;AMER_STATUS_CurseOfCutsSave;"saved against <font color=""9b26de"">Curse of Cuts</font>.";"сопротивляется <font color=""9b26de"">Режущему проклятию</font>."
+ayylmao.lsx;AMER_STATUS_CurseOfCutsStill;"is still <font color=""9b26de"">Cursed with Cuts</font>.";"всё ещё под воздействием <font color=""9b26de"">Режущего проклятия</font>."
+ayylmao.lsx;AMER_STATUS_CurseOfCutsNoLonger;"is <font color=""9b26de"">Cursed with Cuts</font> no longer.";"освободился от <font color=""9b26de"">Режущего проклятия</font>."
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_Description;The unfortunate target of this cruel hex finds itself intermittently cursed and slashed by unseen forces, suffering [1] damage every round.;
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    9 Intelligence<br>    •    2 Witchcraft<br>    •    Cooldown -2 at 10 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [2]</font></p>";
 ayylmao.lsx;AMER_SKILL_CurseOfCuts_DisplayName;Curse of Cuts;Режущее проклятие
