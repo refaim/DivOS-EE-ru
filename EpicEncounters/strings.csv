@@ -1804,7 +1804,7 @@ ayylmao.lsx;SKILLBOOST_DivineLight;"<font color=""f59000"">Divine Light</font>";
 ayylmao.lsx;AMER_STATUS_BlindImmune2;Blind Immunity;Нельзя ослепить
 ayylmao.lsx;AMER_STATUS_BlindImmune1;Blind Immunity;Нельзя ослепить
 ayylmao.lsx;AMER_STATUS_BlindImmune3;Blind Immunity;Нельзя ослепить
-ayylmao.lsx;Projectile_SplittingArrow_DisplayName;Fusillade;
+ayylmao.lsx;Projectile_SplittingArrow_DisplayName;Fusillade;Расстрел
 ayylmao.lsx;AMER_SKILL_Erosion_DisplayName;Erosion;
 ayylmao.lsx;AMER_SKILL_Erosion_Description;Water bubbles and seeps forth from flesh and bone, splintering away what was once whole.;
 ayylmao.lsx;AMER_SKILL_Erosion_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Intelligence<br>    •    5 Geomancer<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Radius: [3]<br>Grit: [2]<br>No Saving Throw</font><br><br>&quot;Flesh and bone, steel or stone; all is as dust before me.&quot;</p>";
@@ -1826,11 +1826,11 @@ ayylmao.lsx;AMER_STATUS_BorrowedTimeStill;"is still <font color=""7b70d2"">Time-
 ayylmao.lsx;AMER_STATUS_BorrowedTimeNoLonger;"is no longer <font color=""7b70d2"">Time-Borrowed</font>.";
 ayylmao.lsx;AMER_STATUS_BorrowedTimeFail;"is <font color=""7b70d2"">Time-Borrowed</font>.";
 ayylmao.lsx;AMER_STATUS_BorrowedTimeSave;"saved against <font color=""7b70d2"">Borrowed Time</font>.";
-ayylmao.lsx;AMER_SKILL_Stasis_DisplayName;Stasis;
+ayylmao.lsx;AMER_SKILL_Stasis_DisplayName;Stasis;Стазис
 ayylmao.lsx;AMER_SKILL_Stasis_Description;Instantly place a target into protective stasis, greatly increasing their hardiness but preventing healing and freezing it solid.;
 ayylmao.lsx;AMER_SKILL_Stasis_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    4 Hydrosophist<br>    •    Cooldown -4 at 15 Intelligence</font><br><font color=""c80000"" size=19 face=""Copperplate Gothic Light"">   VITALITY COST: 30%</font><br><br><font face=""Copperplate Gothic Bold"">Range: [3]<br>Constitution: +[1]<br>Armor: +[2]</font><br><br>&quot;Not yet.&quot;</p>";
-ayylmao.lsx;AMER_SKILLBOOK_Stasis;"<font color=""c7a758"">Stasis Skillbook</font>";
-ayylmao.lsx;AMER_StasisBuff;Stasis Fortification;
+ayylmao.lsx;AMER_SKILLBOOK_Stasis;"<font color=""c7a758"">Stasis Skillbook</font>";"<font color=""c7a758"">Книга навыка «Стазис»</font>"
+ayylmao.lsx;AMER_StasisBuff;Stasis Fortification;Стазис
 ayylmao.lsx;AMER_SKILL_Despair_DisplayName;Despair;Отчаяние
 ayylmao.lsx;AMER_SKILL_Despair_Description;Fill the target with an immense sense of hopelessness and despair, making it Mute, Slow, and Weak.;
 ayylmao.lsx;AMER_SKILL_Despair_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    10 Intelligence<br>    •    3 Witchcraft<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]</font><br><br>&quot;Hope is an illusion- let me show you.&quot;</p>";
@@ -1898,7 +1898,7 @@ ayylmao.lsx;AMER_SKILL_Vengeance_DisplayName;Vengeance;
 ayylmao.lsx;AMER_SKILLBOOK_Vengeance;"<font color=""c7a758"">Vengeance Skillbook</font>";
 ayylmao.lsx;AMER_SKILL_Vengeance_Description;The very air around you crackles with power, bending to your whim as it lashes out against your enemies, dealing [1] damage and Burning each round.;
 ayylmao.lsx;AMER_SKILL_Vengeance_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    13 Intelligence<br>    •    5 Aerotheurge<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Radius: [2]<br>Enemies within range are struck each round on your turn.</font><br><br>&quot;Now I am become Death.&quot;</p>";
-ayylmao.lsx;SKILLBOOK_Ranger_SplittingArrow;Fusillade Skillbook;
+ayylmao.lsx;SKILLBOOK_Ranger_SplittingArrow;Fusillade Skillbook;Книга навыка «Расстрел»
 ayylmao.lsx;AMER_Vengeance;"<font color=""7b70d2"">Vengeance</font>";
 ayylmao.lsx;AMER_Maze;"<font color=""e9d23d"">Mazed</font>";
 ayylmao.lsx;AMER_SKILLBOOK_Maze;"<font color=""c7a758"">Maze Skillbook</font>";
@@ -1984,17 +1984,17 @@ ayylmao.lsx;AMER_SKILLBOOK_Premeditate;Premeditate Skillbook;
 ayylmao.lsx;AMER_SKILL_Premeditate_DisplayName;Premeditate;
 ayylmao.lsx;AMER_SKILL_Premeditate_Description;Every outcome, every possible permutation and contingency are known to you as you prepare for your final strike.;
 ayylmao.lsx;AMER_SKILL_Premeditate_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    5 Scoundrel<br>    •    Cooldown -4 at 15 Dexterity</font><br><br><font face=""Copperplate Gothic Bold"">Instantly gain 2 stacks of Chain.<br>Does not count toward and is not limited by your Chain gained this turn.<br>May only be cast in combat.</font><br><br>&quot;Why submit to the flesh, when death is bred in your bones?&quot;</p>";
-ayylmao.lsx;AMER_SKILLBOOK_Attenuate;"<font color=""c7a758"">Attenuate Skillbook</font>";
-ayylmao.lsx;AMER_STATUS_ApplyAttenuate;Attenuation;
-ayylmao.lsx;AMER_STATUS_Attenuate;"<font color=""9b26de"">Attenuation I</font>";
-ayylmao.lsx;AMER_STATUS_Attenuate2;"<font color=""9b26de"">Attenuation II</font>";
-ayylmao.lsx;AMER_STATUS_Attenuate3;"<font color=""9b26de"">Attenuation III</font>";
-ayylmao.lsx;AMER_STATUS_Attenuate4;"<font color=""9b26de"">Attenuation IV</font>";
-ayylmao.lsx;AMER_STATUS_AttenuateNoLonger;"is <font color=""9b26de"">Attenuated</font> no longer.";
-ayylmao.lsx;AMER_STATUS_AttenuateStill;"is still <font color=""9b26de"">Attenuated</font>.";
-ayylmao.lsx;AMER_STATUS_AttenuateFail;"is <font color=""9b26de"">Attenuated</font>.";
-ayylmao.lsx;AMER_STATUS_AttenuateSave;"saved against <font color=""9b26de"">Attenuation</font>.";
-ayylmao.lsx;AMER_SKILL_Attenuate_DisplayName;Attenuate;
+ayylmao.lsx;AMER_SKILLBOOK_Attenuate;"<font color=""c7a758"">Attenuate Skillbook</font>";"<font color=""c7a758"">Книга навыка «Истощение»</font>"
+ayylmao.lsx;AMER_STATUS_ApplyAttenuate;Attenuation;Истощение
+ayylmao.lsx;AMER_STATUS_Attenuate;"<font color=""9b26de"">Attenuation I</font>";"<font color=""9b26de"">Истощение I</font>"
+ayylmao.lsx;AMER_STATUS_Attenuate2;"<font color=""9b26de"">Attenuation II</font>";"<font color=""9b26de"">Истощение II</font>"
+ayylmao.lsx;AMER_STATUS_Attenuate3;"<font color=""9b26de"">Attenuation III</font>";"<font color=""9b26de"">Истощение III</font>"
+ayylmao.lsx;AMER_STATUS_Attenuate4;"<font color=""9b26de"">Attenuation IV</font>";"<font color=""9b26de"">Истощение IV</font>"
+ayylmao.lsx;AMER_STATUS_AttenuateNoLonger;"is <font color=""9b26de"">Attenuated</font> no longer.";"больше не <font color=""9b26de"">истощён</font>."
+ayylmao.lsx;AMER_STATUS_AttenuateStill;"is still <font color=""9b26de"">Attenuated</font>.";"всё ещё <font color=""9b26de"">истощён</font>."
+ayylmao.lsx;AMER_STATUS_AttenuateFail;"is <font color=""9b26de"">Attenuated</font>.";"<font color=""9b26de"">истощён</font>."
+ayylmao.lsx;AMER_STATUS_AttenuateSave;"saved against <font color=""9b26de"">Attenuation</font>.";"сопротивляется <font color=""9b26de"">Истощению</font>."
+ayylmao.lsx;AMER_SKILL_Attenuate_DisplayName;Attenuate;Истощение
 ayylmao.lsx;AMER_SKILL_Attenuate_Description;Conjure forth a ghostly malady to haunt your target, reducing Constitution by [3] and dealing [2] damage each turn. As time continues to pass, the affliction gains in severity.;
 ayylmao.lsx;AMER_SKILL_Attenuate_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    4 Witchcraft<br>    •    Cooldown -4 at 15 Intelligence</font><br><font color=""c80000"" size=19 face=""Copperplate Gothic Light"">   VITALITY COST: 20%</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Saving Throw: Grit<br>Each passing turn adds new effects:<br>Turn 2: [4] Armor<br>Turn 3: [5] Grit<br>Turn 4: [6] Willpower, [7] Intelligence.</font><br><br>&quot;Give sick.&quot;</p>";
 ayylmao.lsx;Projectile_IceShardStart_DisplayName;Ice Shards;Осколки льда
@@ -2291,11 +2291,11 @@ ayylmao.lsx;AMER_BardCombatText9;"Shield Specialist modified by <font color=""c1
 ayylmao.lsx;AMER_BardCombatText7;"Knocked Down removed by <font color=""c1a257"">Bardic Reaction</font>!";
 ayylmao.lsx;AMER_BardCombatText11;"Haste countered by <font color=""c1a257"">Bardic Reaction</font>!";
 ayylmao.lsx;AMER_BardCombatText12;"Hit Chance reduced by <font color=""c1a257"">Bardic Reaction</font>!";
-ayylmao.lsx;AMER_SKILLBOOK_ColdSnap;Cold Snap Skillbook;
-ayylmao.lsx;AMER_SKILL_ColdSnap_DisplayName;Cold Snap;
+ayylmao.lsx;AMER_SKILLBOOK_ColdSnap;Cold Snap Skillbook;Книга навыка «Внезапное похолодание»
+ayylmao.lsx;AMER_SKILL_ColdSnap_DisplayName;Cold Snap;Внезапное похолодание
 ayylmao.lsx;AMER_SKILL_ColdSnap_Description;Your target crystallizes and cracks, suffering [2] damage. 100% extra damage is dealt if the target is Wet or Chilled, while 200% extra is suffered if Frozen.;
 ayylmao.lsx;AMER_SKILL_ColdSnap_StatsDescription;"<p align=""left""><font color=""ff9500"" size=19 face=""Copperplate Gothic Light"">   RECOMMENDED</font><br><font color=cc7700"" face=""Copperplate Gothic Light"">    •    11 Intelligence<br>    •    4 Hydrosophist<br>    •    Cooldown -4 at 15 Intelligence</font><br><br><font face=""Copperplate Gothic Bold"">Range: [1]<br>Ice is created beneath the target.<br>Removes Wet, Chilled, and Frozen from the target.</font></p>";
-ayylmao.lsx;AMER_ApplyColdSnap;Cold Snap;
+ayylmao.lsx;AMER_ApplyColdSnap;Cold Snap;Внезапное похолодание
 ayylmao.lsx;AMER_SKILLBOOK_AwesomePresence;Awesome Presence Skillbook;
 ayylmao.lsx;AMER_SKILL_AwesomePresence_DisplayName;Awesome Presence;
 ayylmao.lsx;AMER_SKILL_AwesomePresence_Description;You are a paragon of war, your presence awe-inspiring. The target is emboldened if allied, or Feared if hostile. Effect is greater with corpses nearby.;
