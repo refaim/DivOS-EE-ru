@@ -119,14 +119,19 @@ def get_stripped_significant_stats_lines(file_contents):
 
 def get_lsx_element_trees(directory):
     for file_path, file_name in get_files_by_extension(directory, 'lsx'):
-        yield file_path, file_name, xml.etree.ElementTree.parse(file_path)
+        yield file_path, xml.etree.ElementTree.parse(file_path)
 
 
 def get_translatable_nodes_attributes(element_tree):
     for node in element_tree.getroot().findall('./region/node/children/node'):
-        uuid_node = node.find('attribute[@id="UUID"]')
+        identifier_node = node.find('attribute[@id="UUID"]')
         text_node = node.find('attribute[@id="Content"]')
-        yield uuid_node, uuid_node.attrib['value'], text_node, text_node.attrib['value']
+        if identifier_node is None:
+            identifier_node = node.find('attribute[@id="Name"]')
+            text_node = node.find('attribute[@id="Description"]')
+
+        if identifier_node is not None and text_node is not None:
+            yield identifier_node, identifier_node.attrib['value'], text_node, text_node.attrib['value']
 
 
 def get_translatable_stats_files(directory):
@@ -135,7 +140,7 @@ def get_translatable_stats_files(directory):
         if file_name.lower() in translatable_files:
             with open(file_path, 'r', encoding='utf-8') as file_object:
                 file_contents = file_object.read()
-            yield file_path, file_name, file_contents
+            yield file_path, file_contents
 
 
 def make_stats_text_uuid(stats_entry, entry_attribute, attribute_text_id):
@@ -172,11 +177,16 @@ def main():
         csv_file_path = args.src
         mod_directory_path = args.dst
 
-    localization_lsx_directory_path = os.path.join(mod_directory_path, 'Data', 'Mods', 'Epic_Encounters_071a986c-9bfa-425e-ac72-7e26177c08f6', 'Localization')
-    assert os.path.isdir(localization_lsx_directory_path)
+    lsx_directory_paths = [
+        ('Ln', os.path.join(mod_directory_path, 'Data', 'Mods', 'Epic_Encounters_071a986c-9bfa-425e-ac72-7e26177c08f6', 'Localization')),
+        ('Rt', os.path.join(mod_directory_path, 'Data', 'Public', 'Epic_Encounters_071a986c-9bfa-425e-ac72-7e26177c08f6', 'RootTemplates')),
+    ]
 
     stats_txt_directory_path = os.path.join(mod_directory_path, 'Data', 'Public', 'Epic_Encounters_071a986c-9bfa-425e-ac72-7e26177c08f6', 'Stats', 'Generated', 'Data')
     assert os.path.isdir(stats_txt_directory_path)
+
+    def get_file_key(file_path, directory_code):
+        return f'{directory_code}\\{os.path.basename(file_path)}'
 
     csv_strings_ru = {}
     csv_strings_en = {}
@@ -193,40 +203,42 @@ def main():
             csv_writer = csv.DictWriter(csv_file_object, [FIELD_FILE, FIELD_UUID, FIELD_ENGLISH, FIELD_RUSSIAN], delimiter=';', lineterminator='\n')
             csv_writer.writeheader()
 
-            def get_both_lang_texts(file_name, text_id, text):
+            def get_both_lang_texts(file_path, directory_code, text_id, text):
                 if set(text) & RU_LETTERS_SET:
-                    english_text, russian_text = csv_strings_en.get(file_name, {}).get(text_id), text
+                    english_text, russian_text = csv_strings_en.get(get_file_key(file_path, directory_code), {}).get(text_id), text
                 else:
-                    english_text, russian_text = text, csv_strings_ru.get(file_name, {}).get(text_id)
+                    english_text, russian_text = text, csv_strings_ru.get(get_file_key(file_path, directory_code), {}).get(text_id)
                 return english_text, russian_text
 
-            for file_path, file_name, element_tree in get_lsx_element_trees(localization_lsx_directory_path):
-                for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
-                    english_text, russian_text = get_both_lang_texts(file_name, uuid_value, text_value)
-                    csv_writer.writerow({FIELD_FILE: file_name, FIELD_UUID: uuid_value, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
+            for directory_code, lsx_directory_path in lsx_directory_paths:
+                for file_path, element_tree in get_lsx_element_trees(lsx_directory_path):
+                    for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
+                        english_text, russian_text = get_both_lang_texts(file_path, directory_code, uuid_value, text_value)
+                        csv_writer.writerow({FIELD_FILE: get_file_key(file_path, directory_code), FIELD_UUID: uuid_value, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
 
-            for file_path, file_name, file_contents in get_translatable_stats_files(stats_txt_directory_path):
+            for file_path, file_contents in get_translatable_stats_files(stats_txt_directory_path):
                 for entry in get_all_stats_entries(file_contents):
                     for attribute in entry.get_attributes():
                         for attribute_text_id, text in attribute.get_translatable_strings():
                             file_text_uuid = make_stats_text_uuid(entry, attribute, attribute_text_id)
-                            english_text, russian_text = get_both_lang_texts(file_name, file_text_uuid, text)
-                            csv_writer.writerow({FIELD_FILE: file_name, FIELD_UUID: file_text_uuid, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
+                            english_text, russian_text = get_both_lang_texts(file_path, 'St', file_text_uuid, text)
+                            csv_writer.writerow({FIELD_FILE: get_file_key(file_path, 'St'), FIELD_UUID: file_text_uuid, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
 
     else:
 
-        for file_path, file_name, element_tree in get_lsx_element_trees(localization_lsx_directory_path):
-            for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
-                text_node.set('value', csv_strings_ru.get(file_name, {}).get(uuid_value, text_value))
-            element_tree.write(file_path, encoding='utf-8', xml_declaration=True)
+        for directory_code, lsx_directory_path in lsx_directory_paths:
+            for file_path, element_tree in get_lsx_element_trees(lsx_directory_path):
+                for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
+                    text_node.set('value', csv_strings_ru.get(get_file_key(file_path, directory_code), {}).get(uuid_value, text_value))
+                element_tree.write(file_path, encoding='utf-8', xml_declaration=True)
 
-        for file_path, file_name, file_contents in get_translatable_stats_files(stats_txt_directory_path):
+        for file_path, file_contents in get_translatable_stats_files(stats_txt_directory_path):
             entry_strings = []
             for entry in get_all_stats_entries(file_contents):
                 for attribute in entry.get_attributes():
                     for attribute_text_id, text in attribute.get_translatable_strings():
                         file_text_uuid = make_stats_text_uuid(entry, attribute, attribute_text_id)
-                        attribute.translate_string(attribute_text_id, csv_strings_ru.get(file_name, {}).get(file_text_uuid, text))
+                        attribute.translate_string(attribute_text_id, csv_strings_ru.get(get_file_key(file_path, 'St'), {}).get(file_text_uuid, text))
                 entry_strings.append(str(entry))
 
             with open(file_path, 'w', encoding='utf-8', newline='\n') as file_object:
