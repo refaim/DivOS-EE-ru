@@ -3455,7 +3455,7 @@ Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_C;"<br><font color=""c7a758"">Except
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_BorrowedTime;<br>Scoundrel skills are skills for rogues and thieves. High Dexterity improves these skills. Read this book to learn this skill.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_AmberPrison;<br>Geomancer Spells are Earth-based magic spells. High Intelligence improves these spells. Read this book to learn the spell.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_PATCH;Thanks for playing!;
-Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Depreciated;This journal is packed with lewd personal entries and sketches--an embarassing find indeed!;
+Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Depreciated;This journal is packed with lewd personal entries and sketches--an embarassing find indeed!;Пьеса о несчастной аргонианской девушке и её тяжёлой жизни в поместье одного малоизвестного вельможи из дома Хлаалу.
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Squander;<br>Scoundrel skills are skills for rogues and thieves. High Dexterity improves these skills. Read this book to learn this skill.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Fire_Rebirth;<br>Pyrokinetic Spells are Fire-based spells. High Intelligence improves these spells. Read this book to learn this spell.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Audacity;<br>Aerotheurge Spells are Air-based magic spells. High Intelligence improves these spells. Read this book to learn this spell.;
@@ -3467,20 +3467,20 @@ Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Despair;<br>Witchcraft Spell. High Int
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Attonement;<br>Soldier skills are skills for warriors. High Strength improves these skills. Read this book to learn this skill.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Stasis;<br>Witchcraft Spell. High Intelligence improves this spell. Read this book to learn it.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Erosion;<br>Geomancer Spells are Earth-based magic spells. High Intelligence improves these spells. Read this book to learn the spell.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Verdure;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Coral;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Fog;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Smoke;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Void;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Lichen;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Clay;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Abyss;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Earth;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Midnight;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Stealth;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Seafoam;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Nemesis;An exotic dye from a forgotten era.;
-Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Saffron;An exotic dye from a forgotten era.;
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Verdure;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Coral;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Fog;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Smoke;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Void;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Lichen;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Clay;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Abyss;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Earth;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Midnight;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Stealth;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Seafoam;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Nemesis;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
+Rt\AMER_Dyes.lsx;AMER_TOOL_Dye_Saffron;An exotic dye from a forgotten era.;Экзотическая краска из забытой эпохи.
 Rt\AMER_Items.lsx;CON_ENEMY_Potion_A_Health_Large;A large-sized elixir that restores your vitality. It makes a soft, tinkling sound when you shake it.;
 Rt\AMER_Items.lsx;CON_ENEMY_Potion_A_Health_Medium;A medium-sized elixir that restores your vitality. It makes a soft, tinkling sound when you shake it.;
 Rt\AMER_Items.lsx;AMER_WPN_ObsidianColossus;Even the fraying strips of Vernivian leather wound around the handle of this hammer cannot protect you from Rot. That is, unless you are skilled in Tenebrium use.;
