@@ -124,14 +124,20 @@ def get_lsx_element_trees(directory):
 
 def get_translatable_nodes_attributes(element_tree):
     for node in element_tree.getroot().findall('./region/node/children/node'):
-        identifier_node = node.find('attribute[@id="UUID"]')
-        text_node = node.find('attribute[@id="Content"]')
-        if identifier_node is None:
-            identifier_node = node.find('attribute[@id="Name"]')
-            text_node = node.find('attribute[@id="Description"]')
+        pairs = []
 
-        if identifier_node is not None and text_node is not None:
-            yield identifier_node, identifier_node.attrib['value'], text_node, text_node.attrib['value']
+        uuid_node = node.find('attribute[@id="UUID"]')
+        if uuid_node is not None:
+            pairs.append([uuid_node.attrib['value'], node.find('attribute[@id="Content"]')])
+        else:
+            name_node = node.find('attribute[@id="Name"]')
+            for attr in ['DisplayName', 'Description']:
+                text_node = node.find(f'attribute[@id="{attr}"]')
+                if text_node is not None:
+                    pairs.append([f'{name_node.attrib["value"]}_{attr}', text_node])
+
+        for text_id, text_node in pairs:
+            yield text_id, text_node, text_node.attrib['value']
 
 
 def get_translatable_stats_files(directory):
@@ -212,9 +218,9 @@ def main():
 
             for directory_code, lsx_directory_path in lsx_directory_paths:
                 for file_path, element_tree in get_lsx_element_trees(lsx_directory_path):
-                    for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
-                        english_text, russian_text = get_both_lang_texts(file_path, directory_code, uuid_value, text_value)
-                        csv_writer.writerow({FIELD_FILE: get_file_key(file_path, directory_code), FIELD_UUID: uuid_value, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
+                    for text_id, text_node, text_value in get_translatable_nodes_attributes(element_tree):
+                        english_text, russian_text = get_both_lang_texts(file_path, directory_code, text_id, text_value)
+                        csv_writer.writerow({FIELD_FILE: get_file_key(file_path, directory_code), FIELD_UUID: text_id, FIELD_ENGLISH: english_text, FIELD_RUSSIAN: russian_text})
 
             for file_path, file_contents in get_translatable_stats_files(stats_txt_directory_path):
                 for entry in get_all_stats_entries(file_contents):
@@ -228,8 +234,8 @@ def main():
 
         for directory_code, lsx_directory_path in lsx_directory_paths:
             for file_path, element_tree in get_lsx_element_trees(lsx_directory_path):
-                for uuid_node, uuid_value, text_node, text_value in get_translatable_nodes_attributes(element_tree):
-                    text_node.set('value', csv_strings_ru.get(get_file_key(file_path, directory_code), {}).get(uuid_value, text_value))
+                for text_id, text_node, text_value in get_translatable_nodes_attributes(element_tree):
+                    text_node.set('value', csv_strings_ru.get(get_file_key(file_path, directory_code), {}).get(text_id, text_value))
                 element_tree.write(file_path, encoding='utf-8', xml_declaration=True)
 
         for file_path, file_contents in get_translatable_stats_files(stats_txt_directory_path):
