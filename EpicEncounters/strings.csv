@@ -1239,27 +1239,27 @@ Ln\AMER_Speech_Elric.lsx;AMER_ASC_ShadowPortal;"Exiting the portal, terror meets
 Ln\AMER_Speech_Elric.lsx;AMER_ASC_AbyssalPortal;Vast despair struggles overwhelm you. Give up. No hope remains. Hope never existed, only its illusion, and now it has abandoned you.... No. You will not bend. Despair vanishes, and you direct your hate into the heart of the Abyss.;
 Ln\AMER_Speech_Elric.lsx;AMER_ASC_PrimordialPortal;The metallic scent of blood fills your lungs. Overhead, an incoherent tangle of tarry forms sieve the light of an endless sunset. These half-formed appendages grasp at nothing and everything, caught in the ravenous instant of becoming.;
 Ln\AMER_Speech_Elric.lsx;AMER_RCP_ArtifactsIntro;"At an initial glace the illegible text of this ledger shifts and obfuscates, maintaining a peripheral blur. Yet, after a brief moment of concentration, each page manifests itself in your native tongue.<NewPage>Listed herein are a multitude of ancient, dated entries; each meticulously detailing a unique binding of source to an inanimate vestige. Though the data spans many lifetimes, most entries refer to identical or similarly named individuals; suggesting the process as a guarded craft.<br><br>You find that, while the majority of these techniques would be impossible to implement in today's Rivellon, the refining processes might indeed be replicable with such an object already intact.<NewPage>Through further study of these entries, you gather that, with an object referred to as an Artificer's Stone, one can capture an artifact's essence into a shard. These shards can then be manipulated around other such artifacts to empower their abilities.";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_CataclysmProc;Cataclysm;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_ZenithProc;Zenith Fireball;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc;Sacrifice;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc;Patience;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc;Pariah;
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_CataclysmProc;Cataclysm;Катаклизм
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_ZenithProc;Zenith Fireball;Огненный шар Зенита
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc;Sacrifice;Жертва
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc;Patience;Терпение
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc;Pariah;Изгой
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProc;Good Housekeeping;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc1;"<font color=""c7a758"">Sacrifice I</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc2;"<font color=""c7a758"">Sacrifice II</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc3;"<font color=""c7a758"">Sacrifice III</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc4;"<font color=""c7a758"">Sacrifice IV</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc5;"<font color=""c7a758"">Sacrifice V</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc1;"<font color=""c7a758"">Pariah I</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc2;"<font color=""c7a758"">Pariah II</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc3;"<font color=""c7a758"">Pariah III</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc4;"<font color=""c7a758"">Pariah IV</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc5;"<font color=""c7a758"">Pariah V</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc1;"<font color=""c7a758"">Patience I</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc2;"<font color=""c7a758"">Patience II</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc3;"<font color=""c7a758"">Patience III</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc4;"<font color=""c7a758"">Patience VI</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc5;"<font color=""c7a758"">Patience V</font>";
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc1;"<font color=""c7a758"">Sacrifice I</font>";"<font color=""c7a758"">Жертва I</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc2;"<font color=""c7a758"">Sacrifice II</font>";"<font color=""c7a758"">Жертва II</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc3;"<font color=""c7a758"">Sacrifice III</font>";"<font color=""c7a758"">Жертва III</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc4;"<font color=""c7a758"">Sacrifice IV</font>";"<font color=""c7a758"">Жертва IV</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_SacrificeProc5;"<font color=""c7a758"">Sacrifice V</font>";"<font color=""c7a758"">Жертва V</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc1;"<font color=""c7a758"">Pariah I</font>";"<font color=""c7a758"">Изгой I</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc2;"<font color=""c7a758"">Pariah II</font>";"<font color=""c7a758"">Изгой II</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc3;"<font color=""c7a758"">Pariah III</font>";"<font color=""c7a758"">Изгой III</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc4;"<font color=""c7a758"">Pariah IV</font>";"<font color=""c7a758"">Изгой IV</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PariahProc5;"<font color=""c7a758"">Pariah V</font>";"<font color=""c7a758"">Изгой V</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc1;"<font color=""c7a758"">Patience I</font>";"<font color=""c7a758"">Терпение I</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc2;"<font color=""c7a758"">Patience II</font>";"<font color=""c7a758"">Терпение II</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc3;"<font color=""c7a758"">Patience III</font>";"<font color=""c7a758"">Терпение III</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc4;"<font color=""c7a758"">Patience VI</font>";"<font color=""c7a758"">Терпение VI</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_PatienceProc5;"<font color=""c7a758"">Patience V</font>";"<font color=""c7a758"">Терпение V</font>"
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech1;Oooh! Such strong hands!;
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech2;Do you HAVE to go below the belt!?;
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech3;Get to da choppa!;
@@ -1274,25 +1274,25 @@ Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech11;"My mother used to tell me,
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech12;Strong, broad strokes!;
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech13;BOOM! Imma BROOM, baby!;
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_FurinProcSpeech14;Have you seen my dustpan?;
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_WendigoStance_DisplayName;Wendigo;
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_WendigoStance_DisplayName;Wendigo;Вендиго
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_WendigoStance_Description;With the Predator talent, this grisly trophy grants one additional Predator reaction each round.;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Wendigo;"<font color=""c7a758"">Wendigo</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Seraph;"<font color=""c7a758"">Seraph</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Ghostflame;"<font color=""c7a758"">Ghostflame</font>";"<font color=""c7a758"">Призрачное пламя</font>"
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Arcturus;"<font color=""c7a758"">Arcturus</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_ArcturusStance_DisplayName;Arcturus;
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Wendigo;"<font color=""c7a758"">Wendigo</font>";"<font color=""c7a758"">Вендиго</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Seraph;"<font color=""c7a758"">Seraph</font>";"<font color=""c7a758"">Серафим</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Ghostflame;"<font color=""c7a758"">Ghostflame</font>";"<font color=""c7a758"">Призрачное Пламя</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Arcturus;"<font color=""c7a758"">Arcturus</font>";"<font color=""c7a758"">Арктур</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_ArcturusStance_DisplayName;Arcturus;Арктур
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_ArcturusStance_Description;Opportunist's attack bonuses apply to Centurion retaliations.;
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_DisplayName;Ghostflame;Призрачное пламя
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_DisplayName;Ghostflame;Призрачное Пламя
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_GhostflameStance_Description;With the Demon talent, this ghastly token grants one additional Demon reaction each round.;
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_SeraphStance_DisplayName;Seraph;
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_SeraphStance_DisplayName;Seraph;Серафим
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_SeraphStance_Description;With the Angel talent, this angelic relic grants one additional Angel reaction each round.;
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_AbyssStance_DisplayName;Abyss;
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_AbyssStance_DisplayName;Abyss;Бездна
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_AbyssStance_Description;In attuning to the hellish voidplate, Abyss grants +[1]% increased damage and +[2]% critical chance.;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_A;"<font color=""c7a758"">Abyss</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_B;"<font color=""c7a758"">Abyss</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_C;"<font color=""c7a758"">Abyss</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_D;"<font color=""c7a758"">Abyss</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_E;"<font color=""c7a758"">Abyss</font>";
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_A;"<font color=""c7a758"">Abyss</font>";"<font color=""c7a758"">Бездна</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_B;"<font color=""c7a758"">Abyss</font>";"<font color=""c7a758"">Бездна</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_C;"<font color=""c7a758"">Abyss</font>";"<font color=""c7a758"">Бездна</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_D;"<font color=""c7a758"">Abyss</font>";"<font color=""c7a758"">Бездна</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Abyss_E;"<font color=""c7a758"">Abyss</font>";"<font color=""c7a758"">Бездна</font>"
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_Antediluvian;"<font color=""c7a758"">Antediluvian Carapace</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_AntediluvianStance_DisplayName;Antediluvian Carapace;
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_AntediluvianStance_Description;Bound to the elements, this ancient plate grants +5% to all non-physical maximum resistances while active.;
@@ -1302,11 +1302,11 @@ Ln\AMER_UniqueEffects.lsx;AMER_UNI_Empyrean;"<font color=""c7a758"">Empyrean Bar
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_Necromancer;"<font color=""c7a758"">Necromancer's Cloak</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_NecromancerStance_DisplayName;Necromancer's Cloak;
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_NecromancerStance_Description;While active, this grim garb grants +1 AP Recovery for every corpse within 3.0m, up to +3, at the end of each turn.;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP1;Necromancer's Cloak;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP2;Necromancer's Cloak;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP3;Necromancer's Cloak;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault;"<font color=""c7a758"">The Vault</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_VaultStance_DisplayName;The Vault;
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP1;Necromancer's Cloak;Плащ Некроманта
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP2;Necromancer's Cloak;Плащ Некроманта
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_NecromancerAP3;Necromancer's Cloak;Плащ Некроманта
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault;"<font color=""c7a758"">The Vault</font>";"<font color=""c7a758"">Сокровищница</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_VaultStance_DisplayName;The Vault;Сокровищница
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_VaultStance_Description;The Vault's powerful magic multiplies your energy as you bide, while active, 30% of current action points are gained as action point recovery at the end of each turn.;
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_BountyHunter;"<font color=""c7a758"">Bounty Hunter</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_SKILL_UNI_BountyHunter_DisplayName;Bounty Hunter;
@@ -1317,10 +1317,10 @@ Ln\AMER_UniqueEffects.lsx;AMER_UNI_BountyHunter_C;"<font color=""c7a758"">Bounty
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_BountyHunter_D;"<font color=""c7a758"">Bounty Hunter</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_BountyHunter_E;"<font color=""c7a758"">Bounty Hunter</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_BountyHunterSelf;Bounty Hunter;
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP1;"<font color=""c7a758"">The Vault</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP2;"<font color=""c7a758"">The Vault</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP4;"<font color=""c7a758"">The Vault</font>";
-Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP8;"<font color=""c7a758"">The Vault</font>";
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP1;"<font color=""c7a758"">The Vault</font>";"<font color=""c7a758"">Сокровищница</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP2;"<font color=""c7a758"">The Vault</font>";"<font color=""c7a758"">Сокровищница</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP4;"<font color=""c7a758"">The Vault</font>";"<font color=""c7a758"">Сокровищница</font>"
+Ln\AMER_UniqueEffects.lsx;AMER_UNI_Vault_AP8;"<font color=""c7a758"">The Vault</font>";"<font color=""c7a758"">Сокровищница</font>"
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_Urgency;"<font color=""c7a758"">Urgency</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_UrgencyBuff1;"<font color=""c7a758"">Urgency I</font>";
 Ln\AMER_UniqueEffects.lsx;AMER_UNI_UrgencyBuff2;"<font color=""c7a758"">Urgency II</font>";
@@ -3149,612 +3149,612 @@ Ln\BAAR_WeaponModStatuses.lsx;UnluckyDice;Misfortune;Неудача
 Ln\BAAR_WeaponModStatuses.lsx;LuckyAvatar;Chameleon;Хамелеон
 Ln\BAAR_WeaponModStatuses.lsx;PacifistDebuffs;Passivity;Бездействие
 Ln\BAAR_WeaponModStatuses.lsx;CelerityAdrenaline;Alacrity;Рвение
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_B_DisplayName;Sacrifice;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_B_DisplayName;Sacrifice;Жертва
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Might at the cost of mettle.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_E_DisplayName;Zodiac;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_E_DisplayName;Zodiac;Зодиак
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Memory of an awesome destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_E_DisplayName;Leviathan;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_E_DisplayName;Leviathan;Левиафан
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Immortal and indifferent as the sea.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_D_DisplayName;Ghostflame;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_D_DisplayName;Ghostflame;Призрачное Пламя
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_D_DisplayName;Ambition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_D_DisplayName;Ambition;Тщеславие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Stop thinking as though the world belongs to someone else.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_D_DisplayName;Zodiac;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_D_DisplayName;Zodiac;Зодиак
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Memory of an awesome destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_B_DisplayName;Rod of Abeyance;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_B_DisplayName;Rod of Abeyance;Жезл Безвременья
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>In the fullness of time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_B_DisplayName;The Vault;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_B_DisplayName;The Vault;Сокровищница
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...They respect a man's privacy here, particularly if he has a fortune.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_C_DisplayName;Apostacy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_C_DisplayName;Apostacy;Измена
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The Zenocide begins.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_D_DisplayName;Axiom;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_D_DisplayName;Axiom;Аксиома
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My prey is truth.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_E_DisplayName;Vertigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_E_DisplayName;Vertigo;Головокружение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>I'll put it on your tab.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_A_DisplayName;Coruscating Silks;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_A_DisplayName;Coruscating Silks;Искрящийся Шёлк
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Hard as diamond, fluid as thought.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_D_DisplayName;Mountain;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_D_DisplayName;Mountain;Гора
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Blunt your blades. Shatter your axes. The mountain does not yield.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_D_DisplayName;Hibernaculum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_D_DisplayName;Hibernaculum;Берлога
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Winter is coming.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_E_DisplayName;Ouroboros;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_E_DisplayName;Ouroboros;Уроборос
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>One is all.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_A_DisplayName;The Savage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_A_DisplayName;The Savage;Дикарь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Higher intelligence, wide sympathies, a singleness of purpose.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_D_DisplayName;Ouroboros;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_D_DisplayName;Ouroboros;Уроборос
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>One is all.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_B_DisplayName;Pestilence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_B_DisplayName;Pestilence;Мор
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Biblical.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_B_DisplayName;Zeal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_B_DisplayName;Zeal;Рвение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The smoke of reason cannot blear the eye of devotion.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_E_DisplayName;Nightfall;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_E_DisplayName;Nightfall;Сумерки
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Darker than dread, heavier than lead.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_C_DisplayName;Sacrifice;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_C_DisplayName;Sacrifice;Жертва
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Might at the cost of mettle.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_E_DisplayName;Nightmare;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_E_DisplayName;Nightmare;Кошмар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Abandon your dreams; terror reigns.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_B_DisplayName;The Jaguar;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_B_DisplayName;The Jaguar;Ягуар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_B_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant killer: swift, merciless, and beautiful.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_D_DisplayName;Nightmare;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_D_DisplayName;Nightmare;Кошмар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Abandon your dreams; terror reigns.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_A_DisplayName;Hibernaculum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_A_DisplayName;Hibernaculum;Берлога
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Winter is coming.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_D_DisplayName;Momentum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_D_DisplayName;Momentum;Инерция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>A body in motion stays in motion, until it gets shot with this.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_A_DisplayName;Zeal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_A_DisplayName;Zeal;Рвение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The smoke of reason cannot blear the eye of devotion.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_D_DisplayName;Discipline;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_D_DisplayName;Discipline;Дисциплина
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You can always go back to being weak-willed and undisciplined.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_B_DisplayName;Wraith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_B_DisplayName;Wraith;Тень
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Just as you escape, I have arrived.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_E_DisplayName;Pestilence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_E_DisplayName;Pestilence;Мор
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Biblical.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_E_DisplayName;Axiom;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_E_DisplayName;Axiom;Аксиома
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>My prey is truth.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_C_DisplayName;Amaranthine Bulwark;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_C_DisplayName;Amaranthine Bulwark;Вечный Оплот
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Let the darkness come. I am ready.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_B_DisplayName;Wendigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_B_DisplayName;Wendigo;Вендиго
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal hunger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_E_DisplayName;Malleus Maleficarum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_E_DisplayName;Malleus Maleficarum;Молот Ведьм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>The hammer of witches, the fist of the inquisition.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_B_DisplayName;Lodestone;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_B_DisplayName;Lodestone;Магнетит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It always points north. And south. And east. And west.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_D_DisplayName;Face of the Fallen;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_D_DisplayName;Face of the Fallen;Лик Падшего
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Gone but not forgotten.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_C_DisplayName;Axiom;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_C_DisplayName;Axiom;Аксиома
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My prey is truth.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_A_DisplayName;Famine;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_A_DisplayName;Famine;Голод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Third am I.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_E_DisplayName;Furin's Street Sweeper;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>To crush your enemies, see them driven before you, and to hear the lamentations of their women.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_D_DisplayName;The Leper;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_D_DisplayName;The Leper;Проказа
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your flesh rejects you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_E_DisplayName;The Jaguar;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_E_DisplayName;The Jaguar;Ягуар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>An elegant killer: swift, merciless, and beautiful.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_A_DisplayName;Malleus Maleficarum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_A_DisplayName;Malleus Maleficarum;Молот Ведьм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The hammer of witches, the fist of the inquisition.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_E_DisplayName;Zeal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_E_DisplayName;Zeal;Рвение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>The smoke of reason cannot blear the eye of devotion.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_B_DisplayName;Leviathan;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_B_DisplayName;Leviathan;Левиафан
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immortal and indifferent as the sea.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_D_DisplayName;Infernal Contract;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_D_DisplayName;Infernal Contract;Адский Контракт
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My soul is forfeit.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_C_DisplayName;Fool's Crest;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_C_DisplayName;Fool's Crest;Колпак Шута
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The forgotten Harlequin.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_C_DisplayName;Exaltation;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_C_DisplayName;Exaltation;Восторг
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Look on my works, ye Mighty, and despair!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_A_DisplayName;Exaltation;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_A_DisplayName;Exaltation;Восторг
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Look on my works, ye Mighty, and despair!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_B_DisplayName;Mirage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_B_DisplayName;Mirage;Мираж
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Sands consume you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_D_DisplayName;Fool's Crest;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_D_DisplayName;Fool's Crest;Колпак Шута
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The forgotten Harlequin.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_D_DisplayName;The Savage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_D_DisplayName;The Savage;Дикарь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Higher intelligence, wide sympathies, a singleness of purpose.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_D_DisplayName;The Chthonian;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_D_DisplayName;The Chthonian;Хтоник
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Animal Kingdom, bitch!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_D_DisplayName;Mirage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_D_DisplayName;Mirage;Мираж
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Sands consume you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_A_DisplayName;Ghostflame;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_A_DisplayName;Ghostflame;Призрачное Пламя
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_A_DisplayName;Amaranthine Bulwark;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_A_DisplayName;Amaranthine Bulwark;Вечный Оплот
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Let the darkness come. I am ready.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_D_DisplayName;Zeal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_D_DisplayName;Zeal;Рвение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The smoke of reason cannot blear the eye of devotion.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_D_DisplayName;Bounty Hunter;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_D_DisplayName;Bounty Hunter;Охотник-за-головами
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...For 500 bucks a month I'll kill whoever you want. But keep one thing in mind: I'd happily kill you for free.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_C_DisplayName;Rancor;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_C_DisplayName;Rancor;Злоба
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>From hell's heart I stab at thee; for hate's sake I spit my last breath at thee...";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_E_DisplayName;Wraith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_E_DisplayName;Wraith;Тень
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Just as you escape, I have arrived.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_A_DisplayName;The Locust;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_A_DisplayName;The Locust;Саранча
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Float like a butterfly, sting like an asshole.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_D_DisplayName;Necromancer's Raiment;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_D_DisplayName;Necromancer's Raiment;Одеяния Некроманта
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Waste not, want not.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_E_DisplayName;Amaranthine Bulwark;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_E_DisplayName;Amaranthine Bulwark;Вечный Оплот
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_E_Description;"<br><font color=""c7a758"">Ascendant Artifact.</font><br><br>Let the darkness come. I am ready.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_B_DisplayName;Axiom;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_B_DisplayName;Axiom;Аксиома
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My prey is truth.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_D_DisplayName;Nightfall;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_D_DisplayName;Nightfall;Сумерки
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Darker than dread, heavier than lead.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_C_DisplayName;The Answerer;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_C_DisplayName;The Answerer;Довод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An artful negotiator.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_A_DisplayName;Mountain;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_A_DisplayName;Mountain;Гора
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Blunt your blades. Shatter your axes. The mountain does not yield.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_A_DisplayName;Pestilence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_A_DisplayName;Pestilence;Мор
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Biblical.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_C_DisplayName;The Savage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_C_DisplayName;The Savage;Дикарь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Higher intelligence, wide sympathies, a singleness of purpose.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_C_DisplayName;Nightmare;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_C_DisplayName;Nightmare;Кошмар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightmare_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Abandon your dreams; terror reigns.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_D_DisplayName;Eclipse;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_D_DisplayName;Eclipse;Замтение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Avert your eyes.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_D_DisplayName;Vertigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_D_DisplayName;Vertigo;Головокружение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'll put it on your tab.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_C_DisplayName;Pariah;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_C_DisplayName;Pariah;Изгой
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your hate makes me stronger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_C_DisplayName;Ambition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_C_DisplayName;Ambition;Тщеславие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Stop thinking as though the world belongs to someone else.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_E_DisplayName;Ghostflame;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_E_DisplayName;Ghostflame;Призрачное Пламя
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Eternal vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_E_DisplayName;Hibernaculum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_E_DisplayName;Hibernaculum;Берлога
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Winter is coming.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_E_DisplayName;The Locust;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_E_DisplayName;The Locust;Саранча
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Float like a butterfly, sting like an asshole.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_C_DisplayName;Coruscating Silks;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_C_DisplayName;Coruscating Silks;Искрящийся Шёлк
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Hard as diamond, fluid as thought.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_E_DisplayName;Mountain;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_E_DisplayName;Mountain;Гора
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Blunt your blades. Shatter your axes. The mountain does not yield.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_C_DisplayName;Wraith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_C_DisplayName;Wraith;Тень
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Just as you escape, I have arrived.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_E_DisplayName;Mirage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_E_DisplayName;Mirage;Мираж
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Sands consume you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_C_DisplayName;Antediluvian Carapace;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_C_DisplayName;Antediluvian Carapace;Допотопный Панцирь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant relic of a more civilized age.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_C_DisplayName;Empyrean Vestments;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_C_DisplayName;Empyrean Vestments;Небесные Облачения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immutable as destiny.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_D_DisplayName;Furin's Street Sweeper;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>To crush your enemies, see them driven before you, and to hear the lamentations of their women.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_D_DisplayName;Rancor;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_D_DisplayName;Rancor;Злоба
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>From hell's heart I stab at thee; for hate's sake I spit my last breath at thee...";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_C_DisplayName;Bounty Hunter;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_C_DisplayName;Bounty Hunter;Охотник-за-головами
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...For 500 bucks a month I'll kill whoever you want. But keep one thing in mind: I'd happily kill you for free.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_C_DisplayName;Zenith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_C_DisplayName;Zenith;Зенит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My time has come.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_C_DisplayName;Discipline;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_C_DisplayName;Discipline;Дисциплина
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You can always go back to being weak-willed and undisciplined.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_A_DisplayName;Nemesis;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_A_DisplayName;Nemesis;Возмездие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>No rest. No weakness. No Forgiveness. Only Vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_A_DisplayName;Ouroboros;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_A_DisplayName;Ouroboros;Уроборос
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>One is all.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_B_DisplayName;The Savage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_B_DisplayName;The Savage;Дикарь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Higher intelligence, wide sympathies, a singleness of purpose.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_E_DisplayName;Wendigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_E_DisplayName;Wendigo;Вендиго
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Eternal hunger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_C_DisplayName;Prismatic Barrier;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_C_DisplayName;Prismatic Barrier;Радужный Барьер
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Saffel's prize.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_E_DisplayName;The Leper;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_E_DisplayName;The Leper;Проказа
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Your flesh rejects you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_E_DisplayName;Convergence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_E_DisplayName;Convergence;Конвергенция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Focus.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_C_DisplayName;Urgency;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_C_DisplayName;Urgency;Срочность
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Do it.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_E_DisplayName;Empyrean Vestments;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_E_DisplayName;Empyrean Vestments;Небесные Облачения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Immutable as destiny.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_A_DisplayName;Furin's Street Sweeper;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>To crush your enemies, see them driven before you, and to hear the lamentations of their women.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_B_DisplayName;Mountain;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_B_DisplayName;Mountain;Гора
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Blunt your blades. Shatter your axes. The mountain does not yield.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_C_DisplayName;Hibernaculum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_C_DisplayName;Hibernaculum;Берлога
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Winter is coming.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_C_DisplayName;The Chthonian;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_C_DisplayName;The Chthonian;Хтоник
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Animal Kingdom, bitch!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_C_DisplayName;Ouroboros;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_C_DisplayName;Ouroboros;Уроборос
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>One is all.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_D_DisplayName;Patience;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_D_DisplayName;Patience;Терпение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>He who strikes last, strikes hardest.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_C_DisplayName;Vertigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_C_DisplayName;Vertigo;Головокружение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'll put it on your tab.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_C_DisplayName;Rod of Conviction;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_C_DisplayName;Rod of Conviction;Жезл Убеждения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I am the captain of my soul.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_E_DisplayName;Patience;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_E_DisplayName;Patience;Терпение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>He who strikes last, strikes hardest.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_A_DisplayName;Pariah;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_A_DisplayName;Pariah;Изгой
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your hate makes me stronger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_E_DisplayName;Rod of Command;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_E_DisplayName;Rod of Command;Жезл Приказов
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Spare the rod, spoil the child.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_C_DisplayName;The Locust;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_C_DisplayName;The Locust;Саранча
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Float like a butterfly, sting like an asshole.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_C_DisplayName;Arcturus;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_C_DisplayName;Arcturus;Арктур
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal refuge.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_C_DisplayName;Zeal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_C_DisplayName;Zeal;Рвение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zeal_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The smoke of reason cannot blear the eye of devotion.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_A_DisplayName;Wraith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_A_DisplayName;Wraith;Тень
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Just as you escape, I have arrived.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_D_DisplayName;Rod of Command;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_D_DisplayName;Rod of Command;Жезл Приказов
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Spare the rod, spoil the child.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_C_DisplayName;Lodestone;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_C_DisplayName;Lodestone;Магнетит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It always points north. And south. And east. And west.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_C_DisplayName;Abyss;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_C_DisplayName;Abyss;Бездна
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Older than darkness, crueler than time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_A_DisplayName;Expedition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_A_DisplayName;Expedition;Приключение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'm looking for someone to share in an adventure.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_D_DisplayName;Angel's Egg;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_D_DisplayName;Angel's Egg;Яйцо Ангела
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Keep precious things inside you or you will lose them.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_B_DisplayName;The Cannibal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_B_DisplayName;The Cannibal;Людоед
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It is important always to try new things.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_E_DisplayName;Marauder;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_E_DisplayName;Marauder;Мародёр
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Get in. Get out. Grab everything that you can carry; kill anyone in the way.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_E_DisplayName;Pariah;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_E_DisplayName;Pariah;Изгой
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Your hate makes me stronger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_D_DisplayName;The Cannibal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_D_DisplayName;The Cannibal;Людоед
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It is important always to try new things.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_B_DisplayName;Cataclysm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_B_DisplayName;Cataclysm;Катаклизм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You're all coming with me.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_B_DisplayName;Ouroboros;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_B_DisplayName;Ouroboros;Уроборос
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ouroboros_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>One is all.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_B_DisplayName;Ghostflame;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_B_DisplayName;Ghostflame;Призрачное Пламя
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_A_DisplayName;Patience;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_A_DisplayName;Patience;Терпение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>He who strikes last, strikes hardest.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_D_DisplayName;Wendigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_D_DisplayName;Wendigo;Вендиго
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal hunger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_C_DisplayName;Zodiac;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_C_DisplayName;Zodiac;Зодиак
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Memory of an awesome destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_A_DisplayName;The Cannibal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_A_DisplayName;The Cannibal;Людоед
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It is important always to try new things.";
 Rt\AMER_ArtifactUniques.lsx;AMER_LOOT_UNI_Shard_B_Description;Combine two to generate a more powerful fragment.;
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_D_DisplayName;Zenith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_D_DisplayName;Zenith;Зенит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My time has come.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_C_DisplayName;Cataclysm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_C_DisplayName;Cataclysm;Катаклизм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You're all coming with me.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_A_DisplayName;Mirage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_A_DisplayName;Mirage;Мираж
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Sands consume you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_C_DisplayName;The Jaguar;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_C_DisplayName;The Jaguar;Ягуар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant killer: swift, merciless, and beautiful.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_E_DisplayName;The Savage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_E_DisplayName;The Savage;Дикарь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheSavage_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>...Higher intelligence, wide sympathies, a singleness of purpose.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_E_DisplayName;Discipline;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_E_DisplayName;Discipline;Дисциплина
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>You can always go back to being weak-willed and undisciplined.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_D_DisplayName;Lodestone;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_D_DisplayName;Lodestone;Магнетит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It always points north. And south. And east. And west.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_D_DisplayName;Amaranthine Bulwark;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_D_DisplayName;Amaranthine Bulwark;Вечный Оплот
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Let the darkness come. I am ready.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_A_DisplayName;Lodestone;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_A_DisplayName;Lodestone;Магнетит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It always points north. And south. And east. And west.";
 Rt\AMER_ArtifactUniques.lsx;AMER_LOOT_UNI_Shard_D_Description;Combine two to generate a more powerful fragment.;
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_C_DisplayName;Angel's Egg;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_C_DisplayName;Angel's Egg;Яйцо Ангела
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Keep precious things inside you or you will lose them.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_A_DisplayName;The Answerer;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_A_DisplayName;The Answerer;Довод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An artful negotiator.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_D_DisplayName;Cataclysm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_D_DisplayName;Cataclysm;Катаклизм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You're all coming with me.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_B_DisplayName;Seraph;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_B_DisplayName;Seraph;Серафим
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal love.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_C_DisplayName;Ghostflame;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_C_DisplayName;Ghostflame;Призрачное Пламя
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ghostflame_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_B_DisplayName;Abyss;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_B_DisplayName;Abyss;Бездна
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Older than darkness, crueler than time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_E_DisplayName;Eye of the Storm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_E_DisplayName;Eye of the Storm;Глаз Бури
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Capacity of one.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_D_DisplayName;Marauder;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_D_DisplayName;Marauder;Мародёр
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Get in. Get out. Grab everything that you can carry; kill anyone in the way.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_E_DisplayName;Prismatic Barrier;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_E_DisplayName;Prismatic Barrier;Радужный Барьер
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Saffel's prize.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_D_DisplayName;Wraith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_D_DisplayName;Wraith;Тень
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wraith_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Just as you escape, I have arrived.";
 Rt\AMER_ArtifactUniques.lsx;AMER_LOOT_UNI_Shard_A_Description;Combine two to generate a usable fragment.;
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_D_DisplayName;Abyss;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_D_DisplayName;Abyss;Бездна
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Older than darkness, crueler than time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_D_DisplayName;Prophecy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_D_DisplayName;Prophecy;Пророчество
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Only through time is time conquered.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_A_DisplayName;Ambition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_A_DisplayName;Ambition;Тщеславие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Stop thinking as though the world belongs to someone else.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_B_DisplayName;Rod of Command;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_B_DisplayName;Rod of Command;Жезл Приказов
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Spare the rod, spoil the child.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_D_DisplayName;Apostacy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_D_DisplayName;Apostacy;Измена
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The Zenocide begins.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_A_DisplayName;Discipline;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_A_DisplayName;Discipline;Дисциплина
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You can always go back to being weak-willed and undisciplined.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_C_DisplayName;The Vault;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_C_DisplayName;The Vault;Сокровищница
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...They respect a man's privacy here, particularly if he has a fortune.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_C_DisplayName;Famine;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_C_DisplayName;Famine;Голод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Third am I.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_A_DisplayName;Zenith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_A_DisplayName;Zenith;Зенит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My time has come.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_E_DisplayName;Dread;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_E_DisplayName;Dread;Трепет
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>I will show you fear in a handful of dust.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_B_DisplayName;Momentum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_B_DisplayName;Momentum;Инерция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>A body in motion stays in motion, until it gets shot with this.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_E_DisplayName;Arcturus;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_E_DisplayName;Arcturus;Арктур
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Eternal refuge.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_C_DisplayName;Pestilence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_C_DisplayName;Pestilence;Мор
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Biblical.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_A_DisplayName;The Vault;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_A_DisplayName;The Vault;Сокровищница
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...They respect a man's privacy here, particularly if he has a fortune.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_E_DisplayName;Expedition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_E_DisplayName;Expedition;Приключение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>I'm looking for someone to share in an adventure.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_B_DisplayName;Patience;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_B_DisplayName;Patience;Терпение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>He who strikes last, strikes hardest.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_D_DisplayName;Leviathan;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_D_DisplayName;Leviathan;Левиафан
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immortal and indifferent as the sea.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_E_DisplayName;Cataclysm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_E_DisplayName;Cataclysm;Катаклизм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Cataclysm_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>You're all coming with me.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_B_DisplayName;The Answerer;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_B_DisplayName;The Answerer;Довод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An artful negotiator.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_A_DisplayName;Bounty Hunter;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_A_DisplayName;Bounty Hunter;Охотник-за-головами
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...For 500 bucks a month I'll kill whoever you want. But keep one thing in mind: I'd happily kill you for free.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_B_DisplayName;Vertigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_B_DisplayName;Vertigo;Головокружение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'll put it on your tab.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_E_DisplayName;Prophecy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_E_DisplayName;Prophecy;Пророчество
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Only through time is time conquered.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_C_DisplayName;Leviathan;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_C_DisplayName;Leviathan;Левиафан
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immortal and indifferent as the sea.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_C_DisplayName;Infernal Contract;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_C_DisplayName;Infernal Contract;Адский Контракт
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My soul is forfeit.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_E_DisplayName;Fecundity;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_E_DisplayName;Fecundity;Плодородие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>...Let the Earth bring forth....";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_C_DisplayName;Eclipse;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_C_DisplayName;Eclipse;Затмение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Avert your eyes.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_B_DisplayName;Prophecy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_B_DisplayName;Prophecy;Пророчество
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Only through time is time conquered.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_E_DisplayName;Bounty Hunter;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_E_DisplayName;Bounty Hunter;Охотник-за-головами
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>...For 500 bucks a month I'll kill whoever you want. But keep one thing in mind: I'd happily kill you for free.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_D_DisplayName;Fecundity;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_D_DisplayName;Fecundity;Плодородие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Let the Earth bring forth....";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_E_DisplayName;Abyss;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_E_DisplayName;Abyss;Бездна
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Older than darkness, crueler than time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_A_DisplayName;Convergence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_A_DisplayName;Convergence;Конвергенция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Focus.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_C_DisplayName;Seraph;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_C_DisplayName;Seraph;Серафим
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal love.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_D_DisplayName;The Jaguar;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_D_DisplayName;The Jaguar;Ягуар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant killer: swift, merciless, and beautiful.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_D_DisplayName;Dread;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_D_DisplayName;Dread;Трепет
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I will show you fear in a handful of dust.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_A_DisplayName;Momentum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_A_DisplayName;Momentum;Инерция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>A body in motion stays in motion, until it gets shot with this.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_C_DisplayName;Marauder;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_C_DisplayName;Marauder;Мародёр
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Marauder_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Get in. Get out. Grab everything that you can carry; kill anyone in the way.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_B_DisplayName;Furin's Street Sweeper;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>To crush your enemies, see them driven before you, and to hear the lamentations of their women.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_B_DisplayName;The Locust;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_B_DisplayName;The Locust;Саранча
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Float like a butterfly, sting like an asshole.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_C_DisplayName;Face of the Fallen;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_C_DisplayName;Face of the Fallen;Лик Падшего
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Gone but not forgotten.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_B_DisplayName;Hibernaculum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_B_DisplayName;Hibernaculum;Берлога
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Hibernaculum_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Winter is coming.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_D_DisplayName;Eye of the Storm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_D_DisplayName;Eye of the Storm;Глаз Бури
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Capacity of one.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_E_DisplayName;Eclipse;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_E_DisplayName;Eclipse;Затмение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Eclipse_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Avert your eyes.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_C_DisplayName;Rod of Abeyance;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_C_DisplayName;Rod of Abeyance;Жезл Безвременья
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>In the fullness of time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_E_DisplayName;Zenith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_E_DisplayName;Zenith;Зенит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>My time has come.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_B_DisplayName;Nemesis;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_B_DisplayName;Nemesis;Возмездие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>No rest. No weakness. No Forgiveness. Only Vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_D_DisplayName;Lambent Blade;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_D_DisplayName;Lambent Blade;Сияющее Лезвие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Brighter than hope, swifter than defeat.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_E_DisplayName;Apostacy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_E_DisplayName;Apostacy;Измена
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Apostacy_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>The Zenocide begins.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_C_DisplayName;Prophecy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_C_DisplayName;Prophecy;Пророчество
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Only through time is time conquered.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_A_DisplayName;Leviathan;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_A_DisplayName;Leviathan;Левиафан
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Leviathan_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immortal and indifferent as the sea.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_B_DisplayName;Amaranthine Bulwark;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_B_DisplayName;Amaranthine Bulwark;Вечный Оплот
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AmaranthineBulwark_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Let the darkness come. I am ready.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_A_DisplayName;Prophecy;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_A_DisplayName;Prophecy;Пророчество
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Prophecy_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Only through time is time conquered.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_C_DisplayName;Fecundity;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_C_DisplayName;Fecundity;Плодородие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Let the Earth bring forth....";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_E_DisplayName;Famine;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_E_DisplayName;Famine;Голод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Third am I.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_B_DisplayName;The Leper;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_B_DisplayName;The Leper;Проказа
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your flesh rejects you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_B_DisplayName;Arcturus;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_B_DisplayName;Arcturus;Арктур
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal refuge.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_B_DisplayName;Coruscating Silks;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_B_DisplayName;Coruscating Silks;Искрящийся Шёлк
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Hard as diamond, fluid as thought.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_D_DisplayName;Malleus Maleficarum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_D_DisplayName;Malleus Maleficarum;Молот Ведьм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The hammer of witches, the fist of the inquisition.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_E_DisplayName;Sacrifice;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_E_DisplayName;Sacrifice;Жертва
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Might at the cost of mettle.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_C_DisplayName;Patience;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_C_DisplayName;Patience;Терпение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Patience_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>He who strikes last, strikes hardest.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_B_DisplayName;Rod of Conviction;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_B_DisplayName;Rod of Conviction;Жезл Убеждения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I am the captain of my soul.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_B_DisplayName;Ambition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_B_DisplayName;Ambition;Тщеславие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Stop thinking as though the world belongs to someone else.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_B_DisplayName;Fecundity;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_B_DisplayName;Fecundity;Плодородие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Let the Earth bring forth....";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_C_DisplayName;Expedition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_C_DisplayName;Expedition;Приключение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'm looking for someone to share in an adventure.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_A_DisplayName;The Jaguar;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_A_DisplayName;The Jaguar;Ягуар
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheJaguar_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant killer: swift, merciless, and beautiful.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_A_DisplayName;Abyss;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_A_DisplayName;Abyss;Бездна
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Abyss_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Older than darkness, crueler than time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_D_DisplayName;Expedition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_D_DisplayName;Expedition;Приключение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'm looking for someone to share in an adventure.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_C_DisplayName;The Leper;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_C_DisplayName;The Leper;Проказа
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your flesh rejects you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_E_DisplayName;Rod of Abeyance;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_E_DisplayName;Rod of Abeyance;Жезл Безвременья
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>In the fullness of time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_D_DisplayName;Coruscating Silks;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_D_DisplayName;Coruscating Silks;Искрящийся Шёлк
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Hard as diamond, fluid as thought.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_D_DisplayName;Pariah;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_D_DisplayName;Pariah;Изгой
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your hate makes me stronger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_C_DisplayName;Malleus Maleficarum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_C_DisplayName;Malleus Maleficarum;Молот Ведьм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The hammer of witches, the fist of the inquisition.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_D_DisplayName;Sacrifice;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_D_DisplayName;Sacrifice;Жертва
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Might at the cost of mettle.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_E_DisplayName;Necromancer's Raiment;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_E_DisplayName;Necromancer's Raiment;Одеяния Некроманта
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Waste not, want not.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_C_DisplayName;Mountain;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_C_DisplayName;Mountain;Гора
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mountain_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Blunt your blades. Shatter your axes. The mountain does not yield.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_C_DisplayName;Lambent Blade;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_C_DisplayName;Lambent Blade;Сияющее Лезвие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Brighter than hope, swifter than defeat.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_E_DisplayName;Rancor;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_E_DisplayName;Rancor;Злоба
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Rancor_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>From hell's heart I stab at thee; for hate's sake I spit my last breath at thee...";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_E_DisplayName;Angel's Egg;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_E_DisplayName;Angel's Egg;Яйцо Ангела
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AngelsEgg_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Keep precious things inside you or you will lose them.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_A_DisplayName;The Leper;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_A_DisplayName;The Leper;Проказа
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLeper_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your flesh rejects you.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_C_DisplayName;Nemesis;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_C_DisplayName;Nemesis;Возмездие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>No rest. No weakness. No Forgiveness. Only Vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_E_DisplayName;The Cannibal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_E_DisplayName;The Cannibal;Людоед
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>It is important always to try new things.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_A_DisplayName;Prismatic Barrier;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_A_DisplayName;Prismatic Barrier;Радужный Барьер
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Saffel's prize.";
 Rt\AMER_ArtifactUniques.lsx;AMER_LOOT_UNI_Shard_C_Description;Combine two to generate a more powerful fragment.;
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_E_DisplayName;Urgency;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_E_DisplayName;Urgency;Срочность
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Do it.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_E_DisplayName;The Chthonian;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_E_DisplayName;The Chthonian;Хтоник
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheChthonian_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Animal Kingdom, bitch!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_C_DisplayName;Necromancer's Raiment;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_C_DisplayName;Necromancer's Raiment;Одеяния Некроманта
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_NecromancersRaiment_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Waste not, want not.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_D_DisplayName;Nemesis;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_D_DisplayName;Nemesis;Возмездие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>No rest. No weakness. No Forgiveness. Only Vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_E_DisplayName;Infernal Contract;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_E_DisplayName;Infernal Contract;Адский Контракт
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_InfernalContract_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>My soul is forfeit.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_B_DisplayName;Pariah;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_B_DisplayName;Pariah;Изгой
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pariah_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Your hate makes me stronger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_A_DisplayName;Seraph;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_A_DisplayName;Seraph;Серафим
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal love.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_E_DisplayName;Momentum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_E_DisplayName;Momentum;Инерция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>A body in motion stays in motion, until it gets shot with this.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_B_DisplayName;Expedition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_B_DisplayName;Expedition;Приключение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Expedition_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'm looking for someone to share in an adventure.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_C_DisplayName;Dread;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_C_DisplayName;Dread;Трепет
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Dread_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I will show you fear in a handful of dust.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_E_DisplayName;The Answerer;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_E_DisplayName;The Answerer;Довод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>An artful negotiator.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_D_DisplayName;Famine;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_D_DisplayName;Famine;Голод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Third am I.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_D_DisplayName;Prismatic Barrier;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_D_DisplayName;Prismatic Barrier;Радужный Барьер
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Saffel's prize.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_A_DisplayName;Arcturus;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_A_DisplayName;Arcturus;Арктур
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal refuge.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_D_DisplayName;The Locust;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_D_DisplayName;The Locust;Саранча
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheLocust_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Float like a butterfly, sting like an asshole.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_B_DisplayName;Convergence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_B_DisplayName;Convergence;Конвергенция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Focus.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_C_DisplayName;Momentum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_C_DisplayName;Momentum;Инерция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Momentum_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>A body in motion stays in motion, until it gets shot with this.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_D_DisplayName;Gram, Sword of Grief;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Greatness at the cost of goodness.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_C_DisplayName;Wendigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_C_DisplayName;Wendigo;Вендиго
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal hunger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_A_DisplayName;Urgency;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_A_DisplayName;Urgency;Срочность
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Do it.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_E_DisplayName;Fool's Crest;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_E_DisplayName;Fool's Crest;Колпак Шута
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FoolsCrest_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>The forgotten Harlequin.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_E_DisplayName;Face of the Fallen;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_E_DisplayName;Face of the Fallen;Лик Падшего
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_FaceOfTheFallen_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Gone but not forgotten.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_D_DisplayName;Urgency;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_D_DisplayName;Urgency;Срочность
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Do it.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_C_DisplayName;Convergence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_C_DisplayName;Convergence;Конвергенция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Focus.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_E_DisplayName;Exaltation;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_E_DisplayName;Exaltation;Восторг
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>...Look on my works, ye Mighty, and despair!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_B_DisplayName;Bounty Hunter;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_B_DisplayName;Bounty Hunter;Охотник-за-головами
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_BountyHunter_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...For 500 bucks a month I'll kill whoever you want. But keep one thing in mind: I'd happily kill you for free.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_A_DisplayName;Rod of Conviction;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_A_DisplayName;Rod of Conviction;Жезл Убеждения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I am the captain of my soul.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_B_DisplayName;Zenith;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_B_DisplayName;Zenith;Зенит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zenith_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My time has come.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_E_DisplayName;Gram, Sword of Grief;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Greatness at the cost of goodness.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_D_DisplayName;Rod of Abeyance;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_D_DisplayName;Rod of Abeyance;Жезл Безвременья
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfAbeyance_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>In the fullness of time.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_D_DisplayName;The Vault;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_D_DisplayName;The Vault;Сокровищница
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...They respect a man's privacy here, particularly if he has a fortune.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_C_DisplayName;Rod of Command;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_C_DisplayName;Rod of Command;Жезл Приказов
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfCommand_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Spare the rod, spoil the child.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_A_DisplayName;Zodiac;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_A_DisplayName;Zodiac;Зодиак
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Memory of an awesome destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_A_DisplayName;Fecundity;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_A_DisplayName;Fecundity;Плодородие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Fecundity_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Let the Earth bring forth....";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_D_DisplayName;Empyrean Vestments;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_D_DisplayName;Empyrean Vestments;Небесные Облачения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EmpyreanVestments_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Immutable as destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_E_DisplayName;Rod of Conviction;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_E_DisplayName;Rod of Conviction;Жезл Убеждения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>I am the captain of my soul.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_D_DisplayName;Rod of Conviction;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_D_DisplayName;Rod of Conviction;Жезл Убеждения
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_RodOfConviction_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I am the captain of my soul.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_C_DisplayName;Furin's Street Sweeper;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Furin_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>To crush your enemies, see them driven before you, and to hear the lamentations of their women.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_E_DisplayName;Ambition;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_E_DisplayName;Ambition;Тщеславие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Ambition_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Stop thinking as though the world belongs to someone else.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_E_DisplayName;Coruscating Silks;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_E_DisplayName;Coruscating Silks;Искрящийся Шёлк
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_CoruscatingSilks_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Hard as diamond, fluid as thought.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_B_DisplayName;Zodiac;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_B_DisplayName;Zodiac;Зодиак
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Zodiac_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Memory of an awesome destiny.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_E_DisplayName;Lambent Blade;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_E_DisplayName;Lambent Blade;Сияющее Лезвие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Brighter than hope, swifter than defeat.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_E_DisplayName;Antediluvian Carapace;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_E_DisplayName;Antediluvian Carapace;Допотопный Панцирь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>An elegant relic of a more civilized age.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_D_DisplayName;Arcturus;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_D_DisplayName;Arcturus;Арктур
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Arcturus_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal refuge.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_B_DisplayName;Prismatic Barrier;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_B_DisplayName;Prismatic Barrier;Радужный Барьер
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_PrismaticBarrier_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Saffel's prize.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_C_DisplayName;Nightfall;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_C_DisplayName;Nightfall;Сумерки
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nightfall_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Darker than dread, heavier than lead.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_A_DisplayName;Axiom;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_A_DisplayName;Axiom;Аксиома
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Axiom_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>My prey is truth.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_E_DisplayName;Nemesis;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_E_DisplayName;Nemesis;Возмездие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Nemesis_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>No rest. No weakness. No Forgiveness. Only Vengeance.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_A_DisplayName;Vertigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_A_DisplayName;Vertigo;Головокружение
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Vertigo_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>I'll put it on your tab.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_D_DisplayName;Pestilence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_D_DisplayName;Pestilence;Мор
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Pestilence_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Biblical.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_E_DisplayName;Seraph;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_E_DisplayName;Seraph;Серафим
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>Eternal love.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_C_DisplayName;The Cannibal;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_C_DisplayName;The Cannibal;Людоед
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheCannibal_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>It is important always to try new things.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_C_DisplayName;Gram, Sword of Grief;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_GramSwordOfGrief_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Greatness at the cost of goodness.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_B_DisplayName;Lambent Blade;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_B_DisplayName;Lambent Blade;Сияющее Лезвие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Brighter than hope, swifter than defeat.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_E_DisplayName;Lodestone;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_E_DisplayName;Lodestone;Магнетит
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Lodestone_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>It always points north. And south. And east. And west.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_A_DisplayName;Lambent Blade;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_A_DisplayName;Lambent Blade;Сияющее Лезвие
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_LambentBlade_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Brighter than hope, swifter than defeat.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_D_DisplayName;Exaltation;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_D_DisplayName;Exaltation;Восторг
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Look on my works, ye Mighty, and despair!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_D_DisplayName;Convergence;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_D_DisplayName;Convergence;Конвергенция
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Convergence_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Focus.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_B_DisplayName;Malleus Maleficarum;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_B_DisplayName;Malleus Maleficarum;Молот Ведьм
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_MalleusMaleficarum_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>The hammer of witches, the fist of the inquisition.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_B_DisplayName;Exaltation;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_B_DisplayName;Exaltation;Восторг
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Exaltation_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>...Look on my works, ye Mighty, and despair!";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_E_DisplayName;The Vault;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_E_DisplayName;The Vault;Сокровищница
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheVault_E_Description;"<br><font color=""c7a758"">Ascendant Artifact</font><br><br>...They respect a man's privacy here, particularly if he has a fortune.";
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_DrogsLuck_DisplayName;Drog's Luck;
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_DrogsLuck_Description;He was Fire, he was Death.;
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_D_DisplayName;Antediluvian Carapace;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_D_DisplayName;Antediluvian Carapace;Допотопный Панцирь
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_AntediluvianCarapace_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An elegant relic of a more civilized age.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_A_DisplayName;Sacrifice;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_A_DisplayName;Sacrifice;Жертва
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Sacrifice_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Might at the cost of mettle.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_D_DisplayName;Seraph;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_D_DisplayName;Seraph;Серафим
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Seraph_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal love.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_C_DisplayName;Eye of the Storm;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_C_DisplayName;Eye of the Storm;Глаз Бури
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_EyeOfTheStorm_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Capacity of one.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_D_DisplayName;The Answerer;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_D_DisplayName;The Answerer;Довод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_TheAnswerer_D_Description;"<br><font color=""c7a758"">Wonderous Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>An artful negotiator.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_A_DisplayName;Wendigo;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_A_DisplayName;Wendigo;Вендиго
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Wendigo_A_Description;"<br><font color=""c7a758"">Minor Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Eternal hunger.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_B_DisplayName;Urgency;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_B_DisplayName;Urgency;Срочность
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Urgency_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Do it.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_B_DisplayName;Famine;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_B_DisplayName;Famine;Голод
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Famine_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Third am I.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_B_DisplayName;Discipline;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_B_DisplayName;Discipline;Дисциплина
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Discipline_B_Description;"<br><font color=""c7a758"">Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>You can always go back to being weak-willed and undisciplined.";
-Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_C_DisplayName;Mirage;
+Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_C_DisplayName;Mirage;Мираж
 Rt\AMER_ArtifactUniques.lsx;AMER_UNI_Mirage_C_Description;"<br><font color=""c7a758"">Exceptional Artifact<br>May be empowered with shards of other Artifacts.</font><br><br>Sands consume you.";
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_BorrowedTime_Description;<br>Scoundrel skills are skills for rogues and thieves. High Dexterity improves these skills. Read this book to learn this skill.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_AmberPrison_Description;<br>Geomancer Spells are Earth-based magic spells. High Intelligence improves these spells. Read this book to learn the spell.;
-Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_PATCH_DisplayName;Epic Encounters;
-Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_PATCH_Description;Thanks for playing!;
+Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_PATCH_DisplayName;Epic Encounters;Былинные битвы
+Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_PATCH_Description;Thanks for playing!;Спасибо, что играете!
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Depreciated_Description;This journal is packed with lewd personal entries and sketches--an embarassing find indeed!;Пьеса о несчастной аргонианской девушке и её тяжёлой жизни в поместье одного малоизвестного вельможи из дома Хлаалу.
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Squander_Description;<br>Scoundrel skills are skills for rogues and thieves. High Dexterity improves these skills. Read this book to learn this skill.;
 Rt\AMER_Books_Scrolls.lsx;AMER_BOOK_Skill_Fire_Rebirth_Description;<br>Pyrokinetic Spells are Fire-based spells. High Intelligence improves these spells. Read this book to learn this spell.;
