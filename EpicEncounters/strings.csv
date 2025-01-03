@@ -2871,7 +2871,7 @@ Ln\BAAR_WeaponModAdjectives.lsx;Avatar of Frost's;Hibernal;Зимн.
 Ln\BAAR_WeaponModAdjectives.lsx;of Thin Air;of Concealment;сокрытия
 Ln\BAAR_WeaponModAdjectives.lsx;Magician's;Concealing;Скрывающ.
 Ln\BAAR_WeaponModAdjectives.lsx;Hateful;Hateful;Ненавистн.
-Ln\BAAR_WeaponModAdjectives.lsx;of Holiness;of Consecration;
+Ln\BAAR_WeaponModAdjectives.lsx;of Holiness;of Consecration;освящения
 Ln\BAAR_WeaponModAdjectives.lsx;Quickening;Expeditious;Поспешн.
 Ln\BAAR_WeaponModAdjectives.lsx;of the Stone Shield;of Fortification;укрепления
 Ln\BAAR_WeaponModAdjectives.lsx;of Cleanliness;of Cthonians;хтоничности
@@ -3927,7 +3927,7 @@ Rt\AMER_Items.lsx;CON_ENEMY_Potion_A_Health_Medium_Description;A medium-sized el
 Rt\AMER_Items.lsx;AMER_WPN_ObsidianColossus_Description;Even the fraying strips of Vernivian leather wound around the handle of this hammer cannot protect you from Rot. That is, unless you are skilled in Tenebrium use.;
 Rt\AMER_Items.lsx;AMER_LOOT_TormentedSwole_Description;You weren't supposed to find one of these! Keep it as a badge of pride or combine with Pixie Dust to make a Tormented Soul.;
 Rt\AMER_Items.lsx;AMER_WPN_2hMace_E_Description;This richly-designed warhammer is of Dwarven origin. From the quantity of dried blood upon the handle, it appears to have seen more than one battle in the none-too-distant past.;
-Rt\AMER_Items.lsx;AMER_ITEM_FreezingTrap_DisplayName;Freezing Trap;
+Rt\AMER_Items.lsx;AMER_ITEM_FreezingTrap_DisplayName;Freezing Trap;Морозная ловушка
 Rt\AMER_Items.lsx;AMER_TEST_Hearthstone_DisplayName;Hearthstone;
 Rt\AMER_Items.lsx;AMER_TEST_Hearthstone_Description;BOIS! LOOK WHU IT IS! COME SIT DAEWN BAI THA HARRRTH!;
 Rt\AMER_Items.lsx;AMER_LOOT_WinterWolfPelt_DisplayName;Winterwolf Pelt;
@@ -3961,9 +3961,9 @@ Rt\AMER_LootOverride.lsx;AMER_MidnightOil_Override_Description;This journal is p
 Rt\AMER_LootOverride.lsx;AMER_CrawlingInfestation_Override_Description;This journal is packed with lewd personal entries and sketches--an embarassing find indeed!;
 Rt\AMER_LootOverride.lsx;LOOT_Essence_Air_A_Description;A cool wind blows from the Spring Realm of Vernivia directly into this feather-light, enchanted orb. ;
 Rt\AMER_player.lsx;NPC_Henchman_DisplayName;Henchman;
-Rt\AMER_player.lsx;Companion_Wolgraff_DisplayName;Wolgraff;
-Rt\AMER_player.lsx;Companion_Bairdotr_DisplayName;Bairdotr;
-Rt\AMER_Summons.lsx;Summons_Earth_Spider_DisplayName;Spider;
+Rt\AMER_player.lsx;Companion_Wolgraff_DisplayName;Wolgraff;Вольграфф
+Rt\AMER_player.lsx;Companion_Bairdotr_DisplayName;Bairdotr;Байрдоттир
+Rt\AMER_Summons.lsx;Summons_Earth_Spider_DisplayName;Spider;Паук
 Rt\AMER_Wands.lsx;WPN_Wand_C_Water_Description;This wand is sheathed in icy crystals, vapour swirling in the air around it. Still, it is oddly warm and comfortable in your hand.;
 Rt\AMER_Wands.lsx;WPN_Wand_C_Air_Description;A wand encased with static energy, it even gives your fingertips a light shock when touched.;
 Rt\AMER_Wands.lsx;WPN_Wand_B_Fire_Description;"Wildfire sparks from this hardy wand; if you're very quiet, you can hear its inner embers crackle.";
