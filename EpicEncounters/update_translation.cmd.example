@@ -1,4 +1,0 @@
-@echo off
-pushd %~dp0
-python tt.py text_to_game strings.csv C:\Users\Roma\OneDrive\Dev\divinity\EpicEncounters
-popd
